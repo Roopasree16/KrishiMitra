@@ -1,0 +1,111 @@
+.alert {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 16px;
+  border-radius: 8px;
+  border: 1px solid;
+  gap: 12px;
+  animation: slideIn 0.3s ease;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.alert-error {
+  background: #fee2e2;
+  border-color: #fecaca;
+  color: #991b1b;
+}
+
+.alert-success {
+  background: #dcfce7;
+  border-color: #bbf7d0;
+  color: #166534;
+}
+
+.alert-warning {
+  background: #fef3c7;
+  border-color: #fde68a;
+  color: #92400e;
+}
+
+.alert-info {
+  background: #dbeafe;
+  border-color: #bfdbfe;
+  color: #0c4a6e;
+}
+
+.content {
+  display: flex;
+  gap: 12px;
+  flex: 1;
+  align-items: flex-start;
+}
+
+.icon {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  margin-top: 2px;
+}
+
+.textContent {
+  flex: 1;
+}
+
+.title {
+  margin: 0 0 4px 0;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.message {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.actions {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.closeBtn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  opacity: 0.7;
+  transition: all 0.2s;
+}
+
+.closeBtn:hover {
+  opacity: 1;
+  background: rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 640px) {
+  .alert {
+    flex-direction: column;
+  }
+
+  .actions {
+    width: 100%;
+    justify-content: flex-end;
+  }
+}

@@ -1,0 +1,133 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+#virtual environment
+venv/
+__pycache__/
+*.pyc
+.env
+
+farmer_chat-master/backend/__pycache__/
+farmer_chat-master/backend/*.pyc
+farmer_chat-master/backend/chatbot_env/
+
+dataset/raw/
+*.jpg
+*.png
+*.jpeg
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Environment variables
+farmer_chat-master/.env
+farmer_chat-master/.env.local
+farmer_chat-master/.env.*.local
+
+Expert_Recommendations-main/node_modules/
+Expert_Recommendations-main/dist/
+Expert_Recommendations-main/__pycache__/
+*.pyc
+venv/
+.env
+.vite/
+.DS_Store
+Thumbs.db
+
+
+Govt-Scheme-Loans-Frontend-frontend-integration/node_modules/
+Govt-Scheme-Loans-Frontend-frontend-integration/dist/
+Govt-Scheme-Loans-Frontend-frontend-integration/__pycache__/
+Govt-Scheme-Loans-Frontend-frontend-integration/*.pyc
+Govt-Scheme-Loans-Frontend-frontend-integration/backend/venv/
+.env
+.DS_Store
+Thumbs.db
+*/venv/
+
+node_modules/
+.env
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.vscode/
+coverage/
+dist/
+build/
+tmp/
+
+farmer_chat-master/venv/
+env/
+chatbot_env/
+*/chatbot_env/
+*/venv/
+
+# Node modules
+farmer_chat-master/node_modules/
+farmer_chat-master/npm-debug.log*
+farmer_chat-master/yarn-debug.log*
+farmer_chat-master/yarn-error.log*
+
+farmer_chat-master/frontend/node_modules/
+farmer_chat-master/frontend/.pnp
+farmer_chat-master/frontend/.pnp.js
+
+# testing
+farmer_chat-master/frontend/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Python
+farmer_chat-master/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+instance/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+
+# Node-specific cache
+.cache/

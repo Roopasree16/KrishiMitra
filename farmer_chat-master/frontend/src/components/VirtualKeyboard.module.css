@@ -1,0 +1,89 @@
+.keyboard {
+  background: #f9fafb;
+  border-top: 1px solid #e5e7eb;
+  padding: 12px;
+}
+
+.keyboardContent {
+  max-width: 4xl;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.key {
+  background: white;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  padding: 8px 12px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.1s;
+  color: #374151;
+  min-width: 32px;
+  text-align: center;
+}
+
+.key:hover {
+  background: #f3f4f6;
+  border-color: #9ca3af;
+  transform: translateY(-2px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.key:active {
+  transform: translateY(0);
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.spaceKey {
+  flex: 1;
+  min-width: 150px;
+}
+
+.backspaceKey {
+  min-width: 60px;
+}
+
+.enterKey {
+  min-width: 80px;
+}
+
+@media (max-width: 768px) {
+  .keyboard {
+    padding: 8px;
+  }
+
+  .keyboardContent {
+    gap: 6px;
+  }
+
+  .row {
+    gap: 4px;
+  }
+
+  .key {
+    padding: 6px 8px;
+    font-size: 12px;
+    min-width: 28px;
+  }
+
+  .spaceKey {
+    flex: 1;
+    min-width: 100px;
+  }
+
+  .backspaceKey,
+  .enterKey {
+    min-width: 50px;
+  }
+}

@@ -1,0 +1,2820 @@
+{
+  "Apple___Apple_scab": {
+    "en": {
+      "name": "Apple Scab",
+      "severity": "high",
+      "treatment": "Remove and destroy all infected leaves and fruits immediately to prevent spore spread. Apply fungicides starting at bud break and continue through petal fall, with reapplications every 7-10 days during wet weather. Focus on thorough coverage of new growth.",
+      "prevention": "Plant scab-resistant apple varieties like Liberty or Enterprise. Remove all fallen leaves in autumn as they harbor overwintering spores. Prune trees to improve air circulation and sunlight penetration. Apply dormant sprays before budbreak to reduce initial infection.",
+      "organic_treatment": "Apply sulfur fungicide as a preventative treatment before rain events. Neem oil can be used for light infections, applied every 7-14 days. Best results when applied early before symptoms appear.",
+      "recommended_insecticide_pesticide": "Captan: broad-spectrum protectant, apply preventatively. Mancozeb: effective protective fungicide for wet seasons. Myclobutanil: systemic option with curative properties, use when infection is present."
+    },
+    "hi": {
+      "name": "सेब का स्कैब (Apple Scab)",
+      "severity": "उच्च",
+      "treatment": "बीजाणुओं के प्रसार को रोकने के लिए सभी संक्रमित पत्तियों और फलों को तुरंत हटा दें और नष्ट कर दें। कली फूटने से कवकनाशी लगाना शुरू करें और पंखुड़ी गिरने तक जारी रखें।",
+      "prevention": "लिबर्टी या एंटरप्राइज जैसी स्कैब-प्रतिरोधी सेब की किस्में लगाएं। पतझड़ में गिरी हुई सभी पत्तियों को हटा दें।",
+      "organic_treatment": "बारिश से पहले निवारक उपचार के रूप में सल्फर कवकनाशी लगाएं। नीम के तेल का उपयोग हल्के संक्रमण के लिए किया जा सकता है।",
+      "recommended_insecticide_pesticide": "कैप्टन (Captan), मैनकोजेब (Mancozeb), मायक्लोबुटानिल (Myclobutanil)।"
+    },
+    "te": {
+      "name": "ఆపిల్ స్కాబ్",
+      "severity": "అధిక",
+      "treatment": "వ్యాప్తిని నిరోధించడానికి సోకిన ఆకులు మరియు పండ్లను వెంటనే నాశనం చేయండి. మొగ్గ దశ నుండి శిలీంధ్ర సంహారిణులను వాడండి.",
+      "prevention": "నిరోధక రకాలను నాటండి. పతనం సమయంలో రాలిన ఆకులను తొలగించండి. గాలి వెలుతురు తగిలేలా కత్తిరింపులు చేయండి.",
+      "organic_treatment": "సల్ఫర్ శిలీంధ్ర సంహారిణిని వాడండి. తక్కువ ఇన్ఫెక్షన్ ఉంటే వేప నూనెను వాడవచ్చు.",
+      "recommended_insecticide_pesticide": "కాప్టాన్, మాంకోజెబ్, మైక్లోబుటానిల్."
+    },
+    "ta": {
+      "name": "ஆப்பிள் ஸ்கேப்",
+      "severity": "அதிகம்",
+      "treatment": "பாதிக்கப்பட்ட இலைகள் மற்றும் பழங்களை உடனடியாக அகற்றவும். மொட்டு விடும் பருவம் முதல் பூஞ்சைக் கொல்லிகளைப் பயன்படுத்தவும்.",
+      "prevention": "நோய் எதிர்ப்புத் திறன் கொண்ட ரகங்களை நடவு செய்யவும். விழுந்த இலைகளை அப்புறப்படுத்தவும்.",
+      "organic_treatment": "கந்தகப் பூஞ்சைக் கொல்லி அல்லது வேம்பு எண்ணெயைப் பயன்படுத்தவும்.",
+      "recommended_insecticide_pesticide": "கேப்டான், மேன்கோசெப், மைக்ளோபுட்டானில்."
+    },
+    "kn": {
+      "name": "ಆಪಲ್ ಸ್ಕ್ಯಾಬ್",
+      "severity": "ಹೆಚ್ಚು",
+      "treatment": "ಸೋಂಕಿತ ಎಲೆ ಮತ್ತು ಹಣ್ಣುಗಳನ್ನು ತಕ್ಷಣ ನಾಶಪಡಿಸಿ. ಮೊಗ್ಗು ಒಡೆಯುವ ಹಂತದಿಂದ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ.",
+      "prevention": "ರೋಗ ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಬೆಳೆಸಿ. ಶರತ್ಕಾಲದಲ್ಲಿ ಬಿದ್ದ ಎಲೆಗಳನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸಿ.",
+      "organic_treatment": "ಗಂಧಕದ ಶಿಲೀಂಧ್ರನಾಶಕ ಅಥವಾ ಬೇವಿನ ಎಣ್ಣೆಯನ್ನು ಬಳಸಿ.",
+      "recommended_insecticide_pesticide": "ಕ್ಯಾಪ್ಟನ್, ಮ್ಯಾಂಕೋಜೆಬ್, ಮೈಕ್ಲೋಬುಟಾನಿಲ್."
+    },
+    "ml": {
+      "name": "ആപ്പിൾ സ്കാബ്",
+      "severity": "ഉയർന്നത്",
+      "treatment": "രോഗം ബാധിച്ച ഇലകളും പഴങ്ങളും ഉടൻ നശിപ്പിക്കുക. മുകുളങ്ങൾ വിരിയുന്നത് മുതൽ കുമിൾനാശിനികൾ പ്രയോഗിക്കുക.",
+      "prevention": "രോഗപ്രതിരോധ ശേഷിയുള്ള ഇനങ്ങൾ നടുക. വീണുകിടക്കുന്ന ഇലകൾ നീക്കം ചെയ്യുക.",
+      "organic_treatment": "സൾഫർ കുമിൾനാശിനി അല്ലെങ്കിൽ വേപ്പെണ്ണ ഉപയോഗിക്കുക.",
+      "recommended_insecticide_pesticide": "കാപ്റ്റാൻ, മാങ്കോസെബ്, മൈക്ലോബുട്ടാനിൽ."
+    },
+    "mr": {
+      "name": "अ‍ॅपल स्कॅब",
+      "severity": "उच्च",
+      "treatment": "संक्रमित पाने आणि फळे त्वरित नष्ट करा. कळी उमलल्यापासून बुरशीनाशकांचा वापर सुरू करा.",
+      "prevention": "रोगप्रतिकारक वाणांची लागवड करा. बागेची स्वच्छता राखा.",
+      "organic_treatment": "गंधक बुरशीनाशक किंवा कडुनिंबाच्या तेलाचा वापर करा.",
+      "recommended_insecticide_pesticide": "कॅप्टन, मॅन्कोझेब, मायक्लोबुटानिल."
+    },
+    "bn": {
+      "name": "অ্যাপেল স্ক্যাব",
+      "severity": "উচ্চ",
+      "treatment": "আক্রান্ত পাতা ও ফল দ্রুত ধ্বংস করুন। কুঁড়ি আসার সময় থেকে ছত্রাকনাশক প্রয়োগ করুন।",
+      "prevention": "রোগ প্রতিরোধী জাত চাষ করুন। ঝরা পাতা পরিষ্কার রাখুন।",
+      "organic_treatment": "সালফার ছত্রাকনাশক বা নিম তেল ব্যবহার করুন।",
+      "recommended_insecticide_pesticide": "ক্যাপটান, ম্যানকোজেব, মাইক্লোবুটানিল।"
+    },
+    "gu": {
+      "name": "સફરજન સ્કેબ",
+      "severity": "ઉચ્ચ",
+      "treatment": "ચેપગ્રસ્ત પાંદડા અને ફળોનો નાશ કરો. કળી ખીલતી વખતે ફૂગનાશકનો છંટકાવ શરૂ કરો.",
+      "prevention": "રોગ પ્રતિકારક જાતો રોપો. ખરી ગયેલા પાંદડા દૂર કરો.",
+      "organic_treatment": "સલ્ફર ફૂગનાશક અથવા લીમડાના તેલનો ઉપયોગ કરો.",
+      "recommended_insecticide_pesticide": "કેપ્ટાન, મેન્કોઝેબ, માયક્લોબ્યુટાનિલ."
+    }
+  },
+  "Apple___Black_rot": {
+    "en": {
+      "name": "Black Rot",
+      "severity": "high",
+      "treatment": "Prune infected branches 6-8 inches below visible cankers during dormancy. Remove all mummified fruits from trees and ground. Apply fungicides from pink bud through three weeks after petal fall, especially during wet periods.",
+      "prevention": "Practice strict orchard sanitation by removing dead wood and fruit mummies before spring. Reduce tree stress through proper watering and balanced fertilization. Improve air circulation with annual pruning. Avoid wounding trees during maintenance.",
+      "organic_treatment": "Copper fungicides applied during dormancy and at budbreak provide protective action. Most effective as preventative rather than curative treatment. Ensure complete coverage of trunk and branches.",
+      "recommended_insecticide_pesticide": "Thiophanate-methyl: systemic fungicide with protective and curative action. Mancozeb: protectant applied before infection periods, starting at pink bud stage."
+    },
+    "hi": {
+      "name": "ब्लैक रॉट (Black Rot)",
+      "severity": "उच्च",
+      "treatment": "सुप्त अवस्था के दौरान संक्रमित शाखाओं को काटें। पेड़ों और जमीन से सभी सूखे और सड़े हुए फलों को हटा दें।",
+      "prevention": "मरे हुए लकड़ी और फलों के अवशेषों को हटाकर बगीचे की सख्त सफाई रखें। संतुलित उर्वरक का प्रयोग करें।",
+      "organic_treatment": "तांबा (Copper) आधारित कवकनाशी का प्रयोग करें। यह निवारक उपचार के रूप में सबसे प्रभावी है।",
+      "recommended_insecticide_pesticide": "थियोफेनेट-मिथाइल, मैनकोजेब।"
+    },
+    "te": {
+      "name": "బ్లాక్ రాట్",
+      "severity": "అధిక",
+      "treatment": "సోకిన కొమ్మలను కత్తిరించండి. ఎండిపోయిన పండ్లను తోట నుండి తొలగించండి.",
+      "prevention": "తోటను శుభ్రంగా ఉంచుకోండి. చెట్లపై ఒత్తిడి తగ్గించడానికి సరైన నీరు మరియు ఎరువులు ఇవ్వండి.",
+      "organic_treatment": "కాపర్ శిలీంధ్ర సంహారిణులను వాడండి.",
+      "recommended_insecticide_pesticide": "థియోఫానేట్-మిథైల్, మాంకోజెబ్."
+    },
+    "ta": {
+      "name": "கருப்பு அழுகல்",
+      "severity": "அதிகம்",
+      "treatment": "பாதிக்கப்பட்ட கிளைகளை வெட்டி அகற்றவும். காய்ந்த அழுகிய பழங்களை மரத்திலிருந்து நீக்கவும்.",
+      "prevention": "தோட்டத்தை சுத்தமாக பராமரிக்கவும். சீரான நீர் மற்றும் உர மேலாண்மை அவசியம்.",
+      "organic_treatment": "தாமிரப் பூஞ்சைக் கொல்லிகளைப் பயன்படுத்தவும்.",
+      "recommended_insecticide_pesticide": "தியோபனேட்-மெத்தில், மேன்கோசெப்."
+    },
+    "kn": {
+      "name": "ಕಪ್ಪು ಕೊಳೆ ರೋಗ",
+      "severity": "ಹೆಚ್ಚು",
+      "treatment": "ಸೋಂಕಿತ ಕೊಂಬೆಗಳನ್ನು ಕತ್ತರಿಸಿ. ಒಣಗಿದ ಹಣ್ಣುಗಳನ್ನು ಮರ ಮತ್ತು ನೆಲದಿಂದ ತೆಗೆದುಹಾಕಿ.",
+      "prevention": "ತೋಟದ ನೈರ್ಮಲ್ಯ ಕಾಪಾಡಿ. ಸಮತೋಲಿತ ರಸಗೊಬ್ಬರ ಮತ್ತು ನೀರು ಒದಗಿಸಿ.",
+      "organic_treatment": "ತಾಮ್ರದ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಬಳಸಿ.",
+      "recommended_insecticide_pesticide": "ಥಿಯೋಫನೇಟ್-ಮಿಥೈಲ್, ಮ್ಯಾಂಕೋಜೆಬ್."
+    },
+    "ml": {
+      "name": "കറുത്ത ചീഞ്ഞഴുകൽ",
+      "severity": "ഉയർന്നത്",
+      "treatment": "രോഗം ബാധിച്ച ചില്ലകൾ മുറിച്ചു മാറ്റുക. ഉണങ്ങിയ പഴങ്ങൾ നീക്കം ചെയ്യുക.",
+      "prevention": "തോട്ടം വൃത്തിയായി സൂക്ഷിക്കുക. ശരിയായ ജലസേചനവും വളപ്രയോഗവും നടത്തുക.",
+      "organic_treatment": "കോപ്പർ കുമിൾനാശിനികൾ ഉപയോഗിക്കുക.",
+      "recommended_insecticide_pesticide": "തിയോഫനേറ്റ്-മീഥൈൽ, മാങ്കോസെബ്."
+    },
+    "mr": {
+      "name": "ब्लॅक रॉट",
+      "severity": "उच्च",
+      "treatment": "बाधित फांद्यांची छाटणी करा. वाळलेली फळे काढून टाका.",
+      "prevention": "बागेची स्वच्छता राखा. संतुलित खतांचा वापर करा.",
+      "organic_treatment": "कॉपर बुरशीनाशकांचा वापर करा.",
+      "recommended_insecticide_pesticide": "थिओफेनेट-मिथाइल, मॅन्કોझेब."
+    },
+    "bn": {
+      "name": "ব্ল্যাক রট",
+      "severity": "উচ্চ",
+      "treatment": "আক্রান্ত ডাল ছাঁটাই করুন। মমি হয়ে যাওয়া ফল বাগান থেকে সরিয়ে ফেলুন।",
+      "prevention": "বাগান পরিষ্কার পরিচ্ছন্ন রাখুন। সুষম সার ও জল প্রয়োগ করুন।",
+      "organic_treatment": "কপার ছত্রাকনাশক ব্যবহার করুন।",
+      "recommended_insecticide_pesticide": "থিওফানেট-মিথাইল, ম্যানকোজেব।"
+    },
+    "gu": {
+      "name": "કાળો સડો",
+      "severity": "ઉચ્ચ",
+      "treatment": "ચેપગ્રસ્ત ડાળીઓ કાપી નાખો. સુકાઈ ગયેલા ફળો દૂર કરો.",
+      "prevention": "બગીચાની સ્વચ્છતા જાળવો. યોગ્ય ખાતર અને પાણી આપો.",
+      "organic_treatment": "કોપર ફૂગનાશકોનો ઉપયોગ કરો.",
+      "recommended_insecticide_pesticide": "થિઓફેનેટ-મિથાઈલ, મેન્કોઝેબ."
+    }
+  },
+  "Apple___healthy": {
+    "en": {
+      "name": "Healthy Crop",
+      "severity": "none",
+      "treatment": "No treatment required. Continue regular monitoring for early disease detection.",
+      "prevention": "Maintain routine monitoring through weekly inspections during growing season. Provide balanced nutrition based on soil tests. Ensure adequate water during fruit development. Practice good orchard hygiene.",
+      "organic_treatment": "Not applicable for healthy plants.",
+      "recommended_insecticide_pesticide": "Not required. Focus on preventative cultural practices."
+    },
+    "hi": {
+      "name": "स्वस्थ फसल",
+      "severity": "कोई नहीं",
+      "treatment": "किसी उपचार की आवश्यकता नहीं है। नियमित निगरानी जारी रखें।",
+      "prevention": "मिट्टी परीक्षण के आधार पर संतुलित पोषण प्रदान करें। अच्छी स्वच्छता बनाए रखें।",
+      "organic_treatment": "लागू नहीं।",
+      "recommended_insecticide_pesticide": "आवश्यक नहीं।"
+    },
+    "te": {
+      "name": "ఆరోగ్యకరమైన పంట",
+      "severity": "ఏదీ లేదు",
+      "treatment": "చికిత్స అవసరం లేదు. క్రమం తప్పకుండా పర్యవేక్షించండి.",
+      "prevention": "నేల పరీక్షల ఆధారంగా పోషకాలు అందించండి. తగినంత నీరు ఇవ్వండి.",
+      "organic_treatment": "అవసరం లేదు.",
+      "recommended_insecticide_pesticide": "అవసరం లేదు."
+    },
+    "ta": {
+      "name": "ஆரோக்கியமான பயிர்",
+      "severity": "இல்லை",
+      "treatment": "சிகிச்சை தேவையில்லை. தொடர்ந்து கண்காணிப்பு அவசியம்.",
+      "prevention": "மண் பரிசோதனை செய்து உரமிடவும். முறையான நீர் மேலாண்மை தேவை.",
+      "organic_treatment": "தேவையில்லை.",
+      "recommended_insecticide_pesticide": "தேவையில்லை."
+    },
+    "kn": {
+      "name": "ಆರೋಗ್ಯಕರ ಬೆಳೆ",
+      "severity": "ಯಾವುದೂ ಇಲ್ಲ",
+      "treatment": "ಯಾವುದೇ ಚಿಕಿತ್ಸೆ ಅಗತ್ಯವಿಲ್ಲ. ನಿಯಮಿತವಾಗಿ ತಪಾಸಣೆ ಮಾಡಿ.",
+      "prevention": "ಮಣ್ಣಿನ ಪರೀಕ್ಷೆಯ ಆಧಾರದ ಮೇಲೆ ಪೋಷಕಾಂಶ ನೀಡಿ. ತೋಟದ ನೈರ್ಮಲ್ಯ ಕಾಪಾಡಿ.",
+      "organic_treatment": "ಅನ್ವಯಿಸುವುದಿಲ್ಲ.",
+      "recommended_insecticide_pesticide": "ಅಗತ್ಯವಿಲ್ಲ."
+    },
+    "ml": {
+      "name": "ആരോഗ്യകരമായ വിള",
+      "severity": "ഒന്നുമില്ല",
+      "treatment": "ചികിത്സ ആവശ്യമില്ല. പതിവായി നിരീക്ഷിക്കുക.",
+      "prevention": "മണ്ണ് പരിശോധന അനുസരിച്ച് വളം നൽകുക. ശരിയായ ജലസേചനം ഉറപ്പാക്കുക.",
+      "organic_treatment": "ബാധകമല്ല.",
+      "recommended_insecticide_pesticide": "ആവശ്യമില്ല."
+    },
+    "mr": {
+      "name": "निरोगी पीक",
+      "severity": "काहीही नाही",
+      "treatment": "उपचारांची गरज नाही. नियमित देखरेख ठेवा.",
+      "prevention": "माती परीक्षणाप्रमाणे खते द्या. योग्य पाणी पुरवठा करा.",
+      "organic_treatment": "गरज नाही.",
+      "recommended_insecticide_pesticide": "गरज नाही."
+    },
+    "bn": {
+      "name": "সুস্থ ফসল",
+      "severity": "কিছু না",
+      "treatment": "কোন চিকিৎসার প্রয়োজন নেই। নিয়মিত পর্যবেক্ষণ করুন।",
+      "prevention": "মাটি পরীক্ষা করে সুষম সার দিন। পর্যাপ্ত জল সেচ দিন।",
+      "organic_treatment": "প্রয়োজন নেই।",
+      "recommended_insecticide_pesticide": "প্রয়োজন নেই।"
+    },
+    "gu": {
+      "name": "સ્વસ્થ પાક",
+      "severity": "કંઈ નહીં",
+      "treatment": "કોઈ સારવારની જરૂર નથી. નિયમિત નિરીક્ષણ ચાલુ રાખો.",
+      "prevention": "જમીન પરીક્ષણ મુજબ પોષણ આપો. પૂરતું પાણી આપો.",
+      "organic_treatment": "લાગુ પડતું નથી.",
+      "recommended_insecticide_pesticide": "જરૂર નથી."
+    }
+  },
+"Apple___Cedar_apple_rust": {
+    "en": {
+      "name": "Cedar Apple Rust",
+      "severity": "medium",
+      "treatment": "Apply fungicides at early leaf emergence (green tip stage) and continue through bloom period. Make 3-4 applications at 7-10 day intervals during spring when spores are released from nearby junipers.",
+      "prevention": "Remove nearby cedar and juniper trees within 200 yards if possible, as they serve as alternate hosts. Plant rust-resistant apple cultivars. Monitor weather for wet spring conditions that favor infection.",
+      "organic_treatment": "Neem oil applied preventatively can reduce infection severity. Apply at leaf emergence and repeat every 7-14 days through bloom. Less effective than synthetic fungicides but provides some protection.",
+      "recommended_insecticide_pesticide": "Myclobutanil: systemic fungicide effective against rust diseases, apply at green tip. Propiconazole: protective and curative properties, use during spore release periods in spring."
+    },
+    "hi": {
+      "name": "सीडर एप्पल रस्ट",
+      "severity": "मध्यम",
+      "treatment": "पत्तियों के निकलने के शुरुआती चरण (ग्रीन टिप स्टेज) में कवकनाशी लगाएं। वसंत के दौरान 7-10 दिनों के अंतराल पर 3-4 बार प्रयोग करें।",
+      "prevention": "यदि संभव हो तो 200 गज के भीतर पास के देवदार (cedar) के पेड़ों को हटा दें। जंग-प्रतिरोधी सेब की किस्में लगाएं।",
+      "organic_treatment": "निवारक के रूप में लगाया गया नीम का तेल संक्रमण की गंभीरता को कम कर सकता है। इसे हर 7-14 दिनों में दोहराएं।",
+      "recommended_insecticide_pesticide": "मायक्लोबुटानिल (Myclobutanil), प्रोपिकोनाज़ोल (Propiconazole)।"
+    },
+    "te": {
+      "name": "సిడార్ ఆపిల్ రస్ట్",
+      "severity": "మధ్యస్థం",
+      "treatment": "ఆకులు మొలకెత్తే దశలో శిలీంధ్ర సంహారిణులను వాడండి. వసంతకాలంలో 7-10 రోజుల వ్యవధిలో 3-4 సార్లు దరఖాస్తు చేయండి.",
+      "prevention": "దగ్గరలో ఉన్న జునిపెర్ చెట్లను తొలగించండి. తుప్పు వ్యాధిని తట్టుకునే రకాలను నాటండి.",
+      "organic_treatment": "వేప నూనెను నివారణగా వాడటం వల్ల ఇన్ఫెక్షన్ తీవ్రత తగ్గుతుంది.",
+      "recommended_insecticide_pesticide": "మైక్లోబుటానిల్, ప్రోపికోనజోల్."
+    },
+    "ta": {
+      "name": "சிடார் ஆப்பிள் ரஸ்ட்",
+      "severity": "மிதமானது",
+      "treatment": "இலைகள் துளிர்விடும் ஆரம்ப நிலையில் பூஞ்சைக் கொல்லிகளைப் பயன்படுத்தவும். வசந்த காலத்தில் 7-10 நாட்கள் இடைவெளியில் 3-4 முறை தெளிக்கவும்.",
+      "prevention": "அருகிலுள்ள சிடார் மரங்களை அகற்றவும். துரு நோயை எதிர்க்கும் ஆப்பிள் ரகங்களை பயிரிடவும்.",
+      "organic_treatment": "வேம்பு எண்ணெய் தெளிப்பது நோய் பாதிப்பைக் குறைக்க உதவும்.",
+      "recommended_insecticide_pesticide": "மைக்ளோபுட்டானில், પ્રોપિકોનાઝોલ."
+    },
+    "kn": {
+      "name": "ಸಿಡಾರ್ ಆಪಲ್ ರಸ್ಟ್",
+      "severity": "ಮಧ್ಯಮ",
+      "treatment": "ಎಲೆಗಳು ಚಿಗುರುವ ಆರಂಭಿಕ ಹಂತದಲ್ಲಿ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಅನ್ವಯಿಸಿ. ವಸಂತಕಾಲದಲ್ಲಿ 7-10 ದಿನಗಳ ಅಂತರದಲ್ಲಿ 3-4 ಬಾರಿ ಸಿಂಪಡಿಸಿ.",
+      "prevention": "ಹತ್ತಿರದ ಸಿಡಾರ್ ಮತ್ತು ಜುನಿಪರ್ ಮರಗಳನ್ನು ತೆಗೆದುಹಾಕಿ. ತುಕ್ಕು ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಬೆಳೆಸಿ.",
+      "organic_treatment": "ಬೇವಿನ ಎಣ್ಣೆಯನ್ನು ಮುನ್ನೆಚ್ಚರಿಕೆಯಾಗಿ ಬಳಸುವುದರಿಂದ ಸೋಂಕಿನ ತೀವ್ರತೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "recommended_insecticide_pesticide": "ಮೈಕ್ಲೋಬುಟಾನಿಲ್, ಪ್ರೊಪಿಕೊನಜೋಲ್."
+    },
+    "ml": {
+      "name": "സിഡാർ ആപ്പിൾ റസ്റ്റ്",
+      "severity": "മിതമായ",
+      "treatment": "ഇലകൾ മുളയ്ക്കുന്ന ഘട്ടത്തിൽ കുമിൾനാശിനികൾ പ്രയോഗിക്കുക. വസന്തകാലത്ത് 7-10 ദിവസത്തെ ഇടവേളയിൽ 3-4 തവണ പ്രയോഗിക്കുക.",
+      "prevention": "അടുത്തുള്ള സിഡാർ മരങ്ങൾ നീക്കം ചെയ്യുക. തുരുമ്പ് രോഗത്തെ പ്രതിരോധിക്കുന്ന ഇനങ്ങൾ നടുക.",
+      "organic_treatment": "പ്രതിരോധ നടപടിയായി വേപ്പെണ്ണ ഉപയോഗിക്കുന്നത് രോഗതീവ്രത കുറയ്ക്കാൻ സഹായിക്കും.",
+      "recommended_insecticide_pesticide": "മൈക്ലോബുട്ടാനിൽ, പ്രൊപിക്കോണസോൾ."
+    },
+    "mr": {
+      "name": "सिडर ॲपल रस्ट",
+      "severity": "मध्यम",
+      "treatment": "पाने येण्याच्या सुरुवातीच्या काळात बुरशीनाशकांचा वापर करा. वसंत ऋतूत ७-१० दिवसांच्या अंतराने ३-४ वेळा फवारणी करा.",
+      "prevention": "जवळपासची सिडर आणि जुनिपर झाडे काढून टाका. रोगप्रतिकारक वाणांची निवड करा.",
+      "organic_treatment": "कडुनिंबाच्या तेलाचा वापर प्रतिबंधक म्हणून केल्यास रोगाची तीव्रता कमी होते.",
+      "recommended_insecticide_pesticide": "मायक्लोबुटानिल, प्रोपिकोनाझोल."
+    },
+    "bn": {
+      "name": "সিডার অ্যাপেল রাস্ট",
+      "severity": "মাঝারি",
+      "treatment": "পাতা গজানোর শুরুতে ছত্রাকনাশক প্রয়োগ করুন। বসন্তকালে ৭-১০ দিন অন্তর ৩-৪ বার স্প্রে করুন।",
+      "prevention": "কাছাকাছি সিডার গাছ থাকলে সরিয়ে ফেলুন। রোগ প্রতিরোধী জাত চাষ করুন।",
+      "organic_treatment": "নিম তেল ব্যবহার করলে সংক্রমণের তীব্রতা কমে।",
+      "recommended_insecticide_pesticide": "মাইক্লোবুটানিল, প্রোপিকোনাজোল।"
+    },
+    "gu": {
+      "name": "સીડર એપલ રસ્ટ",
+      "severity": "મધ્યમ",
+      "treatment": "પાંદડા નીકળવાના શરૂઆતના તબક્કામાં ફૂગનાશક લગાવો. વસંત દરમિયાન 7-10 દિવસના અંતરે 3-4 વખત છંટકાવ કરો.",
+      "prevention": "નજીકના સીડરના ઝાડ દૂર કરો. કાટ પ્રતિકારક જાતો રોપો.",
+      "organic_treatment": "લીમડાના તેલનો ઉપયોગ ચેપની ગંભીરતા ઘટાડી શકે છે.",
+      "recommended_insecticide_pesticide": "માયક્લોબ્યુટાનિલ, પ્રોપિકોનાઝોલ."
+    }
+  },
+  "Blueberry___healthy": {
+    "en": {
+      "name": "Healthy Crop",
+      "severity": "none",
+      "treatment": "No treatment required. Monitor plants regularly for any signs of stress or disease.",
+      "prevention": "Maintain soil pH between 4.5-5.5 using sulfur amendments if needed. Prune annually to remove old canes and improve air circulation. Mulch with pine bark or sawdust. Water consistently during berry development.",
+      "organic_treatment": "Not applicable for healthy plants.",
+      "recommended_insecticide_pesticide": "Not required. Maintain cultural practices for disease prevention."
+    },
+    "hi": {
+      "name": "स्वस्थ फसल",
+      "severity": "कोई नहीं",
+      "treatment": "किसी उपचार की आवश्यकता नहीं है। तनाव या बीमारी के संकेतों के लिए नियमित रूप से पौधों की निगरानी करें।",
+      "prevention": "मिट्टी का पीएच (pH) 4.5-5.5 के बीच बनाए रखें। हवा के संचार में सुधार के लिए वार्षिक छंटाई करें।",
+      "organic_treatment": "स्वस्थ पौधों के लिए लागू नहीं।",
+      "recommended_insecticide_pesticide": "आवश्यक नहीं। निवारक सांस्कृतिक प्रथाओं पर ध्यान दें।"
+    },
+    "te": {
+      "name": "ఆరోగ్యకరమైన పంట",
+      "severity": "ఏదీ లేదు",
+      "treatment": "చికిత్స అవసరం లేదు. మొక్కలను క్రమం తప్పకుండా పర్యవేక్షించండి.",
+      "prevention": "నేల pH ని 4.5-5.5 మధ్య ఉంచండి. గాలి వెలుతురు కోసం ప్రతి సంవత్సరం కత్తిరింపులు చేయండి.",
+      "organic_treatment": "అవసరం లేదు.",
+      "recommended_insecticide_pesticide": "అవసరం లేదు."
+    },
+    "ta": {
+      "name": "ஆரோக்கியமான பயிர்",
+      "severity": "இல்லை",
+      "treatment": "சிகிச்சை தேவையில்லை. செடிகளைத் தொடர்ந்து கண்காணிக்கவும்.",
+      "prevention": "மண்ணின் pH அளவை 4.5-5.5 ஆக பராமரிக்கவும். ஆண்டுதோறும் கத்தரித்து விடவும்.",
+      "organic_treatment": "தேவையில்லை.",
+      "recommended_insecticide_pesticide": "தேவையில்லை."
+    },
+    "kn": {
+      "name": "ಆರೋಗ್ಯಕರ ಬೆಳೆ",
+      "severity": "ಯಾವುದೂ ಇಲ್ಲ",
+      "treatment": "ಯಾವುದೇ ಚಿಕಿತ್ಸೆ ಅಗತ್ಯವಿಲ್ಲ. ನಿಯಮಿತವಾಗಿ ಗಮನಿಸಿ.",
+      "prevention": "ಮಣ್ಣಿನ pH ಮಟ್ಟವನ್ನು 4.5-5.5 ರ ನಡುವೆ ಇರಿಸಿ. ವಾರ್ಷಿಕವಾಗಿ ಸಮರುವಿಕೆ (Pruning) ಮಾಡಿ.",
+      "organic_treatment": "ಅನ್ವಯಿಸುವುದಿಲ್ಲ.",
+      "recommended_insecticide_pesticide": "ಅಗತ್ಯವಿಲ್ಲ."
+    },
+    "ml": {
+      "name": "ആരോഗ്യകരമായ വിള",
+      "severity": "ഒന്നുമില്ല",
+      "treatment": "ചികിത്സ ആവശ്യമില്ല. ചെടികൾ പതിവായി നിരീക്ഷിക്കുക.",
+      "prevention": "മണ്ണിന്റെ പി.എച്ച് (pH) 4.5-5.5 ആയി നിലനിർത്തുക. വർഷം തോറും പ്രൂണിംഗ് നടത്തുക.",
+      "organic_treatment": "ബാധകമല്ല.",
+      "recommended_insecticide_pesticide": "ആവശ്യമില്ല."
+    },
+    "mr": {
+      "name": "निरोगी पीक",
+      "severity": "काहीही नाही",
+      "treatment": "उपचारांची गरज नाही. नियमित निरीक्षण करा.",
+      "prevention": "मातीचा पीएच ४.५-५.५ दरम्यान ठेवा. दरवर्षी छाटणी करा आणि ओलावा टिकवून ठेवा.",
+      "organic_treatment": "गरज नाही.",
+      "recommended_insecticide_pesticide": "गरज नाही."
+    },
+    "bn": {
+      "name": "সুস্থ ফসল",
+      "severity": "কিছু না",
+      "treatment": "কোন চিকিৎসার প্রয়োজন নেই। নিয়মিত পর্যবেক্ষণ করুন।",
+      "prevention": "মাটির পিএইচ (pH) ৪.৫-৫.৫ এর মধ্যে রাখুন। নিয়মিত ডাল ছাঁটাই করুন।",
+      "organic_treatment": "প্রয়োজন নেই।",
+      "recommended_insecticide_pesticide": "প্রয়োজন নেই।"
+    },
+    "gu": {
+      "name": "સ્વસ્થ પાક",
+      "severity": "કંઈ નહીં",
+      "treatment": "કોઈ સારવારની જરૂર નથી. નિયમિત તપાસ કરતા રહો.",
+      "prevention": "જમીનનું pH મૂલ્ય 4.5-5.5 ની વચ્ચે રાખો. વાર્ષિક છટણી કરો.",
+      "organic_treatment": "લાગુ પડતું નથી.",
+      "recommended_insecticide_pesticide": "જરૂર નથી."
+    }
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "en": {
+      "name": "Powdery Mildew",
+      "severity": "medium",
+      "treatment": "Apply fungicides at the first appearance of white powdery patches on leaves. Continue applications every 10-14 days until symptoms subside. Remove heavily infected shoots to reduce spore load.",
+      "prevention": "Improve air circulation through proper tree spacing and annual pruning. Avoid excessive nitrogen fertilization which promotes susceptible new growth. Plant in full sun locations. Remove water sprouts promptly.",
+      "organic_treatment": "Sulfur fungicides are effective when applied before infection or at first symptoms. Neem oil provides moderate control, spray weekly during susceptible periods. Apply in cooler morning or evening hours to avoid leaf burn.",
+      "recommended_insecticide_pesticide": "Sulfur: traditional effective treatment for powdery mildew control. Hexaconazole: systemic fungicide for severe infections, provides longer protection between applications."
+    },
+    "hi": {
+      "name": "पाउडरी मिल्ड्यू (चूर्णिल आसिता)",
+      "severity": "मध्यम",
+      "treatment": "सफेद पाउडर जैसे धब्बे दिखने पर कवकनाशी लगाएं। लक्षणों के कम होने तक हर 10-14 दिनों में प्रयोग जारी रखें।",
+      "prevention": "पेड़ों के बीच उचित दूरी और वार्षिक छंटाई के माध्यम से हवा के संचार में सुधार करें। अत्यधिक नाइट्रोजन उर्वरक से बचें।",
+      "organic_treatment": "सल्फर कवकनाशी या नीम के तेल का साप्ताहिक छिड़काव करें। सुबह या शाम के ठंडे घंटों में प्रयोग करें।",
+      "recommended_insecticide_pesticide": "सल्फर (Sulfur), हेक्साकोनाज़ोल (Hexaconazole)।"
+    },
+    "te": {
+      "name": "బూజు తెగులు",
+      "severity": "మధ్యస్థం",
+      "treatment": "ఆకులపై తెల్లటి పొడి మచ్చలు కనిపించినప్పుడు శిలీంధ్ర సంహారిణులను వాడండి. 10-14 రోజులకోసారి పునరావృతం చేయండి.",
+      "prevention": "చెట్ల మధ్య సరైన దూరం పాటించండి. నత్రజని ఎరువుల అధిక వినియోగాన్ని తగ్గించండి.",
+      "organic_treatment": "సల్ఫర్ శిలీంధ్ర సంహారిణి లేదా వేప నూనెను వాడండి.",
+      "recommended_insecticide_pesticide": "సల్ఫర్, హెక్సాకోనజోల్."
+    },
+    "ta": {
+      "name": "சாம்பல் நோய்",
+      "severity": "மிதமானது",
+      "treatment": "வெள்ளை நிறப் பொடி போன்ற படலம் தோன்றும்போது பூஞ்சைக் கொல்லிகளைத் தெளிக்கவும். 10-14 நாட்களுக்கு ஒருமுறை தொடரவும்.",
+      "prevention": "மரங்களுக்கு இடையே போதிய இடைவெளி விட்டு நடவு செய்யவும். தழைச்சத்து உரங்களை அதிகமாக இட வேண்டாம்.",
+      "organic_treatment": "கந்தகப் பூஞ்சைக் கொல்லி அல்லது வேம்பு எண்ணெயைப் பயன்படுத்தவும்.",
+      "recommended_insecticide_pesticide": "கந்தகம் (Sulfur), ஹெக்ஸாகோனசோல்."
+    },
+    "kn": {
+      "name": "ಬೂಜು ರೋಗ",
+      "severity": "ಮಧ್ಯಮ",
+      "treatment": "ಬಿಳಿ ಪುಡಿಯಂತಹ ಮಚ್ಚೆಗಳು ಕಂಡಾಗ ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಿ. ಪ್ರತಿ 10-14 ದಿನಗಳಿಗೊಮ್ಮೆ ಸಿಂಪಡಿಸಿ.",
+      "prevention": "ಮರಗಳ ನಡುವೆ ಗಾಳಿಯಾಡಲು ಸರಿಯಾದ ಅಂತರವಿರಲಿ. ಸಾರಜನಕಯುಕ್ತ ಗೊಬ್ಬರದ ಅತಿಯಾದ ಬಳಕೆಯನ್ನು ತಪ್ಪಿಸಿ.",
+      "organic_treatment": "ಗಂಧಕದ ಶಿಲೀಂಧ್ರನಾಶಕ ಅಥವಾ ಬೇವಿನ ಎಣ್ಣೆಯನ್ನು ಬಳಸಿ.",
+      "recommended_insecticide_pesticide": "ಸಲ್ಫರ್, ಹೆಕ್ಸಾಕೋನಜೋಲ್."
+    },
+    "ml": {
+      "name": "ചാരപ്പൂപ്പ് (Powdery Mildew)",
+      "severity": "മിതമായ",
+      "treatment": "ഇലകളിൽ വെളുത്ത പൊടി രൂപത്തിലുള്ള പാടുകൾ കാണുമ്പോൾ കുമിൾനാശിനി പ്രയോഗിക്കുക.",
+      "prevention": "മരങ്ങൾക്കിടയിൽ വായുസഞ്ചാരം ഉറപ്പാക്കുക. അമിതമായ നൈട്രജൻ വളപ്രയോഗം ഒഴിവാക്കുക.",
+      "organic_treatment": "സൾഫർ കുമിൾനാശിനി അല്ലെങ്കിൽ വേപ്പെണ്ണ ഉപയോഗിക്കുക.",
+      "recommended_insecticide_pesticide": "സൾഫർ, ഹെക്സാക്കോണസോൾ."
+    },
+    "mr": {
+      "name": "भुरी रोग",
+      "severity": "मध्यम",
+      "treatment": "पानांवर पांढरे डाग दिसताच बुरशीनाशके लावा. लक्षणे कमी होईपर्यंत १०-१४ दिवसांनी फवारणी करा.",
+      "prevention": "झाडांमधील अंतर योग्य ठेवा आणि हवा खेळती राहील याची काळजी घ्या. नत्रयुक्त खतांचा अतिवापर टाळा.",
+      "organic_treatment": "गंधक बुरशीनाशक किंवा कडुनिंबाच्या तेलाचा वापर करा.",
+      "recommended_insecticide_pesticide": "सल्फर, हेक्साकोनाझोल."
+    },
+    "bn": {
+      "name": "পাউডারি মিলডিউ",
+      "severity": "মাঝারি",
+      "treatment": "পাতায় সাদা পাউডারের মতো ছোপ দেখা দিলে ছত্রাকনাশক প্রয়োগ করুন। ১০-১৪ দিন অন্তর স্প্রে করুন।",
+      "prevention": "গাছের ডাল ছাঁটাই করে সঠিক বায়ু চলাচলের ব্যবস্থা করুন। অতিরিক্ত নাইট্রোজেন সার দেবেন না।",
+      "organic_treatment": "সালফার ছত্রাকনাশক বা নিম তেল ব্যবহার করুন।",
+      "recommended_insecticide_pesticide": "সালফার, হেক্সাকোনাজোল।"
+    },
+    "gu": {
+      "name": "પાવડરી મિલ્ડ્યુ",
+      "severity": "મધ્યમ",
+      "treatment": "પાંદડા પર સફેદ પાવડર જેવા ડાઘ દેખાય ત્યારે ફૂગનાશક લગાવો. દર 10-14 દિવસે છંટકાવ ચાલુ રાખો.",
+      "prevention": "ઝાડ વચ્ચે યોગ્ય અંતર રાખો અને હવાના સંચારમાં સુધારો કરો. વધુ પડતા નાઈટ્રોજન ખાતરનો ઉપયોગ ટાળો.",
+      "organic_treatment": "સલ્ફર ફૂગનાશક અથવા લીમડાના તેલનો સાપ્તાહિક ઉપયોગ કરો.",
+      "recommended_insecticide_pesticide": "સલ્ફર, હેક્સાકોનાઝોલ."
+    }
+  },
+  "Cherry_(including_sour)___healthy": {
+    "en": {
+      "name": "Healthy Crop",
+      "severity": "none",
+      "treatment": "No treatment required. Continue monitoring throughout the growing season.",
+      "prevention": "Annual pruning to maintain tree structure and air flow. Provide consistent irrigation, especially during fruit development. Avoid overhead watering to reduce leaf wetness. Monitor for pests and diseases regularly.",
+      "organic_treatment": "Not applicable for healthy plants.",
+      "recommended_insecticide_pesticide": "Not required. Maintain proper cultural management."
+    },
+    "hi": {
+      "name": "स्वस्थ फसल",
+      "severity": "कोई नहीं",
+      "treatment": "किसी उपचार की आवश्यकता नहीं है। मौसम के दौरान निगरानी जारी रखें।",
+      "prevention": "पेड़ों की संरचना बनाए रखने के लिए वार्षिक छंटाई करें। फल विकास के दौरान सिंचाई सुनिश्चित करें।",
+      "organic_treatment": "लागू नहीं।",
+      "recommended_insecticide_pesticide": "आवश्यक नहीं। उचित प्रबंधन बनाए रखें।"
+    },
+    "te": {
+      "name": "ఆరోగ్యకరమైన పంట",
+      "severity": "ఏదీ లేదు",
+      "treatment": "చికిత్స అవసరం లేదు. పంట కాలంలో పర్యవేక్షణ కొనసాగించండి.",
+      "prevention": "ప్రతి సంవత్సరం కత్తిరింపులు చేయండి. పండ్ల దశలో క్రమం తప్పకుండా నీరు ఇవ్వండి.",
+      "organic_treatment": "అవసరం లేదు.",
+      "recommended_insecticide_pesticide": "అవసరం లేదు."
+    },
+    "ta": {
+      "name": "ஆரோக்கியமான பயிர்",
+      "severity": "இல்லை",
+      "treatment": "சிகிச்சை தேவையில்லை. பருவம் முழுவதும் தொடர்ந்து கண்காணிக்கவும்.",
+      "prevention": "மரங்களை ஆண்டுதோறும் கத்தரிக்கவும். காய் பிடிக்கும் பருவத்தில் சரியான நீர்ப்பாசனம் அவசியம்.",
+      "organic_treatment": "தேவையில்லை.",
+      "recommended_insecticide_pesticide": "தேவையில்லை."
+    },
+    "kn": {
+      "name": "ಆರೋಗ್ಯಕರ ಬೆಳೆ",
+      "severity": "ಯಾವುದೂ ಇಲ್ಲ",
+      "treatment": "ಯಾವುದೇ ಚಿಕಿತ್ಸೆ ಅಗತ್ಯವಿಲ್ಲ. ಬೆಳೆಯ ಅವಧಿಯಲ್ಲಿ ಗಮನಿಸುತ್ತಿರಿ.",
+      "prevention": "ವರ್ಷಕ್ಕೊಮ್ಮೆ ಸಮರುವಿಕೆ ಮಾಡಿ. ಹಣ್ಣು ಬೆಳೆಯುವ ಹಂತದಲ್ಲಿ ನಿಯಮಿತ ನೀರಾವರಿ ಒದಗಿಸಿ.",
+      "organic_treatment": "ಅನ್ವಯಿಸುವುದಿಲ್ಲ.",
+      "recommended_insecticide_pesticide": "ಅಗತ್ಯವಿಲ್ಲ."
+    },
+    "ml": {
+      "name": "ആരോഗ്യകരമായ വിള",
+      "severity": "ഒന്നുമില്ല",
+      "treatment": "ചികിത്സ ആവശ്യമില്ല. വളർച്ചാ കാലയളവിൽ ഉടനീളം നിരീക്ഷിക്കുക.",
+      "prevention": "വാർഷിക പ്രൂണിംഗ് നടത്തുക. പഴങ്ങൾ വികസിക്കുന്ന സമയത്ത് കൃത്യമായ ജലസேചനം ഉറപ്പാക്കുക.",
+      "organic_treatment": "ബാധകമല്ല.",
+      "recommended_insecticide_pesticide": "ആവശ്യമില്ല."
+    },
+    "mr": {
+      "name": "निरोगी पीक",
+      "severity": "काहीही नाही",
+      "treatment": "उपचारांची गरज नाही. नियमित देखरेख ठेवा.",
+      "prevention": "झाडांची छाटणी नियमित करा. फळांच्या वाढीच्या काळात योग्य सिंचन द्या.",
+      "organic_treatment": "गरज नाही.",
+      "recommended_insecticide_pesticide": "गरज नाही."
+    },
+    "bn": {
+      "name": "সুস্থ ফসল",
+      "severity": "কিছু না",
+      "treatment": "কোন চিকিৎসার প্রয়োজন নেই। চাষের পুরো সময় নজর রাখুন।",
+      "prevention": "বার্ষিক ডাল ছাঁটাই করুন। ফলের বৃদ্ধির সময় নিয়মিত জল সেচ দিন।",
+      "organic_treatment": "প্রয়োজন নেই।",
+      "recommended_insecticide_pesticide": "প্রয়োজন নেই।"
+    },
+    "gu": {
+      "name": "સ્વસ્થ પાક",
+      "severity": "કંઈ નહીં",
+      "treatment": "કોઈ સારવારની જરૂર નથી. વધતી મોસમ દરમિયાન નિરીક્ષણ ચાલુ રાખો.",
+      "prevention": "વાર્ષિક છટણી કરો. ફળના વિકાસ દરમિયાન સતત સિંચાઈ આપો.",
+      "organic_treatment": "લાગુ પડતું નથી.",
+      "recommended_insecticide_pesticide": "જરૂર નથી."
+    }
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "en": {
+      "name": "Gray Leaf Spot",
+      "severity": "high",
+      "treatment": "Apply fungicides when early symptoms appear, typically at tasseling stage. Make 1-2 applications if disease pressure is high. Scout fields regularly during warm, humid weather when disease spreads rapidly.",
+      "prevention": "Rotate crops with non-host plants for at least 2 years. Till under or remove crop residue where disease was present. Choose hybrid varieties with good resistance ratings. Avoid planting susceptible hybrids in fields with disease history.",
+      "organic_treatment": "Trichoderma-based biofungicides can suppress disease when applied preventatively. Apply at early vegetative stages and repeat according to product label. Most effective when combined with crop rotation.",
+      "recommended_insecticide_pesticide": "Azoxystrobin: strobilurin fungicide applied at early infection stages. Propiconazole: triazole fungicide effective during active disease development. Rotate modes of action to prevent resistance."
+    },
+    "hi": {
+      "name": "ग्रे लीफ स्पॉट",
+      "severity": "उच्च",
+      "treatment": "जब शुरुआती लक्षण दिखाई दें, आमतौर पर टेसलिंग (मंजर निकलने) के चरण में, कवकनाशी लगाएं। गर्म और आर्द्र मौसम में नियमित रूप से खेतों का निरीक्षण करें।",
+      "prevention": "कम से कम 2 वर्षों के लिए गैर-मेजबान पौधों के साथ फसल चक्र अपनाएं। रोग-प्रतिरोधी संकर (hybrid) किस्मों का चयन करें।",
+      "organic_treatment": "निवारक के रूप में ट्राइकोडर्मा-आधारित जैव-कवकनाशी (Biofungicides) का उपयोग करें।",
+      "recommended_insecticide_pesticide": "एज़ोक्सीस्ट्रोबिन (Azoxystrobin), प्रोपिकोनाज़ोल (Propiconazole)।"
+    },
+    "te": {
+      "name": "గ్రే లీఫ్ స్పాట్",
+      "severity": "అధిక",
+      "treatment": "మొక్కకు పూత వచ్చే దశలో (tasseling stage) శిలీంధ్ర సంహారిణులను వాడండి. తేమతో కూడిన వాతావరణంలో పొలాలను క్రమం తప్పకుండా గమనించండి.",
+      "prevention": "కనీసం 2 ఏళ్ల పాటు పంట మార్పిడి చేయండి. నిరోధక రకాలను ఎంచుకోండి.",
+      "organic_treatment": "ట్రైకోడెర్మా ఆధారిత బయో-శిలీంధ్ర సంహారిణులను వాడండి.",
+      "recommended_insecticide_pesticide": "అజోక్సిస్ట్రోబిన్, ప్రోపికోనజోల్."
+    },
+    "ta": {
+      "name": "சாம்பல் நிற இலைப்புள்ளி நோய்",
+      "severity": "அதிகம்",
+      "treatment": "பூக்கும் தருணத்தில் (Tasseling stage) பூஞ்சைக் கொல்லிகளைப் பயன்படுத்தவும். ஈரப்பதமான காலநிலையில் வயலைத் தொடர்ந்து கண்காணிக்கவும்.",
+      "prevention": "குறைந்தது 2 ஆண்டுகளுக்குப் பயிர் சுழற்சியைப் பின்பற்றவும். எதிர்ப்புத் திறன் கொண்ட கலப்பின ரகங்களை நடவும்.",
+      "organic_treatment": "டிரைக்கோடெர்மா அடிப்படையிலான உயிரியல் பூஞ்சைக் கொல்லிகளைப் பயன்படுத்தவும்.",
+      "recommended_insecticide_pesticide": "அசோக்ஸிஸ்ட்ரோபின், ப்ரோபிகோனசோல்."
+    },
+    "kn": {
+      "name": "ಬೂದು ಎಲೆ ಚುಕ್ಕೆ ರೋಗ",
+      "severity": "ಹೆಚ್ಚು",
+      "treatment": "ಹೂ ಬಿಡುವ ಹಂತದಲ್ಲಿ (Tasseling stage) ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಬಳಸಿ. ಉಷ್ಣಾಂಶ ಮತ್ತು ಆರ್ದ್ರತೆ ಹೆಚ್ಚಿರುವಾಗ ಹೊಲವನ್ನು ಗಮನಿಸಿ.",
+      "prevention": "2 ವರ್ಷಗಳ ಕಾಲ ಬೆಳೆ ಸರದಿ ಅನುಸರಿಸಿ. ರೋಗ ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.",
+      "organic_treatment": "ಟ್ರೈಕೋಡರ್ಮಾ ಆಧಾರಿತ ಜೈವಿಕ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಬಳಸಿ.",
+      "recommended_insecticide_pesticide": "ಅಜೋಕ್ಸಿಸ್ಟ್ರೋಬಿನ್, ಪ್ರೊಪಿಕೊನಜೋಲ್."
+    },
+    "ml": {
+      "name": "ഗ്രേ ലീഫ് സ്പോട്ട്",
+      "severity": "ഉയർന്നത്",
+      "treatment": "പൂക്കുന്ന ഘട്ടത്തിൽ കുമിൾനാശിനികൾ പ്രയോഗിക്കുക. ഈർപ്പമുള്ള കാലാവസ്ഥയിൽ പതിവായി നിരീക്ഷിക്കുക.",
+      "prevention": "കുറഞ്ഞത് 2 വർഷമെങ്കിലും വിള പരിക്രമണം നടത്തുക. രോഗപ്രതിരോധ ശേഷിയുള്ള വിത്തുകൾ ഉപയോഗിക്കുക.",
+      "organic_treatment": "ട്രൈക്കോഡെർമ അടങ്ങിയ ജൈവ കുമിൾനാശിനികൾ ഉപയോഗിക്കുക.",
+      "recommended_insecticide_pesticide": "അസോക്സിസ്ട്രോബിൻ, പ്രൊപിക്കോണസോൾ."
+    },
+    "mr": {
+      "name": "ग्रे लीफ स्पॉट",
+      "severity": "उच्च",
+      "treatment": "कणसे येण्याच्या वेळी बुरशीनाशकांचा वापर करा. दमट हवामानात शेताची नियमित तपासणी करा.",
+      "prevention": "कमीत कमी २ वर्षे पीक फेरपालट करा. रोगप्रतिकारक संकरित वाणांची निवड करा.",
+      "organic_treatment": "ट्रायकोडर्मा आधारित जैव-बुरशीनाशकांचा वापर करा.",
+      "recommended_insecticide_pesticide": "अझोक्सीस्ट्रोबिन, प्रोपिकोनाझोल."
+    },
+    "bn": {
+      "name": "গ্রে লিফ স্পট",
+      "severity": "উচ্চ",
+      "treatment": "ফুল আসার সময় ছত্রাকনাশক প্রয়োগ করুন। গরম ও আর্দ্র আবহাওয়ায় নিয়মিত জমি পর্যবেক্ষণ করুন।",
+      "prevention": "কমপক্ষে ২ বছর ফসল আবর্তন করুন। রোগ প্রতিরোধী হাইব্রিড জাত নির্বাচন করুন।",
+      "organic_treatment": "ট্রাইকোডার্মা ভিত্তিক জৈব ছত্রাকনাশক ব্যবহার করুন।",
+      "recommended_insecticide_pesticide": "অ্যাজোক্সিস্ট্রোবিন, প্রোপিকোনাজোল।"
+    },
+    "gu": {
+      "name": "ગ્રે લીફ સ્પોટ",
+      "severity": "ઉચ્ચ",
+      "treatment": "છોડમાં ફૂલ આવવાના તબક્કે ફૂગનાશક લગાવો. ભેજવાળા વાતાવરણમાં ખેતરનું નિયમિત નિરીક્ષણ કરો.",
+      "prevention": "ઓછામાં ઓછા 2 વર્ષ સુધી પાકની ફેરબદલી કરો. રોગ પ્રતિકારક જાતો પસંદ કરો.",
+      "organic_treatment": "ટ્રાઈકોડર્મા આધારિત બાયો-ફૂગનાશકોનો ઉપયોગ કરો.",
+      "recommended_insecticide_pesticide": "એઝોક્સીસ્ટ્રોબિન, પ્રોપિકોનાઝોલ."
+    }
+  },
+  "Corn_(maize)___Common_rust_": {
+    "en": {
+      "name": "Common Rust",
+      "severity": "medium",
+      "treatment": "Apply fungicides if infection occurs before tasseling and disease pressure is high. Usually not needed for resistant hybrids or if infection occurs after pollination. Monitor fields from silking through grain fill.",
+      "prevention": "Plant resistant hybrid varieties appropriate for your region. Most modern hybrids have good rust resistance. Scout fields regularly during periods of moderate temperatures and high humidity. Early maturing hybrids often escape severe infection.",
+      "organic_treatment": "Neem oil may provide limited control when applied at first rust pustule appearance. Repeat weekly during favorable disease conditions. Most cost-effective in small plantings or organic production systems.",
+      "recommended_insecticide_pesticide": "Mancozeb: protectant fungicide for early season applications. Propiconazole: systemic option for active infections, apply when disease threatens yield."
+    },
+    "hi": {
+      "name": "सामान्य रस्ट (Common Rust)",
+      "severity": "मध्यम",
+      "treatment": "यदि टेसलिंग से पहले संक्रमण होता है, तो कवकनाशी लगाएं। परागण के बाद आमतौर पर इसकी आवश्यकता नहीं होती है।",
+      "prevention": "अपने क्षेत्र के लिए उपयुक्त प्रतिरोधी संकर किस्में लगाएं। नियमित रूप से खेतों का निरीक्षण करें।",
+      "organic_treatment": "नीम के तेल का साप्ताहिक छिड़काव करें। यह छोटे बागानों के लिए सबसे अधिक लागत प्रभावी है।",
+      "recommended_insecticide_pesticide": "मैनकोजेब (Mancozeb), प्रोपिकोनाज़ोल (Propiconazole)।"
+    },
+    "te": {
+      "name": "కామన్ రస్ట్",
+      "severity": "మధ్యస్థం",
+      "treatment": "మొక్కకు పూత రాకముందే వ్యాధి సోకితే శిలీంధ్ర సంహారిణులను వాడండి. గింజ పట్టే దశ వరకు పర్యవేక్షించండి.",
+      "prevention": "నిరోధక సంకర రకాలను నాటండి. తేమ అధికంగా ఉన్నప్పుడు జాగ్రత్తగా గమనించండి.",
+      "organic_treatment": "తక్కువ స్థాయిలో వ్యాప్తి ఉన్నప్పుడు వేప నూనెను వాడవచ్చు.",
+      "recommended_insecticide_pesticide": "మాంకోజెబ్, ప్రోపికోనజోల్."
+    },
+    "ta": {
+      "name": "சாதாரண துரு நோய்",
+      "severity": "மிதமானது",
+      "treatment": "பூக்கும் முன் பாதிப்பு ஏற்பட்டால் பூஞ்சைக் கொல்லிகளைத் தெளிக்கவும். மகரந்தச் சேர்க்கைக்குப் பின் பொதுவாகத் தேவையில்லை.",
+      "prevention": "நோய் எதிர்ப்புத் திறன் கொண்ட கலப்பின ரகங்களைப் பயன்படுத்தவும். அதிக ஈரப்பதம் உள்ள காலங்களில் கண்காணிக்கவும்.",
+      "organic_treatment": "வேம்பு எண்ணெயை வாரத்திற்கு ஒருமுறை தெளிப்பதன் மூலம் ஓரளவுக்குக் கட்டுப்படுத்தலாம்.",
+      "recommended_insecticide_pesticide": "மேன்கோசெப், ப்ரோபிகோனசோல்."
+    },
+    "kn": {
+      "name": "ಸಾಮಾನ್ಯ ತುಕ್ಕು ರೋಗ",
+      "severity": "ಮಧ್ಯಮ",
+      "treatment": "ಹೂ ಬಿಡುವ ಮೊದಲು ಸೋಂಕು ಕಂಡುಬಂದರೆ ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಿ. ಪರಾಗಸ್ಪರ್ಶದ ನಂತರ ಸಾಮಾನ್ಯವಾಗಿ ಅಗತ್ಯವಿರುವುದಿಲ್ಲ.",
+      "prevention": "ನಿಮ್ಮ ಪ್ರದೇಶಕ್ಕೆ ಸೂಕ್ತವಾದ ರೋಗ ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಬೆಳೆಸಿ. ನಿಯಮಿತವಾಗಿ ತಪಾಸಣೆ ಮಾಡಿ.",
+      "organic_treatment": "ಬೇವಿನ ಎಣ್ಣೆಯನ್ನು ಪ್ರತಿ ವಾರ ಸಿಂಪಡಿಸಿ.",
+      "recommended_insecticide_pesticide": "ಮ್ಯಾಂಕೋಜೆಬ್, ಪ್ರೊಪಿಕೊನಜೋಲ್."
+    },
+    "ml": {
+      "name": "കോമൺ റസ്റ്റ്",
+      "severity": "മിതമായ",
+      "treatment": "പൂക്കുന്നതിന് മുമ്പ് രോഗം കണ്ടാൽ കുമിൾനാശിനികൾ പ്രയോഗിക്കുക. പരാഗണത്തിന് ശേഷം സാധാരണയായി ആവശ്യമില്ല.",
+      "prevention": "രോഗപ്രതിരോധ ശേഷിയുള്ള ഹൈബ്രിഡ് ഇനങ്ങൾ നടുക. ഈർപ്പമുള്ള കാലാവസ്ഥയിൽ നിരീക്ഷിക്കുക.",
+      "organic_treatment": "ആദ്യഘട്ടത്തിൽ വേപ്പെണ്ണ ഉപയോഗിക്കുന്നത് ഫലപ്രദമാണ്.",
+      "recommended_insecticide_pesticide": "മാങ്കോസെബ്, പ്രൊപിക്കോണസോൾ."
+    },
+    "mr": {
+      "name": "कॉमन रस्ट",
+      "severity": "मध्यम",
+      "treatment": "कणसे येण्यापूर्वी प्रादुर्भाव दिसल्यास बुरशीनाशके वापरा. परागीकरणानंतर सहसा गरज नसते.",
+      "prevention": "योग्य प्रतिकारक संकरित वाण लावा. जास्त आर्द्रतेच्या काळात शेताची पाहणी करा.",
+      "organic_treatment": "कडुनिंबाच्या तेलाचा साप्ताहिक वापर करा.",
+      "recommended_insecticide_pesticide": "मॅन्कोझेब, प्रोपिकोनाझोल."
+    },
+    "bn": {
+      "name": "কমন রাস্ট",
+      "severity": "মাঝারি",
+      "treatment": "ফুল আসার আগে আক্রমণ হলে ছত্রাকনাশক দিন। পরাগায়নের পর সাধারণত প্রয়োজন হয় না।",
+      "prevention": "প্রতিরোধী জাতের চাষ করুন। বেশি আর্দ্রতা থাকলে নিয়মিত জমি পরীক্ষা করুন।",
+      "organic_treatment": "নিম তেলের সাপ্তাহিক ব্যবহার কিছুটা নিয়ন্ত্রণ করতে পারে।",
+      "recommended_insecticide_pesticide": "ম্যানকোজেব, প্রোপিকোনাজোল।"
+    },
+    "gu": {
+      "name": "સામાન્ય ગેરુ",
+      "severity": "મધ્યમ",
+      "treatment": "જો ફૂલ આવતા પહેલા ચેપ લાગે, તો ફૂગનાશક લગાવો. પરાગનયન પછી સામાન્ય રીતે જરૂર હોતી નથી.",
+      "prevention": "પ્રતિકારક હાઈબ્રિડ જાતો રોપો. ભેજવાળા વાતાવરણમાં નિયમિત તપાસ કરો.",
+      "organic_treatment": "લીમડાના તેલનો સાપ્તાહિક છંટકાવ કરો.",
+      "recommended_insecticide_pesticide": "મેન્કોઝેબ, પ્રોપિકોનાઝોલ."
+    }
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "en": {
+      "name": "Northern Leaf Blight",
+      "severity": "high",
+      "treatment": "Apply fungicides when lesions appear on lower leaves before tasseling. Make 1-2 applications if disease is progressing up the plant during grain fill. Time applications to protect ear leaves during critical yield periods.",
+      "prevention": "Use crop rotation with non-host crops to reduce residue inoculum. Plant resistant hybrids rated for northern leaf blight. Tillage can help reduce overwintering spores on crop residue. Avoid planting susceptible varieties in continuous corn.",
+      "organic_treatment": "Trichoderma biofungicides applied early can reduce disease severity. Most effective as part of integrated management with resistant varieties and crop rotation. Apply preventatively according to product guidelines.",
+      "recommended_insecticide_pesticide": "Tebuconazole: systemic triazole fungicide for protective and curative control. Pyraclostrobin: strobilurin providing protectant activity, apply before disease reaches upper canopy."
+    },
+    "hi": {
+      "name": "उत्तरी पत्ता झुलसा (Northern Leaf Blight)",
+      "severity": "उच्च",
+      "treatment": "जब टेसलिंग से पहले निचली पत्तियों पर घाव दिखाई दें, तो कवकनाशी लगाएं। उपज बचाने के लिए समय पर छिड़काव करें।",
+      "prevention": "फसल अवशेषों को कम करने के लिए फसल चक्र का उपयोग करें। प्रतिरोधी संकर किस्मों का चयन करें।",
+      "organic_treatment": "शुरुआत में ट्राइकोडर्मा बायोफंगिसाइड्स का उपयोग करें।",
+      "recommended_insecticide_pesticide": "टेबुकोनाज़ोल (Tebuconazole), पाइराक्लोस्ट्रोबिन (Pyraclostrobin)।"
+    },
+    "te": {
+      "name": "ఉత్తర ఆకు ఎండు తెగులు",
+      "severity": "అధిక",
+      "treatment": "కింది ఆకులపై మచ్చలు కనిపించినప్పుడు శిలీంధ్ర సంహారిణులను వాడండి. గింజ తయారయ్యే దశలో ఇది చాలా ముఖ్యం.",
+      "prevention": "పంట మార్పిడి చేయండి. ఈ వ్యాధిని తట్టుకునే రకాలను ఎంచుకోండి.",
+      "organic_treatment": "ట్రైకోడెర్మా బయో-శిలీంధ్ర సంహారిణులను నివారణగా వాడండి.",
+      "recommended_insecticide_pesticide": "టెబుకోనజోల్, పైరాక్లోస్ట్రోబిన్."
+    },
+    "ta": {
+      "name": "வடக்கு இலை கருகல் நோய்",
+      "severity": "அதிகம்",
+      "treatment": "கீழ் இலைகளில் புள்ளிகள் தோன்றும்போது பூஞ்சைக் கொல்லிகளைத் தெளிக்கவும். கதிர் உருவாகும் காலத்தில் தெளிப்பது அவசியம்.",
+      "prevention": "பயிர் சுழற்சியைப் பின்பற்றவும். கருகல் நோயைத் தாங்கி வளரும் ரகங்களை நடவும்.",
+      "organic_treatment": "டிரைக்கோடெர்மா உயிரியல் பூஞ்சைக் கொல்லிகளை ஆரம்பத்திலேயே பயன்படுத்தவும்.",
+      "recommended_insecticide_pesticide": "டெபுகோனசோல், பைராக்ளோஸ்ட்ரோபின்."
+    },
+    "kn": {
+      "name": "ಉತ್ತರ ಎಲೆ ಮಚ್ಚೆ ರೋಗ",
+      "severity": "ಹೆಚ್ಚು",
+      "treatment": "ಕೆಳಗಿನ ಎಲೆಗಳ ಮೇಲೆ ಮಚ್ಚೆಗಳು ಕಂಡಾಗ ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಿ. ಇಳುವರಿಯನ್ನು ರಕ್ಷಿಸಲು ಸಮಯಕ್ಕೆ ಸರಿಯಾಗಿ ಸಿಂಪಡಿಸಿ.",
+      "prevention": "ಬೆಳೆ ಸರದಿ ಅನುಸರಿಸಿ. ರೋಗ ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಮಾತ್ರ ಬೆಳೆಸಿ.",
+      "organic_treatment": "ಟ್ರೈಕೋಡರ್ಮಾ ಜೈವಿಕ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಬಳಸಿ.",
+      "recommended_insecticide_pesticide": "ಟೆಬುಕೋನಜೋಲ್, ಪೈರಾಕ್ಲೋಸ್ಟ್ರೋಬಿನ್."
+    },
+    "ml": {
+      "name": "നോർത്തേൺ ലീഫ് ബ്ലൈറ്റ്",
+      "severity": "ഉയർന്നത്",
+      "treatment": "താഴത്തെ ഇലകളിൽ പാടുകൾ കാണുമ്പോൾ കുമിൾനാശിനികൾ പ്രയോഗിക്കുക. ധാന്യം വിരിയുന്ന ഘട്ടത്തിൽ ഇത് അത്യാവശ്യമാണ്.",
+      "prevention": "വിള പരിക്രമണം നടത്തുക. രോഗപ്രതിരോധ ശേഷിയുള്ള ഇനങ്ങൾ ഉപയോഗിക്കുക.",
+      "organic_treatment": "ട്രൈക്കോഡെർമ ജൈവ കുമിൾനാശിനികൾ ഉപയോഗിക്കുക.",
+      "recommended_insecticide_pesticide": "ടെബുകോണസോൾ, പൈറാക്ലോസ്ട്രോബിൻ."
+    },
+    "mr": {
+      "name": "नॉर्दर्न लीफ ब्लाइट",
+      "severity": "उच्च",
+      "treatment": "कणसे येण्यापूर्वी खालच्या पानांवर जखमा दिसल्यास बुरशीनाशके लावा. उत्पादनाचे संरक्षण करण्यासाठी वेळेवर फवारणी करा.",
+      "prevention": "पीक फेरपालट करा. रोगास बळी न पडणाऱ्या संकरित वाणांची निवड करा.",
+      "organic_treatment": "सुरुवातीच्या काळात ट्रायकोडर्मा जैव-बुरशीनाशकांचा वापर करा.",
+      "recommended_insecticide_pesticide": "टेबुकोनाझोल, पायराक्लोस्ट्रोबिन."
+    },
+    "bn": {
+      "name": "নর্দার্ন লিফ ব্লাইট",
+      "severity": "উচ্চ",
+      "treatment": "নিচের পাতায় ক্ষত দেখা দিলে ছত্রাকনাশক দিন। দানা পুষ্ট হওয়ার সময় এটি খুব জরুরি।",
+      "prevention": "ফসল আবর্তন করুন। এই রোগ প্রতিরোধী জাতের বীজ ব্যবহার করুন।",
+      "organic_treatment": "আগের থেকেই ট্রাইকোডার্মা জৈব ছত্রাকনাশক ব্যবহার করুন।",
+      "recommended_insecticide_pesticide": "টেবুকোনাজোল, পাইরাক্লোস্ট্রোবিন।"
+    },
+    "gu": {
+      "name": "નોર્ધર્ન લીફ બ્લાઈટ",
+      "severity": "ઉચ્ચ",
+      "treatment": "જ્યારે નીચેના પાંદડા પર ડાઘ દેખાય ત્યારે ફૂગનાશક લગાવો. ઉપજ બચાવવા માટે સમયસર છંટકાવ કરો.",
+      "prevention": "પાકની ફેરબદલી કરો. આ રોગ સામે પ્રતિકારક શક્તિ ધરાવતી જાતો પસંદ કરો.",
+      "organic_treatment": "શરૂઆતના તબક્કામાં ટ્રાઈકોડર્મા બાયો-ફૂગનાશકોનો ઉપયોગ કરો.",
+      "recommended_insecticide_pesticide": "ટેબુકોનાઝોલ, પાયરાક્લોસ્ટ્રોબિન."
+    }
+  },
+
+  "Corn_(maize)___healthy": {
+    "en": {
+      "name": "Healthy Crop",
+      "severity": "none",
+      "treatment": "No treatment required. Scout fields regularly through the growing season.",
+      "prevention": "Regular field scouting from emergence through maturity. Maintain balanced fertility based on soil tests and yield goals. Ensure adequate plant population and weed control. Monitor for early signs of disease or pest pressure.",
+      "organic_treatment": "Not applicable for healthy crops.",
+      "recommended_insecticide_pesticide": "Not required. Focus on agronomic practices and variety selection."
+    },
+    "hi": {
+      "name": "स्वस्थ फसल",
+      "severity": "कोई नहीं",
+      "treatment": "किसी उपचार की आवश्यकता नहीं है। नियमित रूप से खेतों का निरीक्षण करें।",
+      "prevention": "मिट्टी परीक्षण के आधार पर संतुलित उर्वरक दें। खरपतवार नियंत्रण और पौधों की संख्या सुनिश्चित करें।",
+      "organic_treatment": "लागू नहीं।",
+      "recommended_insecticide_pesticide": "आवश्यक नहीं।"
+    },
+    "te": {
+      "name": "ఆరోగ్యకరమైన పంట",
+      "severity": "ఏదీ లేదు",
+      "treatment": "చికిత్స అవసరం లేదు. పొలాన్ని క్రమం తప్పకుండా పర్యవేక్షించండి.",
+      "prevention": "మట్టి పరీక్ష ఆధారంగా ఎరువులు వేయండి. కలుపు నివారణ మరియు సరైన మొక్కల సాంద్రతను పాటించండి.",
+      "organic_treatment": "అవసరం లేదు.",
+      "recommended_insecticide_pesticide": "అవసరం లేదు."
+    },
+    "ta": {
+      "name": "ஆரோக்கியமான பயிர்",
+      "severity": "இல்லை",
+      "treatment": "சிகிச்சை தேவையில்லை. வயலைத் தொடர்ந்து கண்காணிக்கவும்.",
+      "prevention": "மண் பரிசோதனைப்படி உரமிடவும். களைக் கட்டுப்பாடு மற்றும் சரியான செடிகளின் எண்ணிக்கையைப் பராமரிக்கவும்.",
+      "organic_treatment": "தேவையில்லை.",
+      "recommended_insecticide_pesticide": "தேவையில்லை."
+    },
+    "kn": {
+      "name": "ಆರೋಗ್ಯಕರ ಬೆಳೆ",
+      "severity": "ಯಾವುದೂ ಇಲ್ಲ",
+      "treatment": "ಯಾವುದೇ ಚಿಕಿತ್ಸೆ ಅಗತ್ಯವಿಲ್ಲ. ಹೊಲವನ್ನು ನಿಯಮಿತವಾಗಿ ಗಮನಿಸಿ.",
+      "prevention": "ಮಣ್ಣಿನ ಪರೀಕ್ಷೆಯಂತೆ ಗೊಬ್ಬರ ನೀಡಿ. ಕಳೆ ನಿಯಂತ್ರಣ ಮತ್ತು ಗಿಡಗಳ ಸಂಖ್ಯೆಯ ಬಗ್ಗೆ ಗಮನವಿರಲಿ.",
+      "organic_treatment": "ಅನ್ವಯಿಸುವುದಿಲ್ಲ.",
+      "recommended_insecticide_pesticide": "ಅಗत्यವಿಲ್ಲ."
+    },
+    "ml": {
+      "name": "ആരോഗ്യകരമായ വിള",
+      "severity": "ഒന്നുമില്ല",
+      "treatment": "ചികിത്സ ആവശ്യമില്ല. പതിവായി നിരീക്ഷിക്കുക.",
+      "prevention": "മണ്ണ് പരിശോധന അനുസരിച്ച് വളം നൽകുക. കള നിയന്ത്രണം ഉറപ്പാക്കുക.",
+      "organic_treatment": "ബാധകമല്ല.",
+      "recommended_insecticide_pesticide": "ആവശ്യമില്ല."
+    },
+    "mr": {
+      "name": "निरोगी पीक",
+      "severity": "काहीही नाही",
+      "treatment": "उपचारांची गरज नाही. शेताची नियमित पाहणी करा.",
+      "prevention": "माती परीक्षणाप्रमाणे खते द्या. तण नियंत्रण आणि योग्य रोपांची संख्या सुनिश्चित करा.",
+      "organic_treatment": "गरज नाही.",
+      "recommended_insecticide_pesticide": "गरज नाही."
+    },
+    "bn": {
+      "name": "সুস্থ ফসল",
+      "severity": "কিছু না",
+      "treatment": "কোন চিকিৎসার প্রয়োজন নেই। নিয়মিত জমি পর্যবেক্ষণ করুন।",
+      "prevention": "মাটি পরীক্ষা করে সুষম সার দিন। আগাছা দমন ও সঠিক চারা সংখ্যা বজায় রাখুন।",
+      "organic_treatment": "প্রয়োজন নেই।",
+      "recommended_insecticide_pesticide": "প্রয়োজন নেই।"
+    },
+    "gu": {
+      "name": "સ્વસ્થ પાક",
+      "severity": "કંઈ નહીં",
+      "treatment": "કોઈ સારવારની જરૂર નથી. મોસમ દરમિયાન ખેતરનું નિરીક્ષણ કરો.",
+      "prevention": "જમીન પરીક્ષણ મુજબ ખાતર આપો. નિંદામણ નિયંત્રણ અને છોડની યોગ્ય સંખ્યા જાળવો.",
+      "organic_treatment": "લાગુ પડતું નથી.",
+      "recommended_insecticide_pesticide": "જરૂર નથી."
+    }
+  },
+  "Grape___Black_rot": {
+    "en": {
+      "name": "Black Rot",
+      "severity": "high",
+      "treatment": "Apply fungicides from early bloom through 4 weeks after bloom, making applications every 7-14 days depending on weather. Increase frequency during wet periods. Remove infected berries and mummified fruit throughout season.",
+      "prevention": "Remove and destroy all mummified berries before budbreak as they release spores. Improve air circulation through proper canopy management and shoot positioning. Remove infected leaves during growing season. Practice clean cultivation.",
+      "organic_treatment": "Copper fungicides provide protective action when applied before infection periods. Apply from bud break through fruit set. Requires frequent reapplication after rain. Most effective combined with sanitation practices.",
+      "recommended_insecticide_pesticide": "Mancozeb: broad-spectrum protectant for pre-bloom and early season. Myclobutanil: systemic fungicide for bloom through berry protection, offers both preventive and curative properties."
+    },
+    "hi": {
+      "name": "अंगूर का काला सड़न (Black Rot)",
+      "severity": "उच्च",
+      "treatment": "शुरुआती फूल आने से लेकर 4 सप्ताह बाद तक कवकनाशी लगाएं। गीले मौसम में छिड़काव बढ़ाएं।",
+      "prevention": "कली फूटने से पहले सभी सूखे और सड़े हुए फलों को नष्ट कर दें। हवा के संचार में सुधार के लिए छंटाई करें।",
+      "organic_treatment": "कॉपर कवकनाशी सुरक्षा प्रदान करते हैं। बारिश के बाद बार-बार लगाने की आवश्यकता होती है।",
+      "recommended_insecticide_pesticide": "मैनकोजेब (Mancozeb), मायक्लोबुटानिल (Myclobutanil)।"
+    },
+    "te": {
+      "name": "ద్రాక్ష బ్లాక్ రాట్",
+      "severity": "అధిక",
+      "treatment": "పూత దశ నుండి 4 వారాల వరకు శిలీంధ్ర సంహారిణులను వాడండి. సోకిన పండ్లను తొలగించండి.",
+      "prevention": "మొగ్గ దశకు ముందే ఎండిన పండ్లను నాశనం చేయండి. గాలి వెలుతురు కోసం కొమ్మలను సరిచేయండి.",
+      "organic_treatment": "కాపర్ శిలీంధ్ర సంహారిణులను వాడండి. వర్షం పడిన తర్వాత మళ్ళీ పిచికారీ చేయాలి.",
+      "recommended_insecticide_pesticide": "మాంకోజెబ్, మైక్లోబుటానిల్."
+    },
+    "ta": {
+      "name": "திராட்சை கருப்பு அழுகல்",
+      "severity": "அதிகம்",
+      "treatment": "பூக்கும் பருவம் முதல் 4 வாரங்கள் வரை பூஞ்சைக் கொல்லிகளைப் பயன்படுத்தவும். பாதிக்கப்பட்ட பழங்களை அகற்றவும்.",
+      "prevention": "உலர்ந்த பழங்களை மொட்டு விடுவதற்கு முன்பே அழிக்கவும். சீரான காற்று ஓட்டத்திற்கு மேலாண்மை அவசியம்.",
+      "organic_treatment": "தாமிரப் பூஞ்சைக் கொல்லிகளைப் பயன்படுத்தவும். மழைக்கு பின் மீண்டும் தெளிக்க வேண்டும்.",
+      "recommended_insecticide_pesticide": "மேன்கோசெப், மைக்ளோபுட்டானில்."
+    },
+    "kn": {
+      "name": "ದ್ರಾಕ್ಷಿ ಕಪ್ಪು ಕೊಳೆ ರೋಗ",
+      "severity": "ಹೆಚ್ಚು",
+      "treatment": "ಹೂ ಬಿಡುವ ಹಂತದಿಂದ 4 ವಾರಗಳವರೆಗೆ ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಿ. ಸೋಂಕಿತ ಹಣ್ಣುಗಳನ್ನು ತೆಗೆದುಹಾಕಿ.",
+      "prevention": "ಮೊಗ್ಗು ಬರುವ ಮೊದಲು ಒಣಗಿದ ಹಣ್ಣುಗಳನ್ನು ನಾಶಪಡಿಸಿ. ತೋಟದ ನೈರ್ಮಲ್ಯ ಕಾಪಾಡಿ.",
+      "organic_treatment": "ತಾಮ್ರದ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಬಳಸಿ. ಮಳೆಯ ನಂತರ ಮರುಬಳಕೆ ಅಗತ್ಯ.",
+      "recommended_insecticide_pesticide": "ಮ್ಯಾಂಕೋಜೆಬ್, ಮೈಕ್ಲೋಬುಟಾನಿಲ್."
+    },
+    "ml": {
+      "name": "മുന്തിരിയിലെ കറുത്ത ചീഞ്ഞഴുകൽ",
+      "severity": "ഉയർന്നത്",
+      "treatment": "പൂവിടുന്ന സമയം മുതൽ 4 ആഴ്ച വരെ കുമിൾനാശിനി പ്രയോഗിക്കുക. രോഗം ബാധിച്ച പഴങ്ങൾ നീക്കം ചെയ്യുക.",
+      "prevention": "ഉണങ്ങിയ പഴങ്ങൾ നശിപ്പിക്കുക. വായുസഞ്ചാരം ഉറപ്പാക്കാൻ ചില്ലകൾ ക്രമീകരിക്കുക.",
+      "organic_treatment": "കോപ്പർ കുമിൾനാശിനികൾ ഉപയോഗിക്കുക. മഴയ്ക്ക് ശേഷം വീണ്ടും പ്രയോഗിക്കേണ്ടതുണ്ട്.",
+      "recommended_insecticide_pesticide": "മാങ്കോസെബ്, മൈക്ലോബുട്ടാനിൽ."
+    },
+    "mr": {
+      "name": "द्राक्ष ब्लॅक रॉट",
+      "severity": "उच्च",
+      "treatment": "फुलोऱ्यापासून ४ आठवड्यांपर्यंत बुरशीनाशके वापरा. पावसाळ्यात फवारणीचे प्रमाण वाढवा.",
+      "prevention": "वाळलेली फळे कळी येण्यापूर्वी नष्ट करा. बागेत हवा खेळती राहील याची काळजी घ्या.",
+      "organic_treatment": "कॉपर बुरशीनाशकांचा वापर करा. पावसानंतर पुन्हा फवारणी आवश्यक आहे.",
+      "recommended_insecticide_pesticide": "मॅन्कोझेब, मायक्लोबुटानिल."
+    },
+    "bn": {
+      "name": "আঙ্গুরের ব্ল্যাক রট",
+      "severity": "উচ্চ",
+      "treatment": "ফুল আসার সময় থেকে ৪ সপ্তাহ পর্যন্ত ছত্রাকনাশক দিন। আক্রান্ত ফল বাগান থেকে সরিয়ে ফেলুন।",
+      "prevention": "কুঁড়ি আসার আগে মমি হয়ে যাওয়া ফল ধ্বংস করুন। সঠিক বায়ু চলাচলের ব্যবস্থা করুন।",
+      "organic_treatment": "কপার ছত্রাকনাশক ব্যবহার করুন। বৃষ্টির পর পুনরায় প্রয়োগ প্রয়োজন।",
+      "recommended_insecticide_pesticide": "ম্যানকোজেব, মাইক্লোবুটানিল।"
+    },
+    "gu": {
+      "name": "દ્રાક્ષનો કાળો સડો",
+      "severity": "ઉચ્ચ",
+      "treatment": "ફૂલ આવવાના સમયથી 4 અઠવાડિયા સુધી ફૂગનાશક લગાવો. ચેપગ્રસ્ત ફળો દૂર કરો.",
+      "prevention": "કળી ખીલતા પહેલા સુકાયેલા ફળોનો નાશ કરો. હવાના સંચાર માટે છટણી કરો.",
+      "organic_treatment": "કોપર ફૂગનાશકોનો ઉપયોગ કરો. વરસાદ પછી ફરીથી છંટકાવ જરૂરી છે.",
+      "recommended_insecticide_pesticide": "મેન્કોઝેબ, માયક્લોબ્યુટાનિલ."
+    }
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "en": {
+      "name": "Esca (Black Measles)",
+      "severity": "high",
+      "treatment": "Remove symptomatic vines entirely or prune out infected wood when possible. No effective chemical cure exists. Focus on preventing spread to healthy vines through sanitation. Mark affected vines for monitoring.",
+      "prevention": "Protect fresh pruning wounds with wound sealants or biological protectants immediately after cutting. Avoid pruning during wet weather. Minimize vine stress through proper irrigation and nutrition. Disinfect pruning tools between vines with 70% alcohol or bleach solution.",
+      "organic_treatment": "Apply biological wound protectants containing beneficial fungi like Trichoderma to fresh pruning cuts. These colonize wounds and prevent pathogen entry. Must be applied immediately after pruning for effectiveness.",
+      "recommended_insecticide_pesticide": "No effective chemical control available. Disease management relies entirely on cultural practices and preventative wound protection."
+    },
+    "hi": {
+      "name": "एस्का (ब्लैक मीज़ल्स)",
+      "severity": "उच्च",
+      "treatment": "संक्रमित लकड़ी को काट दें या पूरे बेल को हटा दें। कोई प्रभावी रासायनिक इलाज नहीं है।",
+      "prevention": "छंटाई के घावों को तुरंत सीलेंट से सुरक्षित करें। औजारों को 70% अल्कोहल से कीटाणुरहित करें।",
+      "organic_treatment": "छंटाई के बाद घावों पर ट्राइकोडर्मा जैसे जैविक रक्षकों का प्रयोग करें।",
+      "recommended_insecticide_pesticide": "कोई रासायनिक नियंत्रण उपलब्ध नहीं है; प्रबंधन सांस्कृतिक प्रथाओं पर निर्भर है।"
+    },
+    "te": {
+      "name": "ఎస్కా (బ్లాక్ మీజిల్స్)",
+      "severity": "అధిక",
+      "treatment": "వ్యాధి సోకిన తీగలను తొలగించండి. దీనికి ఎటువంటి రసాయన నివారణ లేదు.",
+      "prevention": "కొమ్మలు కత్తిరించిన వెంటనే గాయాలకు సీలెంట్ పూయండి. పనిముట్లను ఆల్కహాల్‌తో శుభ్రం చేయండి.",
+      "organic_treatment": "ట్రైకోడెర్మా వంటి జీవ రక్షణ కవచాలను గాయాలపై వాడండి.",
+      "recommended_insecticide_pesticide": "రసాయన నివారణ లేదు; కేవలం జాగ్రత్తలే మార్గం."
+    },
+    "ta": {
+      "name": "எஸ்கா (கருப்பு தட்டம்மை)",
+      "severity": "அதிகம்",
+      "treatment": "பாதிக்கப்பட்ட கொடிகளை அகற்றவும். இதற்கு பயனுள்ள வேதியியல் சிகிச்சை இல்லை.",
+      "prevention": "கத்தரித்த இடங்களில் உடனடியாக பாதுகாப்பு மருந்துகளைப் பூசவும். கருவிகளை கிருமி நீக்கம் செய்யவும்.",
+      "organic_treatment": "டிரைக்கோடெர்மா போன்ற உயிரியல் மருந்துகளை வெட்டப்பட்ட இடங்களில் தடவவும்.",
+      "recommended_insecticide_pesticide": "வேதியியல் மருந்து இல்லை; பராமரிப்பு முறைகளே சிறந்தது."
+    },
+    "kn": {
+      "name": "ಎಸ್ಕಾ (ಬ್ಲಾಕ್ ಮೀಸಲ್ಸ್)",
+      "severity": "ಹೆಚ್ಚು",
+      "treatment": "ಸೋಂಕಿತ ಬಳ್ಳಿಗಳನ್ನು ತೆಗೆದುಹಾಕಿ. ಇದಕ್ಕೆ ಯಾವುದೇ ಪರಿಣಾಮಕಾರಿ ರಾಸಾಯನಿಕ ಚಿಕಿತ್ಸೆ ಇಲ್ಲ.",
+      "prevention": "ಸಮರುವಿಕೆ ಮಾಡಿದ ತಕ್ಷಣ ಗಾಯಗಳಿಗೆ ಸೀಲಂಟ್ ಹಚ್ಚಿ. ಉಪಕರಣಗಳನ್ನು ಆಲ್ಕೋಹಾಲ್‌ನಿಂದ ಸ್ವಚ್ಛಗೊಳಿಸಿ.",
+      "organic_treatment": "ಟ್ರೈಕೋಡರ್ಮಾ ಅಂತಹ ಜೈವಿಕ ರಕ್ಷಕಗಳನ್ನು ಗಾಯಗಳಿಗೆ ಹಚ್ಚಿ.",
+      "recommended_insecticide_pesticide": "ಯಾವುದೇ ರಾಸಾಯನಿಕ ನಿಯಂತ್ರಣ ಲಭ್ಯವಿಲ್ಲ."
+    },
+    "ml": {
+      "name": "എസ്ക (ബ്ലാക്ക് മീസിൽസ്)",
+      "severity": "ഉയർന്നത്",
+      "treatment": "രോഗം ബാധിച്ച വള്ളികൾ പൂർണ്ണമായും നീക്കം ചെയ്യുക. ഫലപ്രദമായ രാസചികിത്സ ലഭ്യമല്ല.",
+      "prevention": "ചില്ലകൾ മുറിച്ച ഭാഗത്ത് ഉടൻ തന്നെ സീലന്റ് പുരട്ടുക. ഉപകരണങ്ങൾ അണുമുക്തമാക്കുക.",
+      "organic_treatment": "ട്രൈക്കോഡെർമ പോലുള്ള ജൈവ സംരക്ഷകർ മുറിപ്പാടുകളിൽ തേയ്ക്കുക.",
+      "recommended_insecticide_pesticide": "രാസ നിയന്ത്രണം ലഭ്യമല്ല; കൃഷിരീതികളിൽ ശ്രദ്ധിക്കുക."
+    },
+    "mr": {
+      "name": "एस्का (ब्लॅक मिझल्स)",
+      "severity": "उच्च",
+      "treatment": "बाधित वेली पूर्णपणे काढून टाका. कोणताही प्रभावी रासायनिक उपाय उपलब्ध नाही.",
+      "prevention": "छाटणीनंतर जखमांवर त्वरित सीलंट लावा. अवजारे निर्जंतुक करण्यासाठी ७०% अल्कोहोल वापरा.",
+      "organic_treatment": "छाटणीच्या जखमांवर ट्रायकोडर्मा सारख्या जैविक घटकांचा वापर करा.",
+      "recommended_insecticide_pesticide": "उपलब्ध नाही; केवळ प्रतिबंधात्मक उपाय महत्त्वाचे."
+    },
+    "bn": {
+      "name": "এস্কা (ব্ল্যাক মিজলস)",
+      "severity": "উচ্চ",
+      "treatment": "আক্রান্ত লতা সরিয়ে ফেলুন। এর কোনো কার্যকর রাসায়নিক প্রতিকার নেই।",
+      "prevention": "ডাল ছাঁটাইয়ের পর ক্ষতস্থানে অবিলম্বে প্রলেপ দিন। যন্ত্রপাতি জীবাণুমুক্ত রাখুন।",
+      "organic_treatment": "ক্ষতস্থানে ট্রাইকোডার্মা ভিত্তিক জৈব সুরক্ষা কবচ ব্যবহার করুন।",
+      "recommended_insecticide_pesticide": "কোনো রাসায়নিক নিয়ন্ত্রণ নেই; সঠিক যত্নই একমাত্র পথ।"
+    },
+    "gu": {
+      "name": "એસ્કા (બ્લેક મીઝલ્સ)",
+      "severity": "ઉચ્ચ",
+      "treatment": "ચેપગ્રસ્ત વેલા દૂર કરો. કોઈ અસરકારક રાસાયણિક ઈલાજ નથી.",
+      "prevention": "છટણી પછી ઘા પર તરત જ સીલંટ લગાવો. સાધનોને આલ્કોહોલથી જંતુમુક્ત કરો.",
+      "organic_treatment": "ટ્રાઈકોડર્મા જેવા જૈવિક રક્ષકોનો ઉપયોગ ઘા પર કરો.",
+      "recommended_insecticide_pesticide": "કોઈ રાસાયણિક નિયંત્રણ ઉપલબ્ધ નથી."
+    }
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "en": {
+      "name": "Citrus Greening (Huanglongbing)",
+      "severity": "very high",
+      "treatment": "Immediately remove and destroy infected trees to prevent disease spread. Control Asian citrus psyllid populations aggressively using insecticides. There is no cure once trees are infected. Focus on protecting healthy trees through vector control.",
+      "prevention": "Use only certified disease-free nursery stock from reputable sources. Implement aggressive psyllid control programs year-round. Scout groves regularly for symptoms. Maintain tree health through proper nutrition and irrigation. Plant new groves away from infected areas if possible.",
+      "organic_treatment": "Neem oil and horticultural oils can help suppress psyllid populations when applied regularly. Must be part of intensive monitoring program. Organic options are less effective than synthetic insecticides for this serious disease.",
+      "recommended_insecticide_pesticide": "Imidacloprid: systemic neonicotinoid for long-term psyllid control, soil or foliar applied. Thiamethoxam: another systemic option for season-long vector suppression. Rotate with other modes of action to prevent resistance."
+    },
+    "hi": {
+      "name": "सिट्रस ग्रीनिंग (ह्वान्गलोंगबिंग)",
+      "severity": "अत्यंत उच्च",
+      "treatment": "संक्रमित पेड़ों को तुरंत नष्ट कर दें। कीट (psyllid) की आबादी को नियंत्रित करने के लिए कीटनाशकों का उपयोग करें।",
+      "prevention": "केवल प्रमाणित रोग-मुक्त पौधों का उपयोग करें। साल भर कीट नियंत्रण कार्यक्रम चलाएं।",
+      "organic_treatment": "नीम का तेल कीटों की संख्या कम करने में मदद कर सकता है, लेकिन यह कम प्रभावी है।",
+      "recommended_insecticide_pesticide": "इमिडाक्लोप्रिड (Imidacloprid), थायामेथोक्सम (Thiamethoxam)।"
+    },
+    "te": {
+      "name": "సిట్రస్ గ్రీనింగ్",
+      "severity": "అత్యంత అధికం",
+      "treatment": "వ్యాప్తిని ఆపడానికి సోకిన చెట్లను వెంటనే నరికివేయండి. కీటకాలను (psyllids) అదుపులో ఉంచండి.",
+      "prevention": "ధృవీకరించబడిన నర్సరీల నుండి మాత్రమే మొక్కలను తీసుకోండి. తోటను నిరంతరం పర్యవేక్షించండి.",
+      "organic_treatment": "వేప నూనె కీటకాలను అదుపు చేయడానికి కొంతవరకు సహాయపడుతుంది.",
+      "recommended_insecticide_pesticide": "ఇమిడాక్లోప్రిడ్, థయామెథోక్సామ్."
+    },
+    "ta": {
+      "name": "சிட்ரஸ் கிரீனிங் (பச்சைப்பாராத நோய்)",
+      "severity": "மிகவும் அதிகம்",
+      "treatment": "பாதிக்கப்பட்ட மரங்களை உடனடியாக அழித்து விடவும். பூச்சிகளைக் கட்டுப்படுத்த பூச்சிக்கொல்லிகளைப் பயன்படுத்தவும்.",
+      "prevention": "சான்றளிக்கப்பட்ட நாற்றுகளை மட்டுமே நடவும். ஆண்டு முழுவதும் பூச்சி மேலாண்மை அவசியம்.",
+      "organic_treatment": "வேம்பு எண்ணெய் பூச்சிகளின் எண்ணிக்கையைத் தற்காலிகமாகக் குறைக்க உதவும்.",
+      "recommended_insecticide_pesticide": "இமிடாக்கிலோபிரிட், தயாமெத்தாக்சம்."
+    },
+    "kn": {
+      "name": "ಸಿಟ್ರಸ್ ಗ್ರೀನಿಂಗ್",
+      "severity": "ಅತ್ಯಂತ ಹೆಚ್ಚು",
+      "treatment": "ಸೋಂಕಿತ ಮರಗಳನ್ನು ತಕ್ಷಣ ನಾಶಪಡಿಸಿ. ಕೀಟಗಳ (psyllids) ನಿಯಂತ್ರಣಕ್ಕೆ ಕೀಟನಾಶಕ ಬಳಸಿ.",
+      "prevention": "ರೋಗಮುಕ್ತ ಸಸಿಗಳನ್ನು ಮಾತ್ರ ಬೆಳೆಸಿ. ವರ್ಷಪೂರ್ತಿ ಕೀಟ ನಿಯಂತ್ರಣ ಕ್ರಮ ಕೈಗೊಳ್ಳಿ.",
+      "organic_treatment": "ಬೇವಿನ ಎಣ್ಣೆಯು ಕೀಟಗಳ ಸಂಖ್ಯೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+      "recommended_insecticide_pesticide": "ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್, ಥಯಾಮೆಥೋಕ್ಸಾಮ್."
+    },
+    "ml": {
+      "name": "സിട്രസ് ഗ്രീനിംഗ്",
+      "severity": "അതിശക്തം",
+      "treatment": "രോഗം ബാധിച്ച മരങ്ങൾ ഉടൻ നശിപ്പിക്കുക. വാഹകരായ പ്രാണികളെ കീടനാശിനി ഉപയോഗിച്ച് നിയന്ത്രിക്കുക.",
+      "prevention": "രോഗമില്ലാത്ത തൈകൾ മാത്രം നടുക. കൃത്യമായ ഇടവേളകളിൽ നിരീക്ഷണം നടത്തുക.",
+      "organic_treatment": "വേപ്പെണ്ണ ഉപയോഗിക്കുന്നത് പ്രാണികളുടെ എണ്ണം കുറയ്ക്കാൻ സഹായിക്കും.",
+      "recommended_insecticide_pesticide": "ഇമിഡാക്ലോപ്രിഡ്, തയാമെത്തോക്സാം."
+    },
+    "mr": {
+      "name": "सिट्रस ग्रीनिंग",
+      "severity": "अत्यंत उच्च",
+      "treatment": "बाधित झाडे त्वरित उपटून नष्ट करा. कीटकांचा (psyllids) नायनाट करण्यासाठी कीटकनाशके वापरा.",
+      "prevention": "रोगमुक्त कलमांचीच लागवड करा. बागेची नियमित पाहणी आणि कीटक नियंत्रण करा.",
+      "organic_treatment": "कडुनिंबाचे तेल कीटकांची संख्या कमी करण्यास मदत करते.",
+      "recommended_insecticide_pesticide": "इमिडाक्लोप्रिड, थायामेथोक्सम."
+    },
+    "bn": {
+      "name": "সিট্রাস গ্রীনিং",
+      "severity": "অত্যন্ত উচ্চ",
+      "treatment": "আক্রান্ত গাছ দ্রুত ধ্বংস করুন। বাহক পোকা দমনে কড়া ব্যবস্থা নিন। গাছের কোনো নিরাময় নেই।",
+      "prevention": "রোগমুক্ত নার্সারি থেকে চারা কিনুন। বছরভর পোকা দমন কর্মসূচি বজায় রাখুন।",
+      "organic_treatment": "নিম তেল পোকা দমনে কিছুটা সাহায্য করতে পারে তবে এটি খুব একটা কার্যকর নয়।",
+      "recommended_insecticide_pesticide": "ইমিডাক্লোপ্রিড, থায়ামেথোক্সাম।"
+    },
+    "gu": {
+      "name": "સિટ્રસ ગ્રીનિંગ",
+      "severity": "ખૂબ જ ઉચ્ચ",
+      "treatment": "ચેપગ્રસ્ત ઝાડને તાત્કાલિક નાશ કરો. કીટકોના નિયંત્રણ માટે કીટનાશકનો ઉપયોગ કરો.",
+      "prevention": "રોગમુક્ત છોડનો ઉપયોગ કરો. આખું વર્ષ કીટક નિયંત્રણ કાર્યક્રમ ચલાવો.",
+      "organic_treatment": "લીમડાનું તેલ કીટકોની સંખ્યા ઘટાડવામાં મદદ કરી શકે છે.",
+      "recommended_insecticide_pesticide": "ઇમિડાક્લોપ્રિડ, થાયામેથોક્સમ."
+    }
+  },
+  "Peach___Bacterial_spot": {
+    "en": {
+      "name": "Bacterial Spot",
+      "severity": "high",
+      "treatment": "Apply copper-based bactericides during dormant season before budbreak. Make 2-3 applications during bloom and early fruit development. Remove severely infected branches. Treatments are protective, not curative.",
+      "prevention": "Plant resistant or tolerant peach varieties when available. Avoid overhead irrigation which spreads bacteria. Maintain tree vigor but avoid excessive nitrogen. Remove and destroy fallen infected leaves. Improve air circulation through proper pruning.",
+      "organic_treatment": "Copper-based sprays are the primary organic option. Apply during dormancy, at budbreak, and during bloom. Fixed copper formulations reduce phytotoxicity risk. Reapply after heavy rains.",
+      "recommended_insecticide_pesticide": "Copper oxychloride: effective bactericide when applied preventatively. Apply during dormant season and continue through early fruit development. Combine with zinc to improve efficacy."
+    },
+    "hi": {
+      "name": "बैक्टीरियल स्पॉट (जीवाणु धब्बा)",
+      "severity": "उच्च",
+      "treatment": "कली फूटने से पहले तांबा-आधारित जीवाणुनाशक लगाएं। गंभीर रूप से संक्रमित शाखाओं को हटा दें।",
+      "prevention": "रोग-प्रतिरोधी किस्मों का उपयोग करें। ऊपर से सिंचाई करने से बचें क्योंकि इससे बैक्टीरिया फैलते हैं।",
+      "organic_treatment": "कॉपर-आधारित स्प्रे प्राथमिक विकल्प हैं। सुप्त अवस्था और फूल आने के दौरान लगाएं।",
+      "recommended_insecticide_pesticide": "कॉपर ऑक्सीक्लोराइड (Copper oxychloride)।"
+    },
+    "te": {
+      "name": "బ్యాక్టీరియల్ స్పాట్",
+      "severity": "అధిక",
+      "treatment": "మొగ్గ రాకముందే కాపర్ ఆధారిత మందులను వాడండి. సోకిన కొమ్మలను తొలగించండి.",
+      "prevention": "నిరోధక రకాలను వాడండి. పై నుండి నీరు పోయడం తగ్గించండి, దీనివల్ల బ్యాక్టీరియా వ్యాపిస్తుంది.",
+      "organic_treatment": "కాపర్ స్ప్రేలను వాడండి. వర్షాల తర్వాత మళ్ళీ వాడాలి.",
+      "recommended_insecticide_pesticide": "కాపర్ ఆక్సిక్లోరైడ్."
+    },
+    "ta": {
+      "name": "பாக்டீரியா இலைப்புள்ளி நோய்",
+      "severity": "அதிகம்",
+      "treatment": "மொட்டு விடுவதற்கு முன் தாமிர அடிப்படையிலான மருந்துகளைப் பயன்படுத்தவும். பாதிக்கப்பட்ட கிளைகளை அகற்றவும்.",
+      "prevention": "நோய் எதிர்ப்புத் திறன் கொண்ட ரகங்களைப் பயன்படுத்தவும். மேலிருந்து நீர் பாய்ச்சுவதைத் தவிர்க்கவும்.",
+      "organic_treatment": "தாமிர அடிப்படையிலான தெளிப்பான்கள் சிறந்தவை. பூக்கும் காலத்தில் பயன்படுத்தவும்.",
+      "recommended_insecticide_pesticide": "காப்பர் ஆக்ஸிகுளோரைடு."
+    },
+    "kn": {
+      "name": "ಬ್ಯಾಕ್ಟೀರಿಯಲ್ ಸ್ಪಾಟ್",
+      "severity": "ಹೆಚ್ಚು",
+      "treatment": "ಮೊಗ್ಗು ಒಡೆಯುವ ಮೊದಲು ತಾಮ್ರದ ಆಧಾರಿತ ಬ್ಯಾಕ್ಟೀರಿಯಾ ನಾಶಕ ಬಳಸಿ. ಸೋಂಕಿತ ಕೊಂಬೆಗಳನ್ನು ಕತ್ತರಿಸಿ.",
+      "prevention": "ರೋಗ ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಬಳಸಿ. ಬ್ಯಾಕ್ಟೀರಿಯಾ ಹರಡುವುದನ್ನು ತಡೆಯಲು ಮೇಲಿನಿಂದ ನೀರು ಹಾಕಬೇಡಿ.",
+      "organic_treatment": "ತಾಮ್ರದ ಆಧಾರಿತ ಸಿಂಪರಣೆಗಳನ್ನು ಬಳಸಿ. ಮಳೆಯ ನಂತರ ಮರುಬಳಕೆ ಮಾಡಿ.",
+      "recommended_insecticide_pesticide": "ಕಾಪರ್ ಆಕ್ಸಿಕ್ಲೋರೈಡ್."
+    },
+    "ml": {
+      "name": "ബാക്ടീരിയൽ സ്പോട്ട്",
+      "severity": "ഉയർന്നത്",
+      "treatment": "മുകുളങ്ങൾ വിരിയുന്നതിന് മുമ്പ് കോപ്പർ അടങ്ങിയ മരുന്നുകൾ പ്രയോഗിക്കുക. ബാധിച്ച ചില്ലകൾ നീക്കം ചെയ്യുക.",
+      "prevention": "പ്രതിരോധ ശേഷിയുള്ള ഇനങ്ങൾ ഉപയോഗിക്കുക. ബാക്ടീരിയ പടരാതിരിക്കാൻ മുകളിൽ നിന്നുള്ള ജലസേചനം ഒഴിവാക്കുക.",
+      "organic_treatment": "കോപ്പർ അടങ്ങിയ സ്പ്രേകൾ ഉപയോഗിക്കുക. മഴയ്ക്ക് ശേഷം വീണ്ടും ഉപയോഗിക്കണം.",
+      "recommended_insecticide_pesticide": "കോപ്പർ ഓക്സിക്ലോറൈഡ്."
+    },
+    "mr": {
+      "name": "बॅक्टेरियल स्पॉट",
+      "severity": "उच्च",
+      "treatment": "कळी येण्यापूर्वी तांबे-आधारित औषधे वापरा. अत्यंत बाधित फांद्या काढून टाका.",
+      "prevention": "रोगप्रतिकारक वाणांची निवड करा. वरून पाणी देणे टाळा, यामुळे जिवाणू पसरतात.",
+      "organic_treatment": "तांबे-आधारित फवारणी हा मुख्य पर्याय आहे. फुलोऱ्याच्या वेळी याचा वापर करा.",
+      "recommended_insecticide_pesticide": "कॉपर ऑक्सीक्लोराइड."
+    },
+    "bn": {
+      "name": "ব্যাকটেরিয়াল স্পট",
+      "severity": "উচ্চ",
+      "treatment": "কুঁড়ি আসার আগে কপার ভিত্তিক জীবাণুনাশক দিন। বেশি আক্রান্ত ডাল ছেঁটে ফেলুন।",
+      "prevention": "প্রতিরোধী জাতের চাষ করুন। ওপর থেকে জল সেচ দেবেন না কারণ এতে ব্যাক্টেরিয়া ছড়ায়।",
+      "organic_treatment": "কপার ভিত্তিক স্প্রে ব্যবহার করুন। বৃষ্টির পর পুনরায় স্প্রে করা প্রয়োজন।",
+      "recommended_insecticide_pesticide": "কপার অক্সিক্লোরাইড।"
+    },
+    "gu": {
+      "name": "બેક્ટેરિયલ સ્પોટ",
+      "severity": "ઉચ્ચ",
+      "treatment": "કળી ખીલતા પહેલા કોપર આધારિત દવાઓ લગાવો. વધુ પડતી ચેપગ્રસ્ત ડાળીઓ દૂર કરો.",
+      "prevention": "પ્રતિકારક જાતોનો ઉપયોગ કરો. ઉપરથી સિંચાઈ કરવાનું ટાળો કારણ કે તે બેક્ટેરિયા ફેલાવે છે.",
+      "organic_treatment": "કોપર આધારિત સ્પ્રે શ્રેષ્ઠ વિકલ્પ છે. ફૂલ આવવા દરમિયાન ઉપયોગ કરો.",
+      "recommended_insecticide_pesticide": "કોપર ઓક્સીક્લોરાઇડ."
+    }
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "en": {
+      "name": "Leaf Blight",
+      "severity": "medium",
+      "treatment": "Apply fungicides when first symptoms appear on lower leaves. Make 2-3 applications at 10-14 day intervals if disease progresses. Most critical period is from bloom through early fruit development.",
+      "prevention": "Practice vineyard sanitation by removing fallen leaves that harbor the pathogen. Ensure good air circulation through shoot thinning and proper canopy management. Avoid excessive nitrogen fertilization. Remove weeds that increase humidity around vines.",
+      "organic_treatment": "Neem oil applied at early symptom development can slow disease progression. Spray thoroughly covering both leaf surfaces. Repeat every 7-10 days during favorable disease conditions. Best used preventatively.",
+      "recommended_insecticide_pesticide": "Chlorothalonil: broad-spectrum protectant effective before infection. Mancozeb: protective fungicide for early season applications, reapply after heavy rain."
+    },
+    "hi": {
+      "name": "लीफ ब्लाइट (पत्ता झुलसा)",
+      "severity": "मध्यम",
+      "treatment": "निचली पत्तियों पर लक्षण दिखने पर कवकनाशी लगाएं। रोग बढ़ने पर 10-14 दिनों के अंतराल पर 2-3 बार छिड़काव करें।",
+      "prevention": "गिरे हुए पत्तों को हटाकर स्वच्छता बनाए रखें। छंटाई के माध्यम से हवा का संचार बढ़ाएं। अत्यधिक नाइट्रोजन उर्वरक से बचें।",
+      "organic_treatment": "शुरुआती लक्षणों पर नीम के तेल का छिड़काव करें। दोनों सतहों पर अच्छी तरह छिड़कें।",
+      "recommended_insecticide_pesticide": "क्लोरोथैलोनिल (Chlorothalonil), मैनकोजेब (Mancozeb)।"
+    },
+    "te": {
+      "name": "ఆకు ఎండు తెగులు",
+      "severity": "మధ్యస్థం",
+      "treatment": "కింది ఆకులపై లక్షణాలు కనిపించినప్పుడు శిలీంధ్ర సంహారిణులను వాడండి. వ్యాధి పెరిగితే 10-14 రోజుల వ్యవధిలో 2-3 సార్లు పిచికారీ చేయండి.",
+      "prevention": "రాలిన ఆకులను తొలగించి తోటను శుభ్రంగా ఉంచండి. కొమ్మల కత్తిరింపు ద్వారా గాలి వెలుతురు పెంచండి.",
+      "organic_treatment": "వ్యాధి ప్రారంభంలో వేప నూనెను ఆకుల రెండు వైపులా పిచికారీ చేయండి.",
+      "recommended_insecticide_pesticide": "క్లోరోథలోనిల్, మాంకోజెబ్."
+    },
+    "ta": {
+      "name": "இலை கருகல் நோய்",
+      "severity": "மிதமானது",
+      "treatment": "கீழ் இலைகளில் அறிகுறிகள் தோன்றும்போது பூஞ்சைக் கொல்லிகளைத் தெளிக்கவும். 10-14 நாட்கள் இடைவெளியில் 2-3 முறை பயன்படுத்தவும்.",
+      "prevention": "விழுந்த இலைகளை அகற்றி தோட்டத்தைச் சுத்தமாக வைக்கவும். அதிக நைட்ரஜன் உரங்களைத் தவிர்க்கவும்.",
+      "organic_treatment": "வேம்பு எண்ணெயை இலைகளின் இருபுறமும் படுமாறு நன்கு தெளிக்கவும்.",
+      "recommended_insecticide_pesticide": "குளோரோதலோனில், மேன்கோசெப்."
+    },
+    "kn": {
+      "name": "ಎಲೆ ಒಣಗುವ ರೋಗ",
+      "severity": "ಮಧ್ಯಮ",
+      "treatment": "ಕೆಳಗಿನ ಎಲೆಗಳಲ್ಲಿ ಮಚ್ಚೆ ಕಂಡಾಗ ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಿ. ರೋಗ ಉಲ್ಬಣಿಸಿದರೆ 10-14 ದಿನಗಳಿಗೊಮ್ಮೆ 2-3 ಬಾರಿ ಸಿಂಪಡಿಸಿ.",
+      "prevention": "ಬಿದ್ದ ಎಲೆಗಳನ್ನು ನಾಶಪಡಿಸಿ ನೈರ್ಮಲ್ಯ ಕಾಪಾಡಿ. ಸರಿಯಾದ ಸಮರುವಿಕೆ ಮೂಲಕ ಗಾಳಿಯಾಡುವಂತೆ ಮಾಡಿ.",
+      "organic_treatment": "ಬೇವಿನ ಎಣ್ಣೆಯನ್ನು ಎಲೆಯ ಎರಡು ಬದಿಗೆ ತಗುಲುವಂತೆ ಸಿಂಪಡಿಸಿ.",
+      "recommended_insecticide_pesticide": "ಕ್ಲೋರೋಥಲೋನಿಲ್, ಮ್ಯಾಂಕೋಜೆಬ್."
+    },
+    "ml": {
+      "name": "ഇല കരിച്ചിൽ",
+      "severity": "മിതമായ",
+      "treatment": "താഴത്തെ ഇലകളിൽ രോഗം കാണുമ്പോൾ കുമിൾനാശിനി ഉപയോഗിക്കുക. 10-14 ദിവസത്തെ ഇടവേളയിൽ പ്രയോഗിക്കുക.",
+      "prevention": "വീണുകിടക്കുന്ന ഇലകൾ നീക്കം ചെയ്യുക. വായുസഞ്ചാരം ഉറപ്പാക്കാൻ ചില്ലകൾ വെട്ടി ഒതുക്കുക.",
+      "organic_treatment": "വേപ്പെണ്ണ ഇലയുടെ ഇരുവശത്തും നന്നായി തളിക്കുക.",
+      "recommended_insecticide_pesticide": "ക്ലോറോതലിലോനിൽ, മാങ്കോസെബ്."
+    },
+    "mr": {
+      "name": "लीफ ब्लाइट",
+      "severity": "मध्यम",
+      "treatment": "खालच्या पानांवर लक्षणे दिसताच बुरशीनाशके लावा. १०-१४ दिवसांच्या अंतराने २-३ वेळा फवारणी करा.",
+      "prevention": "गळलेली पाने काढून टाका. झाडांची छाटणी करून हवा खेळती ठेवा. जास्त नत्रयुक्त खते टाळा.",
+      "organic_treatment": "कडुनिंबाच्या तेलाची दोन्ही बाजूने नीट फवारणी करा.",
+      "recommended_insecticide_pesticide": "क्लोरोथॅलोनिल, मॅन्કોझेब."
+    },
+    "bn": {
+      "name": "লিফ ব্লাইট",
+      "severity": "মাঝারি",
+      "treatment": "নিচের পাতায় লক্ষণ দেখা দিলে ছত্রাকনাশক দিন। ১০-১৪ দিন অন্তর ২-৩ বার প্রয়োগ করুন।",
+      "prevention": "ঝরা পাতা পরিষ্কার রাখুন। সঠিক বায়ু চলাচলের জন্য ডাল ছাঁটাই করুন। অতিরিক্ত নাইট্রোজেন সার দেবেন না।",
+      "organic_treatment": "পাতার দুই পিঠে ভালো করে নিম তেল স্প্রে করুন।",
+      "recommended_insecticide_pesticide": "ক্লোরোথ্যালোনিল, ম্যানকোজেব।"
+    },
+    "gu": {
+      "name": "લીફ બ્લાઈટ",
+      "severity": "મધ્યમ",
+      "treatment": "નીચેના પાંદડા પર ચિહ્નો દેખાય ત્યારે ફૂગનાશક લગાવો. દર 10-14 દિવસે 2-3 વાર છંટકાવ કરો.",
+      "prevention": "ખરી ગયેલા પાંદડા દૂર કરો. હવાની અવરજવર માટે યોગ્ય છટણી કરો. વધુ નાઈટ્રોજન ખાતર ટાળો.",
+      "organic_treatment": "લીમડાના તેલનો પાંદડાની બંને સપાટી પર છંટકાવ કરો.",
+      "recommended_insecticide_pesticide": "ક્લોરોથૈલોનિલ, મેન્કોઝેબ."
+    }
+  },
+  "Grape___healthy": {
+    "en": {
+      "name": "Healthy Crop",
+      "severity": "none",
+      "treatment": "No treatment required. Continue regular vineyard monitoring and maintenance.",
+      "prevention": "Implement routine vineyard care including balanced pruning, shoot positioning, and canopy management. Monitor weekly for disease and pest issues. Maintain soil health and appropriate fertility. Ensure proper irrigation timing.",
+      "organic_treatment": "Not applicable for healthy vines.",
+      "recommended_insecticide_pesticide": "Not required. Maintain good cultural practices."
+    },
+    "hi": {
+      "name": "स्वस्थ फसल",
+      "severity": "कोई नहीं",
+      "treatment": "किसी उपचार की आवश्यकता नहीं है। नियमित देखभाल जारी रखें।",
+      "prevention": "संतुलित छंटाई और कैनोपी प्रबंधन करें। साप्ताहिक रूप से रोगों और कीटों की निगरानी करें।",
+      "organic_treatment": "लागू नहीं।",
+      "recommended_insecticide_pesticide": "आवश्यक नहीं।"
+    },
+    "te": {
+      "name": "ఆరోగ్యకరమైన పంట",
+      "severity": "ఏదీ లేదు",
+      "treatment": "చికిత్స అవసరం లేదు. తోట నిర్వహణ కొనసాగించండి.",
+      "prevention": "సరైన కత్తిరింపులు చేయండి. వారం వారం చీడపీడల కోసం పర్యవేక్షించండి.",
+      "organic_treatment": "అవసరం లేదు.",
+      "recommended_insecticide_pesticide": "అవసరం లేదు."
+    },
+    "ta": {
+      "name": "ஆரோக்கியமான பயிர்",
+      "severity": "இல்லை",
+      "treatment": "சிகிச்சை தேவையில்லை. தொடர்ந்து கண்காணிப்பு அவசியம்.",
+      "prevention": "முறையான கத்தரித்தல் மற்றும் கிளை மேலாண்மை தேவை. வாராந்திர கண்காணிப்பு அவசியம்.",
+      "organic_treatment": "தேவையில்லை.",
+      "recommended_insecticide_pesticide": "தேவையில்லை."
+    },
+    "kn": {
+      "name": "ಆರೋಗ್ಯಕರ ಬೆಳೆ",
+      "severity": "ಯಾವುದೂ ಇಲ್ಲ",
+      "treatment": "ಯಾವುದೇ ಚಿಕಿತ್ಸೆ ಅಗತ್ಯವಿಲ್ಲ. ನಿಯಮಿತವಾಗಿ ಗಮನಿಸಿ.",
+      "prevention": "ಸಮತೋಲಿತ ಸಮರುವಿಕೆ ಮತ್ತು ಮೇಲಾವರಣ ನಿರ್ವಹಣೆ ಮಾಡಿ. ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಕಾಪಾಡಿ.",
+      "organic_treatment": "ಅನ್ವಯಿಸುವುದಿಲ್ಲ.",
+      "recommended_insecticide_pesticide": "ಅಗತ್ಯವಿಲ್ಲ."
+    },
+    "ml": {
+      "name": "ആരോഗ്യകരമായ വിള",
+      "severity": "ഒന്നുമില്ല",
+      "treatment": "ചികിത്സ ആവശ്യമില്ല. പതിവായി നിരീക്ഷിക്കുക.",
+      "prevention": "കൃത്യമായ പ്രൂണിംഗും പരിപാലനവും നടത്തുക. ആഴ്ചയിലൊരിക്കൽ രോഗനിരീക്ഷണം നടത്തുക.",
+      "organic_treatment": "ബാധകമല്ല.",
+      "recommended_insecticide_pesticide": "ആവശ്യമില്ല."
+    },
+    "mr": {
+      "name": "निरोगी पीक",
+      "severity": "काहीही नाही",
+      "treatment": "उपचारांची गरज नाही. नियमित देखरेख ठेवा.",
+      "prevention": "छाटणी आणि वेलींचे योग्य व्यवस्थापन करा. जमिनीचे आरोग्य आणि सुपिकता टिकवा.",
+      "organic_treatment": "गरज नाही.",
+      "recommended_insecticide_pesticide": "गरज नाही."
+    },
+    "bn": {
+      "name": "সুস্থ ফসল",
+      "severity": "কিছু না",
+      "treatment": "কোন চিকিৎসার প্রয়োজন নেই। নিয়মিত দেখাশোনা করুন।",
+      "prevention": "সুষম ছাঁটাই ও লতার বিন্যাস বজায় রাখুন। মাটির স্বাস্থ্য ভালো রাখুন ও সঠিক জল সেচ দিন।",
+      "organic_treatment": "প্রয়োজন নেই।",
+      "recommended_insecticide_pesticide": "প্রয়োজন নেই।"
+    },
+    "gu": {
+      "name": "સ્વસ્થ પાક",
+      "severity": "કંઈ નહીં",
+      "treatment": "કોઈ સારવારની જરૂર નથી. નિયમિત નિરીક્ષણ ચાલુ રાખો.",
+      "prevention": "સંતુલિત છટણી અને વેલાનું સંચાલન કરો. જમીનની ફળદ્રુપતા જાળવો.",
+      "organic_treatment": "લાગુ પડતું નથી.",
+      "recommended_insecticide_pesticide": "જરૂર નથી."
+    }
+  },
+  "Peach___healthy": {
+    "en": {
+      "name": "Healthy Crop",
+      "severity": "none",
+      "treatment": "No treatment required. Monitor trees regularly throughout growing season.",
+      "prevention": "Annual dormant season pruning to maintain tree structure and remove dead wood. Provide adequate nutrition based on leaf tissue analysis. Maintain consistent soil moisture. Scout regularly for disease and insect issues.",
+      "organic_treatment": "Not applicable for healthy trees.",
+      "recommended_insecticide_pesticide": "Not required. Focus on preventative cultural management."
+    },
+    "hi": {
+      "name": "स्वस्थ फसल",
+      "severity": "कोई नहीं",
+      "treatment": "किसी उपचार की आवश्यकता नहीं है। मौसम के दौरान नियमित निगरानी रखें।",
+      "prevention": "संरचना बनाए रखने के लिए वार्षिक छंटाई करें। मिट्टी परीक्षण के आधार पर पोषण दें और नमी बनाए रखें।",
+      "organic_treatment": "लागू नहीं।",
+      "recommended_insecticide_pesticide": "आवश्यक नहीं।"
+    },
+    "te": {
+      "name": "ఆరోగ్యకరమైన పంట",
+      "severity": "ఏదీ లేదు",
+      "treatment": "చికిత్స అవసరం లేదు. చెట్లను క్రమం తప్పకుండా పర్యవేక్షించండి.",
+      "prevention": "ప్రతి సంవత్సరం కత్తిరింపులు చేయండి. ఆకుల విశ్లేషణ ఆధారంగా సరైన పోషకాలను అందించండి.",
+      "organic_treatment": "అవసరం లేదు.",
+      "recommended_insecticide_pesticide": "అవసరం లేదు."
+    },
+    "ta": {
+      "name": "ஆரோக்கியமான பயிர்",
+      "severity": "இல்லை",
+      "treatment": "சிகிச்சை தேவையில்லை. பருவம் முழுவதும் தொடர்ந்து கண்காணிக்கவும்.",
+      "prevention": "ஆண்டுதோறும் கத்தரித்து விடவும். இலை திசு ஆய்வின் அடிப்படையில் போதுமான ஊட்டச்சத்து அளிக்கவும்.",
+      "organic_treatment": "தேவையில்லை.",
+      "recommended_insecticide_pesticide": "தேவையில்லை."
+    },
+    "kn": {
+      "name": "ಆರೋಗ್ಯಕರ ಬೆಳೆ",
+      "severity": "ಯಾವುದೂ ಇಲ್ಲ",
+      "treatment": "ಯಾವುದೇ ಚಿಕಿತ್ಸೆ ಅಗತ್ಯವಿಲ್ಲ. ನಿಯಮಿತವಾಗಿ ಗಮನಿಸುತ್ತಿರಿ.",
+      "prevention": "ಒಣಗಿದ ಕೊಂಬೆಗಳನ್ನು ತೆಗೆಯಲು ವಾರ್ಷಿಕ ಸಮರುವಿಕೆ ಮಾಡಿ. ಮಣ್ಣಿನ ತೇವಾಂಶವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಿ.",
+      "organic_treatment": "ಅನ್ವಯಿಸುವುದಿಲ್ಲ.",
+      "recommended_insecticide_pesticide": "ಅಗತ್ಯವಿಲ್ಲ."
+    },
+    "ml": {
+      "name": "ആരോഗ്യകരമായ വിള",
+      "severity": "ഒന്നുമില്ല",
+      "treatment": "ചികിത്സ ആവശ്യമില്ല. വളർച്ചാ കാലയളവിൽ ഉടനീളം നിരീക്ഷിക്കുക.",
+      "prevention": "വാർഷിക പ്രൂണിംഗ് നടത്തുക. കൃത്യമായ പോഷകങ്ങളും ഈർപ്പവും ഉറപ്പാക്കുക.",
+      "organic_treatment": "ബാധകമല്ല.",
+      "recommended_insecticide_pesticide": "ആവശ്യമില്ല."
+    },
+    "mr": {
+      "name": "निरोगी पीक",
+      "severity": "काहीही नाही",
+      "treatment": "उपचारांची गरज नाही. नियमित निरीक्षण करा.",
+      "prevention": "दरवर्षी झाडांची छाटणी करा. मातीतील ओलावा टिकवून ठेवा आणि संतुलित खते द्या.",
+      "organic_treatment": "गरज नाही.",
+      "recommended_insecticide_pesticide": "गरज नाही."
+    },
+    "bn": {
+      "name": "সুস্থ ফসল",
+      "severity": "কিছু না",
+      "treatment": "কোন চিকিৎসার প্রয়োজন নেই। নিয়মিত পর্যবেক্ষণ করুন।",
+      "prevention": "বার্ষিক ডাল ছাঁটাই করুন। নিয়মিত পুষ্টি ও মাটির আর্দ্রতা বজায় রাখুন।",
+      "organic_treatment": "প্রয়োজন নেই।",
+      "recommended_insecticide_pesticide": "প্রয়োজন নেই।"
+    },
+    "gu": {
+      "name": "સ્વસ્થ પાક",
+      "severity": "કંઈ નહીં",
+      "treatment": "કોઈ સારવારની જરૂર નથી. નિયમિત નિરીક્ષણ ચાલુ રાખો.",
+      "prevention": "વાર્ષિક છટણી કરો. પાંદડાના વિશ્લેષણના આધારે પૂરતું પોષણ આપો.",
+      "organic_treatment": "લાગુ પડતું નથી.",
+      "recommended_insecticide_pesticide": "જરૂર નથી."
+    }
+  },
+
+  "Pepper,_bell___Bacterial_spot": {
+    "en": {
+      "name": "Bacterial Spot",
+      "severity": "high",
+      "treatment": "Remove and destroy infected plants immediately to reduce bacterial spread. Apply copper-based sprays weekly during warm, humid weather. Avoid working in wet fields to prevent mechanical spread of bacteria.",
+      "prevention": "Use only certified disease-free seeds and transplants. Rotate with non-host crops for 2-3 years. Avoid overhead irrigation; use drip systems instead. Space plants adequately for air circulation. Disinfect tools and equipment between fields.",
+      "organic_treatment": "Neem oil combined with copper soap provides some bacterial suppression. Copper-based products are most effective organic option. Apply preventatively every 5-7 days during warm, wet periods.",
+      "recommended_insecticide_pesticide": "Copper hydroxide: bactericide applied as protective treatment. Begin applications at transplanting and continue through fruit development. More effective when combined with mancozeb in tank mix."
+    },
+    "hi": {
+      "name": "बैक्टीरियल स्पॉट (जीवाणु धब्बा)",
+      "severity": "उच्च",
+      "treatment": "संक्रमित पौधों को तुरंत नष्ट करें। गर्म, आर्द्र मौसम में साप्ताहिक तांबा-आधारित स्प्रे लगाएं। गीले खेतों में काम करने से बचें।",
+      "prevention": "प्रमाणित रोग-मुक्त बीजों का उपयोग करें। ऊपर से सिंचाई के बजाय ड्रिप सिंचाई (Drip irrigation) का उपयोग करें।",
+      "organic_treatment": "कॉपर सोप और नीम के तेल का मिश्रण प्रभावी है। इसे हर 5-7 दिनों में लगाएं।",
+      "recommended_insecticide_pesticide": "कॉपर हाइड्रोक्साइड (Copper hydroxide), मैनकोजेब (Mancozeb)।"
+    },
+    "te": {
+      "name": "బ్యాక్టీరియల్ స్పాట్",
+      "severity": "అధిక",
+      "treatment": "సోకిన మొక్కలను వెంటనే నాశనం చేయండి. కాపర్ ఆధారిత మందులను ప్రతి వారం పిచికారీ చేయండి.",
+      "prevention": "ధృవీకరించబడిన విత్తనాలను వాడండి. డ్రిప్ ఇరిగేషన్ పద్ధతిని అనుసరించండి. పనిముట్లను శుభ్రం చేయండి.",
+      "organic_treatment": "కాపర్ సోప్ మరియు వేప నూనె మిశ్రమాన్ని ప్రతి 5-7 రోజులకు వాడండి.",
+      "recommended_insecticide_pesticide": "కాపర్ హైడ్రాక్సైడ్, మాంకోజెబ్."
+    },
+    "ta": {
+      "name": "பாக்டீரியா இலைப்புள்ளி நோய்",
+      "severity": "அதிகம்",
+      "treatment": "பாதிக்கப்பட்ட செடிகளை உடனடியாக அகற்றவும். வாரந்தோறும் தாமிர அடிப்படையிலான மருந்துகளைத் தெளிக்கவும்.",
+      "prevention": "சான்றளிக்கப்பட்ட விதைகளைப் பயன்படுத்தவும். சொட்டுநீர் பாசனத்தைப் பயன்படுத்தவும் (Drip irrigation).",
+      "organic_treatment": "வேம்பு எண்ணெய் மற்றும் காப்பர் சோப் கலவையைப் பயன்படுத்தவும்.",
+      "recommended_insecticide_pesticide": "காப்பர் ஹைட்ராக்சைடு, மேன்கோசெப்."
+    },
+    "kn": {
+      "name": "ಬ್ಯಾಕ್ಟೀರಿಯಲ್ ಸ್ಪಾಟ್",
+      "severity": "ಹೆಚ್ಚು",
+      "treatment": "ಸೋಂಕಿತ ಗಿಡಗಳನ್ನು ತಕ್ಷಣ ನಾಶಪಡಿಸಿ. ವಾರಕ್ಕೊಮ್ಮೆ ತಾಮ್ರದ ಆಧಾರಿತ ಸಿಂಪರಣೆಗಳನ್ನು ಬಳಸಿ.",
+      "prevention": "ರೋಗಮುಕ್ತ ಬೀಜಗಳನ್ನು ಬಳಸಿ. ಹನಿ ನೀರಾವರಿ (Drip irrigation) ಪದ್ಧತಿ ಅನುಸರಿಸಿ. ಗಿಡಗಳ ನಡುವೆ ಅಂತರವಿರಲಿ.",
+      "organic_treatment": "ಕಾಪರ್ ಸೋಪ್ ಮತ್ತು ಬೇವಿನ ಎಣ್ಣೆ ಮಿಶ್ರಣವನ್ನು ಪ್ರತಿ 5-7 ದಿನಗಳಿಗೊಮ್ಮೆ ಬಳಸಿ.",
+      "recommended_insecticide_pesticide": "ಕಾಪರ್ ಹೈಡ್ರಾಕ್ಸೈಡ್, ಮ್ಯಾಂಕೋಜೆಬ್."
+    },
+    "ml": {
+      "name": "ബാക്ടീരിയൽ സ്പോട്ട്",
+      "severity": "ഉയർന്നത്",
+      "treatment": "രോഗം ബാಧിച്ച ചെടികൾ നശിപ്പിക്കുക. കോപ്പർ അടങ്ങിയ സ്പ്രേകൾ ആഴ്ചയിലൊരിക്കൽ ഉപയോഗിക്കുക.",
+      "prevention": "രോഗമില്ലാത്ത വിത്തുകൾ ഉപയോഗിക്കുക. തുള്ളിനന (Drip irrigation) രീതി സ്വീകരിക്കുക. ഉപകരണങ്ങൾ അണുമുക്തമാക്കുക.",
+      "organic_treatment": "വേപ്പെണ്ണയും കോപ്പർ സോപ്പും കലർത്തി 5-7 ദിവസത്തിലൊരിക്കൽ പ്രയോഗിക്കുക.",
+      "recommended_insecticide_pesticide": "കോപ്പർ ഹൈഡ്രോക്സൈഡ്, മാങ്കോസെബ്."
+    },
+    "mr": {
+      "name": "बॅक्टेरियल स्पॉट",
+      "severity": "उच्च",
+      "treatment": "संक्रमित झाडे त्वरित नष्ट करा. तांबे-आधारित औषधांची दर आठवड्याला फवारणी करा.",
+      "prevention": "रोगमुक्त बियाणे वापरा. ठिबक सिंचनाचा (Drip irrigation) वापर करा. शेतात काम करताना अवजारे निर्जंतुक करा.",
+      "organic_treatment": "कॉपर सोप आणि कडुनिंबाच्या तेलाचे मिश्रण ५-७ दिवसांनी वापरा.",
+      "recommended_insecticide_pesticide": "कॉपर हायड्रॉक्साईड, मॅन्કોझेब."
+    },
+    "bn": {
+      "name": "ব্যাকটেরিয়াল স্পট",
+      "severity": "উচ্চ",
+      "treatment": "আক্রান্ত গাছ দ্রুত ধ্বংস করুন। সপ্তাহে একবার কপার ভিত্তিক স্প্রে ব্যবহার করুন। ভেজা জমিতে কাজ করবেন না।",
+      "prevention": "প্রত্যয়িত রোগমুক্ত বীজ ব্যবহার করুন। ওপর থেকে জল না দিয়ে ড্রিপ সেচ (Drip irrigation) ব্যবহার করুন।",
+      "organic_treatment": "নিম তেল ও কপার সোপের মিশ্রণ ৫-৭ দিন অন্তর ব্যবহার করুন।",
+      "recommended_insecticide_pesticide": "কপার হাইড্রোক্সাইড, ম্যানকোজেব।"
+    },
+    "gu": {
+      "name": "બેક્ટેરિયલ સ્પોટ",
+      "severity": "ઉચ્ચ",
+      "treatment": "ચેપગ્રસ્ત છોડને તાત્કાલિક નાશ કરો. કોપર આધારિત સ્પ્રેનો સાપ્તાહિક ઉપયોગ કરો. ભીના ખેતરમાં કામ ટાળો.",
+      "prevention": "પ્રમાણિત બીજનો ઉપયોગ કરો. ટપક સિંચાઈ (Drip irrigation) પદ્ધતિ અપનાવો. હવાની અવરજવર માટે યોગ્ય અંતર રાખો.",
+      "organic_treatment": "લીમડાના તેલ અને કોપર સોપનું મિશ્રણ દર 5-7 દિવસે વાપરો.",
+      "recommended_insecticide_pesticide": "કોપર હાઇડ્રોક્સાઇડ, મેન્કોઝેબ."
+    }
+  },
+  "Pepper,_bell___healthy": {
+    "en": {
+      "name": "Healthy Crop",
+      "severity": "none",
+      "treatment": "No treatment required. Continue monitoring plants for any developing issues.",
+      "prevention": "Maintain balanced fertilization avoiding excessive nitrogen. Monitor regularly for pest and disease symptoms. Ensure consistent soil moisture with drip irrigation. Mulch to suppress weeds and maintain soil temperature.",
+      "organic_treatment": "Not applicable for healthy plants.",
+      "recommended_insecticide_pesticide": "Not required. Practice good crop management."
+    },
+    "hi": {
+      "name": "स्वस्थ फसल",
+      "severity": "कोई नहीं",
+      "treatment": "किसी उपचार की आवश्यकता नहीं है। पौधों की नियमित निगरानी करते रहें।",
+      "prevention": "संतुलित उर्वरक दें। नमी बनाए रखने के लिए मल्चिंग (Mulching) का प्रयोग करें।",
+      "organic_treatment": "लागू नहीं।",
+      "recommended_insecticide_pesticide": "आवश्यक नहीं।"
+    },
+    "te": {
+      "name": "ఆరోగ్యకరమైన పంట",
+      "severity": "ఏదీ లేదు",
+      "treatment": "చికిత్స అవసరం లేదు. మొక్కలను నిరంతరం గమనించండి.",
+      "prevention": "సమతుల్య ఎరువులు వాడండి. కలుపు నివారణకు మల్చింగ్ చేయండి.",
+      "organic_treatment": "అవసరం లేదు.",
+      "recommended_insecticide_pesticide": "అవసరం లేదు."
+    },
+    "ta": {
+      "name": "ஆரோக்கியமான பயிர்",
+      "severity": "இல்லை",
+      "treatment": "சிகிச்சை தேவையில்லை. செடிகளைத் தொடர்ந்து கண்காணிக்கவும்.",
+      "prevention": "சரியான உர மேலாண்மை தேவை. களைகளைக் கட்டுப்படுத்த தழைக்கூளம் (Mulching) பயன்படுத்தவும்.",
+      "organic_treatment": "தேவையில்லை.",
+      "recommended_insecticide_pesticide": "தேவையில்லை."
+    },
+    "kn": {
+      "name": "ಆರೋಗ್ಯಕರ ಬೆಳೆ",
+      "severity": "ಯಾವುದೂ ಇಲ್ಲ",
+      "treatment": "ಯಾವುದೇ ಚಿಕಿತ್ಸೆ ಅಗತ್ಯವಿಲ್ಲ. ನಿರಂತರ ತಪಾಸಣೆ ನಡೆಸಿ.",
+      "prevention": "ಸಮತೋಲಿತ ಗೊಬ್ಬರ ನೀಡಿ. ಕಳೆ ನಿಯಂತ್ರಿಸಲು ಮಲ್ಚಿಂಗ್ (Mulching) ಮಾಡಿ.",
+      "organic_treatment": "ಅನ್ವಯಿಸುವುದಿಲ್ಲ.",
+      "recommended_insecticide_pesticide": "ಅಗತ್ಯವಿಲ್ಲ."
+    },
+    "ml": {
+      "name": "ആരോഗ്യകരമായ വിള",
+      "severity": "ഒന്നുമില്ല",
+      "treatment": "ചികിത്സ ആവശ്യമില്ല. പതിവായി നിരീക്ഷിക്കുക.",
+      "prevention": "അമിതമായ നൈട്രജൻ വളപ്രയോഗം ഒഴിവാക്കുക. കള നിയന്ത്രണത്തിനായി മൾച്ചിംഗ് ചെയ്യുക.",
+      "organic_treatment": "ബാധകമല്ല.",
+      "recommended_insecticide_pesticide": "ആവശ്യമില്ല."
+    },
+    "mr": {
+      "name": "निरोगी पीक",
+      "severity": "काहीही नाही",
+      "treatment": "उपचारांची गरज नाही. झाडांची नियमित पाहणी करा.",
+      "prevention": "नत्रयुक्त खतांचा संतुलित वापर करा. तण रोखण्यासाठी मल्चिंगचा वापर करा.",
+      "organic_treatment": "गरज नाही.",
+      "recommended_insecticide_pesticide": "गरज नाही."
+    },
+    "bn": {
+      "name": "সুস্থ ফসল",
+      "severity": "কিছু না",
+      "treatment": "কোন চিকিৎসার প্রয়োজন নেই। নিয়মিত পর্যবেক্ষণ করুন।",
+      "prevention": "সুষম সার দিন। আগাছা দমনের জন্য মালচিং (Mulching) করুন এবং সঠিক আর্দ্রতা বজায় রাখুন।",
+      "organic_treatment": "প্রয়োজন নেই।",
+      "recommended_insecticide_pesticide": "প্রয়োজন নেই।"
+    },
+    "gu": {
+      "name": "સ્વસ્થ પાક",
+      "severity": "કંઈ નહીં",
+      "treatment": "કોઈ સારવારની જરૂર નથી. નિયમિત તપાસ ચાલુ રાખો.",
+      "prevention": "સંતુલિત ખાતર આપો. નિંદામણ રોકવા માટે મલ્ચિંગ પદ્ધતિ અપનાવો.",
+      "organic_treatment": "લાગુ પડતું નથી.",
+      "recommended_insecticide_pesticide": "જરૂર નથી."
+    }
+  },
+  "Potato___Early_blight": {
+    "en": {
+      "name": "Early Blight",
+      "severity": "medium",
+      "treatment": "Apply fungicides when first symptoms appear or preventatively if conditions favor disease. Remove and destroy infected lower leaves. Continue applications every 7-14 days through season depending on disease pressure.",
+      "prevention": "Practice 3-4 year crop rotation with non-solanaceous crops. Use certified disease-free seed potatoes. Apply mulch to prevent soil splash onto foliage. Maintain adequate plant spacing for air circulation. Avoid overhead irrigation when possible.",
+      "organic_treatment": "Copper fungicides provide protective action against early blight. Apply preventatively or at first symptoms. Fixed copper products preferred to reduce leaf damage. Reapply after heavy rain.",
+      "recommended_insecticide_pesticide": "Mancozeb: protectant fungicide applied preventatively or at first symptoms. Chlorothalonil: broad-spectrum option for moderate to severe infections. Rotate products to prevent resistance."
+    },
+    "hi": {
+      "name": "अगेती झुलसा (Early Blight)",
+      "severity": "मध्यम",
+      "treatment": "लक्षण दिखने पर कवकनाशी लगाएं। संक्रमित निचली पत्तियों को हटा दें। हर 7-14 दिनों में छिड़काव जारी रखें।",
+      "prevention": "3-4 साल का फसल चक्र अपनाएं। प्रमाणित रोग-मुक्त बीज आलू का उपयोग करें। मल्चिंग का उपयोग करें।",
+      "organic_treatment": "कॉपर कवकनाशी सुरक्षा प्रदान करते हैं। बारिश के बाद दोबारा प्रयोग करें।",
+      "recommended_insecticide_pesticide": "मैनकोजेब (Mancozeb), क्लोरोथैलोनिल (Chlorothalonil)।"
+    },
+    "te": {
+      "name": "తొలి ఆకు ఎండు తెగులు",
+      "severity": "మధ్యస్థం",
+      "treatment": "లక్షణాలు కనిపించిన వెంటనే శిలీంధ్ర సంహారిణులను వాడండి. సోకిన కింది ఆకులను తొలగించండి.",
+      "prevention": "3-4 ఏళ్ల పంట మార్పిడి చేయండి. ధృవీకరించబడిన విత్తన బంగాళాదుంపలను వాడండి.",
+      "organic_treatment": "కాపర్ శిలీంధ్ర సంహారిణులను నివారణగా వాడండి.",
+      "recommended_insecticide_pesticide": "మాంకోజెబ్, క్లోరోథలోనిల్."
+    },
+    "ta": {
+      "name": "முன் கருகல் நோய்",
+      "severity": "மிதமானது",
+      "treatment": "அறிகுறிகள் தோன்றும்போது பூஞ்சைக் கொல்லிகளைத் தெளிக்கவும். பாதிக்கப்பட்ட கீழ் இலைகளை அகற்றவும்.",
+      "prevention": "3-4 ஆண்டுகள் பயிர் சுழற்சியைப் பின்பற்றவும். சான்றளிக்கப்பட்ட விதை உருளைக்கிழங்கைப் பயன்படுத்தவும்.",
+      "organic_treatment": "தாமிரப் பூஞ்சைக் கொல்லிகள் சிறந்த பாதுகாப்பு அளிக்கும்.",
+      "recommended_insecticide_pesticide": "மேன்கோசெப், குளோரோதலோனில்."
+    },
+    "kn": {
+      "name": "ಆಲೂಗೆಡ್ಡೆ ಮುಂಗಾರು ಪೀಡೆ",
+      "severity": "ಮಧ್ಯಮ",
+      "treatment": "ರೋಗದ ಲಕ್ಷಣಗಳು ಕಂಡಾಗ ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಿ. ಸೋಂಕಿತ ಕೆಳಗಿನ ಎಲೆಗಳನ್ನು ನಾಶಪಡಿಸಿ.",
+      "prevention": "3-4 ವರ್ಷಗಳ ಬೆಳೆ ಸರದಿ ಅನುಸರಿಸಿ. ರೋಗಮುಕ್ತ ಬಿತ್ತನೆ ಗೆಡ್ಡೆಗಳನ್ನು ಬಳಸಿ.",
+      "organic_treatment": "ತಾಮ್ರದ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಬಳಸಿ.",
+      "recommended_insecticide_pesticide": "ಮ್ಯಾಂಕೋಜೆಬ್, ಕ್ಲೋರೋಥಲೋನಿಲ್."
+    },
+    "ml": {
+      "name": "അഗതി വട്ടം (Early Blight)",
+      "severity": "മിതമായ",
+      "treatment": "ലക്ഷണങ്ങൾ കണ്ടാലുടൻ കുമിൾനാശിനി ഉപയോഗിക്കുക. രോഗം ബാധിച്ച താഴത്തെ ഇലകൾ നീക്കം ചെയ്യുക.",
+      "prevention": "3-4 വർഷത്തെ വിള പരിക്രമണം നടത്തുക. ഗുണമേന്മയുള്ള വിത്തുകൾ ഉപയോഗിക്കുക.",
+      "organic_treatment": "കോപ്പർ കുമിൾനാശിനികൾ ഉപയോഗിക്കുക.",
+      "recommended_insecticide_pesticide": "മാങ്കോസെബ്, ക്ലോറോതലിലോനിൽ."
+    },
+    "mr": {
+      "name": "अगेती करपा (Early Blight)",
+      "severity": "मध्यम",
+      "treatment": "लक्षणे दिसताच बुरशीनाशके लावा. बाधित खालची पाने काढून टाका.",
+      "prevention": "३-४ वर्षांचा पीक फेरपालट करा. प्रमाणित रोगमुक्त बियाणे वापरा.",
+      "organic_treatment": "कॉपर बुरशीनाशके प्रतिबंधात्मक म्हणून वापरा.",
+      "recommended_insecticide_pesticide": "मॅन्कोझेब, क्लोरोथॅलोनिल."
+    },
+    "bn": {
+      "name": "আগেতি ধসা (Early Blight)",
+      "severity": "মাঝারি",
+      "treatment": "লক্ষণ দেখা দিলে ছত্রাকনাশক দিন। আক্রান্ত নিচের পাতাগুলি সরিয়ে ফেলুন।",
+      "prevention": "৩-৪ বছরের ফসল আবর্তন করুন। প্রত্যয়িত বীজ আলু ব্যবহার করুন। মালচিং করুন।",
+      "organic_treatment": "কপার ছত্রাকনাশক ব্যবহার করুন। বৃষ্টির পর পুনরায় প্রয়োগ প্রয়োজন।",
+      "recommended_insecticide_pesticide": "ম্যানকোজেব, ক্লোরোথ্যালোনিল।"
+    },
+    "gu": {
+      "name": "આગોતરો ઝુલ્સારો",
+      "severity": "મધ્યમ",
+      "treatment": "ચિહ્નો દેખાય ત્યારે ફૂગનાશક લગાવો. ચેપગ્રસ્ત નીચેના પાંદડા દૂર કરો.",
+      "prevention": "3-4 વર્ષ પાકની ફેરબદલી કરો. પ્રમાણિત બીજ બટાટાનો ઉપયોગ કરો.",
+      "organic_treatment": "કોપર ફૂગનાશકો રક્ષણાત્મક પગલા તરીકે વાપરો.",
+      "recommended_insecticide_pesticide": "મેન્કોઝેબ, ક્લોરોથૈલોનિલ."
+    }
+  },
+  "Potato___Late_blight": {
+    "en": {
+      "name": "Late Blight",
+      "severity": "very high",
+      "treatment": "Apply fungicides immediately upon disease detection or when forecasting models predict high risk. Spray every 5-7 days during conducive weather. Destroy infected plants rapidly to prevent spore spread to neighboring fields.",
+      "prevention": "Plant certified disease-free seed potatoes. Avoid planting near cull piles or volunteer potatoes. Monitor weather-based disease forecasting systems. Eliminate volunteer potatoes and nightshade weeds. Use resistant varieties when available.",
+      "organic_treatment": "Copper sprays offer limited protection but require frequent application during high-risk periods. Apply every 5 days during wet, cool weather. Less effective than synthetic fungicides but acceptable for organic production.",
+      "recommended_insecticide_pesticide": "Metalaxyl: systemic fungicide with curative action, use in tank mix with protectants. Cymoxanil: provides knockdown of existing infections. Alternate with Mancozeb or Chlorothalonil for resistance management."
+    },
+    "hi": {
+      "name": "पछेती झुलसा (Late Blight)",
+      "severity": "अत्यंत उच्च",
+      "treatment": "रोग का पता चलते ही तुरंत कवकनाशी लगाएं। अनुकूल मौसम में हर 5-7 दिनों में स्प्रे करें।",
+      "prevention": "प्रमाणित रोग-मुक्त बीजों का उपयोग करें। खरपतवार और स्वेच्छा से उगे (volunteer) पौधों को नष्ट करें।",
+      "organic_treatment": "कॉपर स्प्रे सीमित सुरक्षा प्रदान करते हैं। ठंडे, गीले मौसम में हर 5 दिन में लगाएं।",
+      "recommended_insecticide_pesticide": "मेटालेक्सिल (Metalaxyl), साइमोक्सानिल (Cymoxanil)।"
+    },
+    "te": {
+      "name": "మలి ఆకు ఎండు తెగులు",
+      "severity": "అత్యంత అధికం",
+      "treatment": "వ్యాధి గుర్తించిన వెంటనే శిలీంధ్ర సంహారిణులను వాడండి. ప్రతి 5-7 రోజులకు పిచికారీ చేయండి.",
+      "prevention": "ధృవీకరించబడిన విత్తనాలను వాడండి. తోట చుట్టూ ఉన్న కలుపు మొక్కలను తొలగించండి.",
+      "organic_treatment": "కాపర్ స్ప్రేలు కొంతవరకు రక్షణ ఇస్తాయి, కానీ తరచుగా వాడాలి.",
+      "recommended_insecticide_pesticide": "మెటాలక్సిల్, సైమోక్సానిల్."
+    },
+    "ta": {
+      "name": "பின் கருகல் நோய்",
+      "severity": "மிகவும் அதிகம்",
+      "treatment": "நோய் கண்டவுடன் உடனடியாகப் பூஞ்சைக் கொல்லிகளைத் தெளிக்கவும். 5-7 நாட்களுக்கு ஒருமுறை பயன்படுத்தவும்.",
+      "prevention": "சான்றளிக்கப்பட்ட விதைகளைப் பயன்படுத்தவும். வயல் ஓரங்களில் உள்ள களைகளை அகற்றவும்.",
+      "organic_treatment": "தாமிரத் தெளிப்புகள் ஓரளவு பாதுகாப்பு அளிக்கும்; அடிக்கடி பயன்படுத்த வேண்டும்.",
+      "recommended_insecticide_pesticide": "மெட்டாலக்ஸில், சைமோக்ஸானில்."
+    },
+    "kn": {
+      "name": "ಆಲೂಗೆಡ್ಡೆ ಹಿಂಗಾರು ಪೀಡೆ",
+      "severity": "ಅತ್ಯಂತ ಹೆಚ್ಚು",
+      "treatment": "ರೋಗ ಪತ್ತೆಯಾದ ತಕ್ಷಣ ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಿ. ಪ್ರತಿ 5-7 ದಿನಗಳಿಗೊಮ್ಮೆ ಸಿಂಪಡಿಸಿ.",
+      "prevention": "ರೋಗಮುಕ್ತ ಗೆಡ್ಡೆಗಳನ್ನು ಬಳಸಿ. ಹೊಲದ ಸುತ್ತಲಿನ ಕಳೆಗಳನ್ನು ನಾಶಪಡಿಸಿ.",
+      "organic_treatment": "ತಾಮ್ರದ ಸಿಂಪರಣೆಗಳು ಸ್ವಲ್ಪ ರಕ್ಷಣೆ ನೀಡುತ್ತವೆ, ಆದರೆ ಪದೇ ಪದೇ ಬಳಸಬೇಕು.",
+      "recommended_insecticide_pesticide": "ಮೆಟಾಲಾಕ್ಸಿಲ್, ಸೈಮೋಕ್ಸಾನಿಲ್."
+    },
+    "ml": {
+      "name": "പിന്നീടുള്ള വട്ടം (Late Blight)",
+      "severity": "അതിശക്തം",
+      "treatment": "രോഗം കണ്ടാലുടൻ കുമിൾനാശിനി ഉപയോഗിക്കുക. 5-7 ദിവസത്തിലൊരിക്കൽ സ്പ്രേ ചെയ്യുക.",
+      "prevention": "ഗുണമേന്മയുള്ള വിത്തുകൾ ഉപയോഗിക്കുക. പറമ്പിലെ കളകൾ നീക്കം ചെയ്യുക.",
+      "organic_treatment": "കോപ്പർ സ്പ്രേകൾ പരിമിതമായ സംരക്ഷണം നൽകുന്നു.",
+      "recommended_insecticide_pesticide": "മെറ്റാലാക്സിൽ, സൈമോക്സാനിൽ."
+    },
+    "mr": {
+      "name": "पछेती करपा (Late Blight)",
+      "severity": "अत्यंत उच्च",
+      "treatment": "रोग दिसताच त्वरित बुरशीनाशके लावा. ५-७ दिवसांनी फवारणी करा.",
+      "prevention": "प्रमाणित बियाणे वापरा. शेतातील स्वयंभू उगवलेली झाडे आणि तण नष्ट करा.",
+      "organic_treatment": "कॉपर फवारणी दर ५ दिवसांनी करा, पण ती रासायनिक औषधांपेक्षा कमी प्रभावी आहे.",
+      "recommended_insecticide_pesticide": "मेटालेक्सिल, सायमोक्सानिल."
+    },
+    "bn": {
+      "name": "পাবিতি ধসা (Late Blight)",
+      "severity": "অত্যন্ত উচ্চ",
+      "treatment": "রোগ দেখা মাত্র ছত্রাকনাশক প্রয়োগ করুন। প্রতি ৫-৭ দিন অন্তর স্প্রে করুন।",
+      "prevention": "রোগমুক্ত বীজ ব্যবহার করুন। আগাছা ও স্বেচ্ছায় গজানো আলু গাছ ধ্বংস করুন।",
+      "organic_treatment": "কপার স্প্রে সীমিত সুরক্ষা দেয়। ভিজে ও ঠান্ডা আবহাওয়ায় প্রতি ৫ দিন অন্তর দিন।",
+      "recommended_insecticide_pesticide": "মেটালেক্সিল, সাইমোক্সানিল।"
+    },
+    "gu": {
+      "name": "પાછોતરો ઝુલ્સારો",
+      "severity": "ખૂબ જ ઉચ્ચ",
+      "treatment": "રોગ દેખાતા તરત જ ફૂગનાશક લગાવો. દર 5-7 દિવસે છંટકાવ કરો.",
+      "prevention": "પ્રમાણિત બીજ વાપરો. ખેતરની આસપાસના નીંદણનો નાશ કરો.",
+      "organic_treatment": "કોપર સ્પ્રે મર્યાદિત રક્ષણ આપે છે, વારંવાર ઉપયોગ કરવો પડે છે.",
+      "recommended_insecticide_pesticide": "મેટાલક્સિલ, સાયમોક્સાનિલ."
+    }
+  },
+  "Potato___healthy": {
+    "en": {
+      "name": "Healthy Crop",
+      "severity": "none",
+      "treatment": "No treatment required. Scout fields regularly for early disease detection.",
+      "prevention": "Maintain soil health through proper crop rotation and organic matter management. Monitor soil moisture to avoid stress. Scout weekly for diseases and pests. Hill plants properly to prevent tuber greening.",
+      "organic_treatment": "Not applicable for healthy crops.",
+      "recommended_insecticide_pesticide": "Not required. Focus on cultural practices and variety selection."
+    },
+    "hi": {
+      "name": "स्वस्थ फसल",
+      "severity": "कोई नहीं",
+      "treatment": "किसी उपचार की आवश्यकता नहीं है। नियमित रूप से खेतों का निरीक्षण करें।",
+      "prevention": "मिट्टी पर मिट्टी चढ़ाएं (Hilling) ताकि आलू हरा न हो। उचित फसल चक्र अपनाएं।",
+      "organic_treatment": "लागू नहीं।",
+      "recommended_insecticide_pesticide": "आवश्यक नहीं।"
+    },
+    "te": {
+      "name": "ఆరోగ్యకరమైన పంట",
+      "severity": "ఏదీ లేదు",
+      "treatment": "చికిత్స అవసరం లేదు. పొలాన్ని క్రమం తప్పకుండా పర్యవేక్షించండి.",
+      "prevention": "మట్టిని ఎగదోయండి (Hilling). సరైన పంట మార్పిడి పద్ధతులను పాటించండి.",
+      "organic_treatment": "అవసరం లేదు.",
+      "recommended_insecticide_pesticide": "అవసరం లేదు."
+    },
+    "ta": {
+      "name": "ஆரோக்கியமான பயிர்",
+      "severity": "இல்லை",
+      "treatment": "சிகிச்சை தேவையில்லை. வயலைத் தொடர்ந்து கண்காணிக்கவும்.",
+      "prevention": "மண் அணைத்தல் (Hilling) முறையைச் சரியாகச் செய்யவும். முறையான பயிர் சுழற்சியைப் பின்பற்றவும்.",
+      "organic_treatment": "தேவையில்லை.",
+      "recommended_insecticide_pesticide": "தேவையில்லை."
+    },
+    "kn": {
+      "name": "ಆರೋಗ್ಯಕರ ಬೆಳೆ",
+      "severity": "ಯಾವುದೂ ಇಲ್ಲ",
+      "treatment": "ಯಾವುದೇ ಚಿಕಿತ್ಸೆ ಅಗತ್ಯವಿಲ್ಲ. ಹೊಲವನ್ನು ನಿಯಮಿತವಾಗಿ ಗಮನಿಸಿ.",
+      "prevention": "ಗೆಡ್ಡೆಗಳು ಹಸಿರಾಗುವುದನ್ನು ತಡೆಯಲು ಮಣ್ಣು ಏರಿಸುವಿಕೆ (Hilling) ಮಾಡಿ.",
+      "organic_treatment": "ಅನ್ವಯಿಸುವುದಿಲ್ಲ.",
+      "recommended_insecticide_pesticide": "ಅಗತ್ಯವಿಲ್ಲ."
+    },
+    "ml": {
+      "name": "ആരോഗ്യകരമായ വിള",
+      "severity": "ഒന്നുമില്ല",
+      "treatment": "ചികിത്സ ആവശ്യമില്ല. പതിവായി നിരീക്ഷിക്കുക.",
+      "prevention": "കിഴങ്ങുകൾ പച്ചയാകുന്നത് തടയാൻ മണ്ണ് കൂട്ടിക്കൊടുക്കുക (Hilling).",
+      "organic_treatment": "ബാധകമല്ല.",
+      "recommended_insecticide_pesticide": "ആവശ്യമില്ല."
+    },
+    "mr": {
+      "name": "निरोगी पीक",
+      "severity": "काहीही नाही",
+      "treatment": "उपचारांची गरज नाही. नियमित देखरेख ठेवा.",
+      "prevention": "बटाटे हिरवे होऊ नयेत म्हणून भर द्या (Hilling). योग्य पीक फेरपालट करा.",
+      "organic_treatment": "गरज नाही.",
+      "recommended_insecticide_pesticide": "गरज नाही."
+    },
+    "bn": {
+      "name": "সুস্থ ফসল",
+      "severity": "কিছু না",
+      "treatment": "কোন চিকিৎসার প্রয়োজন নেই। নিয়মিত জমি পর্যবেক্ষণ করুন।",
+      "prevention": "গাছে মাটি দিন (Hilling) যাতে আলু সবুজ না হয়ে যায়। সঠিক ফসল আবর্তন করুন।",
+      "organic_treatment": "প্রয়োজন নেই।",
+      "recommended_insecticide_pesticide": "প্রয়োজন নেই।"
+    },
+    "gu": {
+      "name": "સ્વસ્થ પાક",
+      "severity": "કંઈ નહીં",
+      "treatment": "કોઈ સારવારની જરૂર નથી. નિયમિત ખેતરની તપાસ કરો.",
+      "prevention": "બટાટા લીલા ન થાય તે માટે માટી ચઢાવો (Hilling). યોગ્ય પાક ફેરબદલી જાળવો.",
+      "organic_treatment": "લાગુ પડતું નથી.",
+      "recommended_insecticide_pesticide": "જરૂર નથી."
+    }
+  },
+  "Raspberry___healthy": {
+    "en": {
+      "name": "Healthy Crop",
+      "severity": "none",
+      "treatment": "No treatment required. Continue regular plant maintenance and monitoring.",
+      "prevention": "Annual pruning to remove old fruiting canes after harvest. Maintain 8-12 inch spacing between canes for air circulation. Mulch to suppress weeds and conserve moisture. Avoid overhead irrigation to reduce disease pressure.",
+      "organic_treatment": "Not applicable for healthy plants.",
+      "recommended_insecticide_pesticide": "Not required. Maintain proper cultural management."
+    },
+    "hi": {
+      "name": "स्वस्थ फसल",
+      "severity": "कोई नहीं",
+      "treatment": "किसी उपचार की आवश्यकता नहीं है। नियमित देखभाल जारी रखें।",
+      "prevention": "कटाई के बाद पुरानी टहनियों की छंटाई करें। हवा के संचार के लिए टहनियों के बीच 8-12 इंच की दूरी रखें।",
+      "organic_treatment": "लागू नहीं।",
+      "recommended_insecticide_pesticide": "आवश्यक नहीं।"
+    },
+    "te": {
+      "name": "ఆరోగ్యకరమైన పంట",
+      "severity": "ఏదీ లేదు",
+      "treatment": "చికిత్స అవసరం లేదు. క్రమం తప్పకుండా పర్యవేక్షించండి.",
+      "prevention": "పాత కొమ్మలను కత్తిరించండి. గాలి వెలుతురు కోసం కొమ్మల మధ్య 8-12 అంగుళాల దూరం ఉంచండి.",
+      "organic_treatment": "అవసరం లేదు.",
+      "recommended_insecticide_pesticide": "అవసరం లేదు."
+    },
+    "ta": {
+      "name": "ஆரோக்கியமான பயிர்",
+      "severity": "இல்லை",
+      "treatment": "சிகிச்சை தேவையில்லை. வழக்கமான பராமரிப்பைத் தொடரவும்.",
+      "prevention": "பழம் கொடுத்த பழைய கிளைகளை அகற்றி கத்தரிக்கவும். கிளைகளுக்கு இடையே 8-12 அங்குல இடைவெளி விடவும்.",
+      "organic_treatment": "தேவையில்லை.",
+      "recommended_insecticide_pesticide": "தேவையில்லை."
+    },
+    "kn": {
+      "name": "ಆರೋಗ್ಯಕರ ಬೆಳೆ",
+      "severity": "ಯಾವುದೂ ಇಲ್ಲ",
+      "treatment": "ಯಾವುದೇ ಚಿಕಿತ್ಸೆ ಅಗತ್ಯವಿಲ್ಲ. ನಿಯಮಿತವಾಗಿ ಗಮನಿಸಿ.",
+      "prevention": "ಹಳೆಯ ಕೊಂಬೆಗಳನ್ನು ಕತ್ತರಿಸಿ ತೆಗೆಯಿರಿ. ಕೊಂಬೆಗಳ ನಡುವೆ 8-12 ಇಂಚು ಅಂತರವಿರಲಿ.",
+      "organic_treatment": "ಅನ್ವಯಿಸುವುದಿಲ್ಲ.",
+      "recommended_insecticide_pesticide": "ಅಗತ್ಯವಿಲ್ಲ."
+    },
+    "ml": {
+      "name": "ആരോഗ്യകരമായ വിള",
+      "severity": "ഒന്നുമില്ല",
+      "treatment": "ചികിത്സ ആവശ്യമില്ല. പതിവായി നിരീക്ഷിക്കുക.",
+      "prevention": "വിളവെടുപ്പിന് ശേഷം പഴയ ചില്ലകൾ മുറിച്ചു മാറ്റുക. ചെടികൾക്കിടയിൽ 8-12 ഇഞ്ച് അകലം പാലിക്കുക.",
+      "organic_treatment": "ബാധകമല്ല.",
+      "recommended_insecticide_pesticide": "ആവശ്യമില്ല."
+    },
+    "mr": {
+      "name": "निरोगी पीक",
+      "severity": "काहीही नाही",
+      "treatment": "उपचारांची गरज नाही. नियमित देखरेख ठेवा.",
+      "prevention": "जुन्या फांद्यांची छाटणी करा. फांद्यांमध्ये ८-१२ इंच अंतर ठेवा जेणेकरून हवा खेळती राहील.",
+      "organic_treatment": "गरज नाही.",
+      "recommended_insecticide_pesticide": "गरज नाही."
+    },
+    "bn": {
+      "name": "সুস্থ ফসল",
+      "severity": "কিছু না",
+      "treatment": "কোন চিকিৎসার প্রয়োজন নেই। নিয়মিত পর্যবেক্ষণ করুন।",
+      "prevention": "পুরানো ডাল ছাঁটাই করুন। গাছের ডালগুলির মধ্যে ৮-১২ ইঞ্চি ফাঁক রাখুন। মালচিং করুন।",
+      "organic_treatment": "প্রয়োজন নেই।",
+      "recommended_insecticide_pesticide": "প্রয়োজন নেই।"
+    },
+    "gu": {
+      "name": "સ્વસ્થ પાક",
+      "severity": "કંઈ નહીં",
+      "treatment": "કોઈ સારવારની જરૂર નથી. નિયમિત નિરીક્ષણ ચાલુ રાખો.",
+      "prevention": "જૂની ડાળીઓની છટણી કરો. ડાળીઓ વચ્ચે 8-12 ઇંચનું અંતર રાખો.",
+      "organic_treatment": "લાગુ પડતું નથી.",
+      "recommended_insecticide_pesticide": "જરૂર નથી."
+    }
+  },
+  "Soybean___healthy": {
+    "en": {
+      "name": "Healthy Crop",
+      "severity": "none",
+      "treatment": "No treatment required. Monitor fields throughout growing season.",
+      "prevention": "Implement crop rotation with corn or other non-legumes. Maintain soil fertility through soil testing and appropriate amendments. Scout fields regularly from emergence through pod fill. Use certified, high-quality seed.",
+      "organic_treatment": "Not applicable for healthy crops.",
+      "recommended_insecticide_pesticide": "Not required. Focus on agronomic practices."
+    },
+    "hi": {
+      "name": "स्वस्थ सोयाबीन",
+      "severity": "कोई नहीं",
+      "treatment": "उपचार की आवश्यकता नहीं है। खेतों की निगरानी करें।",
+      "prevention": "मक्का या अन्य गैर-दलहनी फसलों के साथ फसल चक्र अपनाएं। प्रमाणित बीजों का उपयोग करें।",
+      "organic_treatment": "लागू नहीं।",
+      "recommended_insecticide_pesticide": "आवश्यक नहीं।"
+    },
+    "te": {
+      "name": "ఆరోగ్యకరమైన సోయాబీన్",
+      "severity": "ఏదీ లేదు",
+      "treatment": "చికిత్స అవసరం లేదు. పొలాన్ని పర్యవేక్షించండి.",
+      "prevention": "మొక్కజొన్న వంటి ఇతర పంటలతో పంట మార్పిడి చేయండి. నాణ్యమైన విత్తనాలను వాడండి.",
+      "organic_treatment": "అవసరం లేదు.",
+      "recommended_insecticide_pesticide": "అవసరం లేదు."
+    },
+    "ta": {
+      "name": "ஆரோக்கியமான சோயாபீன்",
+      "severity": "இல்லை",
+      "treatment": "சிகிச்சை தேவையில்லை. வயலைத் தொடர்ந்து கண்காணிக்கவும்.",
+      "prevention": "சோளம் போன்ற மற்ற பயிர்களுடன் பயிர் சுழற்சி செய்யவும். தரமான விதைகளைப் பயன்படுத்தவும்.",
+      "organic_treatment": "தேவையில்லை.",
+      "recommended_insecticide_pesticide": "தேவையில்லை."
+    },
+    "kn": {
+      "name": "ಆರೋಗ್ಯಕರ ಸೋಯಾಬೀನ್",
+      "severity": "ಯಾವುದೂ ಇಲ್ಲ",
+      "treatment": "ಯಾವುದೇ ಚಿಕಿત્ಸೆ ಅಗತ್ಯವಿಲ್ಲ. ಹೊಲವನ್ನು ಗಮನಿಸಿ.",
+      "prevention": "ಮೆಕ್ಕೆಜೋಳದಂತಹ ಬೆಳೆಗಳೊಂದಿಗೆ ಬೆಳೆ ಸರದಿ ಮಾಡಿ. ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಬಿತ್ತನೆ ಬೀಜ ಬಳಸಿ.",
+      "organic_treatment": "ಅನ್ವಯಿಸುವುದಿಲ್ಲ.",
+      "recommended_insecticide_pesticide": "ಅಗತ್ಯವಿಲ್ಲ."
+    },
+    "ml": {
+      "name": "ആരോഗ്യകരമായ സോയാബീൻ",
+      "severity": "ഒന്നുമില്ല",
+      "treatment": "ചികിത്സ ആവശ്യമില്ല. കൃഷിയിടം നിരീക്ഷിക്കുക.",
+      "prevention": "മറ്റ് വിളകളുമായി വിള പരിക്രമണം നടത്തുക. ഗുണമേന്മയുള്ള വിത്തുകൾ ഉപയോഗിക്കുക.",
+      "organic_treatment": "ബാധകമല്ല.",
+      "recommended_insecticide_pesticide": "ആവശ്യമില്ല."
+    },
+    "mr": {
+      "name": "निरोगी सोयाबीन",
+      "severity": "काहीही नाही",
+      "treatment": "उपचारांची गरज नाही. पिकाची नियमित पाहणी करा.",
+      "prevention": "मका किंवा इतर पिकांसोबत फेरपालट करा. जमिनीची सुपीकता टिकवून ठेवा.",
+      "organic_treatment": "गरज नाही.",
+      "recommended_insecticide_pesticide": "गरज नाही."
+    },
+    "bn": {
+      "name": "সুস্থ সয়াবিন",
+      "severity": "কিছু না",
+      "treatment": "কোন চিকিৎসার প্রয়োজন নেই। নিয়মিত জমি পর্যবেক্ষণ করুন।",
+      "prevention": "ভুট্টা বা অন্য ফসলের সাথে শস্য আবর্তন করুন। উচ্চমানের শংসাপত্রযুক্ত বীজ ব্যবহার করুন।",
+      "organic_treatment": "প্রয়োজন নেই।",
+      "recommended_insecticide_pesticide": "প্রয়োজন নেই।"
+    },
+    "gu": {
+      "name": "સ્વસ્થ સોયાબીન",
+      "severity": "કંઈ નહીં",
+      "treatment": "કોઈ સારવારની જરૂર નથી. ખેતરની તપાસ ચાલુ રાખો.",
+      "prevention": "મકાઈ અથવા અન્ય પાક સાથે ફેરબદલી કરો. પ્રમાણિત અને ઉચ્ચ ગુણવત્તાના બીજ વાપરો.",
+      "organic_treatment": "લાગુ પડતું નથી.",
+      "recommended_insecticide_pesticide": "જરૂર નથી."
+    }
+  },
+  "Squash___Powdery_mildew": {
+    "en": {
+      "name": "Powdery Mildew",
+      "severity": "medium",
+      "treatment": "Apply fungicides at first appearance of white powdery patches on leaves. Treat every 7-14 days as long as conditions favor disease. Focus coverage on upper and lower leaf surfaces.",
+      "prevention": "Improve air circulation by spacing plants properly and training vines. Avoid overhead watering; use drip irrigation. Plant in full sun locations. Remove old infected leaves during season. Choose resistant varieties when available.",
+      "organic_treatment": "Milk spray (1 part milk to 9 parts water) applied weekly shows effectiveness. Neem oil provides moderate control when applied at early infection. Potassium bicarbonate sprays also help suppress mildew development.",
+      "recommended_insecticide_pesticide": "Sulfur: traditional organic-approved treatment, apply before temperature exceeds 90°F. Hexaconazole: systemic fungicide for more severe infections, provides longer residual control."
+    },
+    "hi": {
+      "name": "चूर्णिल आसिता (Powdery Mildew)",
+      "severity": "मध्यम",
+      "treatment": "सफेद पाउडर जैसे धब्बे दिखने पर कवकनाशी लगाएं। पत्तों की दोनों सतहों पर छिड़काव करें।",
+      "prevention": "धूप वाली जगह पर लगाएं। ऊपर से पानी देने के बजाय ड्रिप सिंचाई का उपयोग करें।",
+      "organic_treatment": "दूध का स्प्रे (1 हिस्सा दूध और 9 हिस्सा पानी) प्रभावी है। नीम का तेल भी उपयोग कर सकते हैं।",
+      "recommended_insecticide_pesticide": "सल्फर (Sulfur), हेक्साकोनाजोल (Hexaconazole)।"
+    },
+    "te": {
+      "name": "బూజు తెగులు",
+      "severity": "మధ్యస్థం",
+      "treatment": "ఆకులపై తెల్లని మచ్చలు కనిపించినప్పుడు శిలీంధ్ర సంహారిణులను వాడండి. ఆకు రెండు వైపులా పిచికారీ చేయండి.",
+      "prevention": "మొక్కలను సరైన దూరంలో నాటండి. డ్రిప్ ఇరిగేషన్ వాడండి. ఎండ తగిలే చోట నాటండి.",
+      "organic_treatment": "పాలు మరియు నీటి మిశ్రమం (1:9) ప్రతి వారం పిచికారీ చేస్తే ఫలితం ఉంటుంది.",
+      "recommended_insecticide_pesticide": "సల్ఫర్, హెక్సాకొనజోల్."
+    },
+    "ta": {
+      "name": "சாம்பல் நோய்",
+      "severity": "மிதமானது",
+      "treatment": "வெள்ளை நிறப் பொடி போன்ற திட்டுக்கள் தோன்றும் போது பூஞ்சைக் கொல்லிகளைத் தெளிக்கவும்.",
+      "prevention": "செடிகளுக்கு இடையே இடைவெளி விடவும். சொட்டுநீர் பாசனத்தைப் பயன்படுத்தவும்.",
+      "organic_treatment": "பால் தெளிப்பு (1 பங்கு பால், 9 பங்கு நீர்) வாரந்தோறும் பயன்படுத்துவது பயனுள்ளது.",
+      "recommended_insecticide_pesticide": "சல்பர், ஹெக்ஸாக்கோனசோல்."
+    },
+    "kn": {
+      "name": "ಬೂದಿ ರೋಗ",
+      "severity": "ಮಧ್ಯಮ",
+      "treatment": "ಎಲೆಗಳ ಮೇಲೆ ಬಿಳಿ ಬೂದಿಯಂತಹ ಮಚ್ಚೆ ಕಂಡಾಗ ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಿ. ಎಲೆಯ ಎರಡೂ ಬದಿ ಸಿಂಪಡಿಸಿ.",
+      "prevention": "ಗಿಡಗಳ ನಡುವೆ ಸರಿಯಾದ ಅಂತರವಿರಲಿ. ಹನಿ ನೀರಾವರಿ ಬಳಸಿ. ಬಿಸಿಲಿರುವ ಜಾಗದಲ್ಲಿ ಬೆಳೆಸಿ.",
+      "organic_treatment": "ಹಾಲು ಮತ್ತು ನೀರಿನ ಮಿಶ್ರಣ (1:9) ವಾರಕ್ಕೊಮ್ಮೆ ಸಿಂಪಡಿಸಿ. ಬೇವಿನ ಎಣ್ಣೆ ಬಳಸಿ.",
+      "recommended_insecticide_pesticide": "ಗಂಧಕ (Sulfur), ಹೆಕ್ಸಾಕೊನಜೋಲ್."
+    },
+    "ml": {
+      "name": "ചാരരോഗം",
+      "severity": "മിതമായ",
+      "treatment": "വെളുത്ത പൊടി പോലുള്ള പാടുകൾ കാണുമ്പോൾ കുമിൾനാശിനി ഉപയോഗിക്കുക. ഇലയുടെ ഇരുവശത്തും സ്പ്രേ ചെയ്യുക.",
+      "prevention": "ചെടികൾക്കിടയിൽ അകലം പാലിക്കുക. തുള്ളിനന രീതി ഉപയോഗിക്കുക. വെയിലുള്ള സ്ഥലത്ത് നടുക.",
+      "organic_treatment": "പാൽ സ്പ്രേ (1 ഭാഗം പാൽ, 9 ഭാഗം വെള്ളം) ആഴ്ചയിലൊരിക്കൽ പ്രയോഗിക്കുന്നത് ഫലപ്രദമാണ്.",
+      "recommended_insecticide_pesticide": "സൾഫർ, ഹെക്സാക്കോണസോൾ."
+    },
+    "mr": {
+      "name": "भुरी रोग",
+      "severity": "मध्यम",
+      "treatment": "पानांवर पांढरे डाग दिसताच बुरशीनाशके लावा. पानांच्या वरच्या आणि खालच्या दोन्ही बाजूंनी फवारणी करा.",
+      "prevention": "रोपांमध्ये योग्य अंतर ठेवा. पाणी देण्यासाठी ठिबक सिंचनाचा वापर करा. सूर्यप्रकाश असलेल्या ठिकाणी लागवड करा.",
+      "organic_treatment": "दूध आणि पाण्याचे मिश्रण (१:९) आठवड्यातून एकदा फवारल्यास प्रभावी ठरते.",
+      "recommended_insecticide_pesticide": "सल्फर, हेक्साकोनाझोल."
+    },
+    "bn": {
+      "name": "পাউডারি মিলডিউ",
+      "severity": "মাঝারি",
+      "treatment": "পাতায় সাদা পাউডারের মতো দাগ দেখা দিলে ছত্রাকনাশক দিন। পাতার দুই পিঠে ভালো করে স্প্রে করুন।",
+      "prevention": "পর্যাপ্ত সূর্যের আলোতে চাষ করুন। ওপর থেকে জল না দিয়ে ড্রিপ সেচ ব্যবহার করুন।",
+      "organic_treatment": "দুধের স্প্রে (১ ভাগ দুধ ও ৯ ভাগ জল) সপ্তাহে একবার ব্যবহার করলে ভালো ফল পাওয়া যায়।",
+      "recommended_insecticide_pesticide": "সালফার, হেক্সাকোনাজল।"
+    },
+    "gu": {
+      "name": "સફેદ છારો (પાવડરી મિલ્ડ્યુ)",
+      "severity": "મધ્યમ",
+      "treatment": "પાંદડા પર સફેદ ડાઘ દેખાય ત્યારે ફૂગનાશક લગાવો. પાંદડાની બંને સપાટી પર છંટકાવ કરો.",
+      "prevention": "છોડ વચ્ચે યોગ્ય અંતર રાખો. ટપક સિંચાઈ પદ્ધતિ અપનાવો. પૂરતા સૂર્યપ્રકાશમાં વાવેતર કરો.",
+      "organic_treatment": "દૂધનો સ્પ્રે (1 ભાગ દૂધ અને 9 ભાગ પાણી) દર અઠવાડિયે છાંટવો અસરકારક છે.",
+      "recommended_insecticide_pesticide": "સલ્ફર, હેક્સાકોનાઝોલ."
+    }
+  },
+  "Strawberry___Leaf_scorch": {
+    "en": {
+      "name": "Leaf Scorch",
+      "severity": "medium",
+      "treatment": "Remove and destroy infected leaves as soon as symptoms appear. Apply fungicides at runner formation and continue through harvest. Renovate plantings after harvest by mowing and removing old leaves.",
+      "prevention": "Avoid overhead irrigation which spreads spores. Use drip irrigation instead. Space plants adequately for good air circulation. Remove and destroy old leaves after harvest. Plant resistant varieties. Practice crop rotation.",
+      "organic_treatment": "Neem oil applied every 7-10 days during favorable disease conditions provides moderate control. Most effective when combined with cultural practices like leaf removal and proper spacing.",
+      "recommended_insecticide_pesticide": "Captan: broad-spectrum protectant fungicide. Apply from runner formation through harvest season. Rotate with other fungicides to prevent resistance development."
+    },
+    "hi": {
+      "name": "लीफ स्कॉर्च (पत्ता झुलसा)",
+      "severity": "मध्यम",
+      "treatment": "संक्रमित पत्तियों को तुरंत हटा दें। रनर (runner) बनने के समय कवकनाशी लगाएं।",
+      "prevention": "ऊपर से सिंचाई करने से बचें। ड्रिप सिंचाई का उपयोग करें। फसल के बाद पुरानी पत्तियों को नष्ट कर दें।",
+      "organic_treatment": "हर 7-10 दिनों में नीम के तेल का छिड़काव करें।",
+      "recommended_insecticide_pesticide": "कैप्टन (Captan)।"
+    },
+    "te": {
+      "name": "లీఫ్ స్కోర్చ్",
+      "severity": "మధ్యస్థం",
+      "treatment": "వ్యాధి సోకిన ఆకులను వెంటనే తొలగించండి. రన్నర్లు ఏర్పడే సమయంలో శిలీంధ్ర సంహారిణులను వాడండి.",
+      "prevention": "పై నుండి నీరు పోయడం ఆపండి. డ్రిప్ ఇరిగేషన్ వాడండి. పంట తర్వాత పాత ఆకులను నాశనం చేయండి.",
+      "organic_treatment": "ప్రతి 7-10 రోజులకు వేప నూనె పిచికారీ చేయండి.",
+      "recommended_insecticide_pesticide": "కాప్టాన్."
+    },
+    "ta": {
+      "name": "இலை கருகல் நோய்",
+      "severity": "மிதமானது",
+      "treatment": "பாதிக்கப்பட்ட இலைகளை உடனே அகற்றவும். கொடிகள் படரும் போது பூஞ்சைக் கொல்லிகளைத் தெளிக்கவும்.",
+      "prevention": "மேலிருந்து நீர் பாய்ச்சுவதைத் தவிர்க்கவும். சொட்டுநீர் பாசனத்தைப் பயன்படுத்தவும்.",
+      "organic_treatment": "7-10 நாட்களுக்கு ஒருமுறை வேம்பு எண்ணெயைத் தெளிக்கவும்.",
+      "recommended_insecticide_pesticide": "கேப்டான் (Captan)."
+    },
+    "kn": {
+      "name": "ಎಲೆ ಸುಟ್ಟ ರೋಗ",
+      "severity": "ಮಧ್ಯಮ",
+      "treatment": "ಸೋಂಕಿತ ಎಲೆಗಳನ್ನು ತಕ್ಷಣ ತೆಗೆಯಿರಿ. ರನ್ನರ್‌ಗಳು ಬೆಳೆಯುವಾಗ ಶಿలీಂಧ್ರನಾಶಕ ಬಳಸಿ.",
+      "prevention": "ಹನಿ ನೀರಾವರಿ ಬಳಸಿ. ಕೊಯ್ಲಿನ ನಂತರ ಹಳೆಯ ಎಲೆಗಳನ್ನು ನಾಶಪಡಿಸಿ.",
+      "organic_treatment": "ಪ್ರತಿ 7-10 ದಿನಗಳಿಗೊಮ್ಮೆ ಬೇವಿನ ಎಣ್ಣೆ ಸಿಂಪಡಿಸಿ.",
+      "recommended_insecticide_pesticide": "ಕ್ಯಾಪ್ಟಾನ್."
+    },
+    "ml": {
+      "name": "ഇല കരിച്ചിൽ (Leaf Scorch)",
+      "severity": "മിതമായ",
+      "treatment": "രോഗം ബാಧിച്ച ഇലകൾ നീക്കം ചെയ്യുക. റണ്ണറുകൾ ഉണ്ടാകുമ്പോൾ കുമിൾനാശിനി പ്രയോഗിക്കുക.",
+      "prevention": "തുള്ളിനന രീതി ഉപയോഗിക്കുക. വിളവെടുപ്പിന് ശേഷം പഴയ ഇലകൾ നശിപ്പിക്കുക.",
+      "organic_treatment": "7-10 ദിവസത്തിലൊരിക്കൽ വേപ്പെണ്ണ പ്രയോഗിക്കുക.",
+      "recommended_insecticide_pesticide": "കാപ്റ്റാൻ (Captan)."
+    },
+    "mr": {
+      "name": "लीफ स्कॉर्च",
+      "severity": "मध्यम",
+      "treatment": "बाधित पाने त्वरित काढून टाका. रनर्स (Runners) तयार होताना बुरशीनाशके लावा.",
+      "prevention": "वरून पाणी देणे टाळा, त्याऐवजी ठिबक सिंचनाचा वापर करा. पिकाच्या काढणीनंतर जुनी पाने नष्ट करा.",
+      "organic_treatment": "दर ७-१० दिवसांनी कडुनिंबाच्या तेलाची फवारणी करा.",
+      "recommended_insecticide_pesticide": "कॅप्टन (Captan)."
+    },
+    "bn": {
+      "name": "লিফ স্কর্চ",
+      "severity": "মাঝারি",
+      "treatment": "আক্রান্ত পাতা দ্রুত সরিয়ে ফেলুন। রানার তৈরির সময় ছত্রাকনাশক প্রয়োগ করুন।",
+      "prevention": "ওপর থেকে জল দেওয়া বন্ধ করুন। ড্রিপ সেচ ব্যবহার করুন। ফসল তোলার পর পুরানো পাতা ধ্বংস করুন।",
+      "organic_treatment": "৭-১০ দিন অন্তর নিম তেল স্প্রে করুন।",
+      "recommended_insecticide_pesticide": "ক্যাপটান (Captan)।"
+    },
+    "gu": {
+      "name": "લીફ સ્કોર્ચ (પાનનો ઝુલ્સારો)",
+      "severity": "મધ્યમ",
+      "treatment": "ચેપગ્રસ્ત પાંદડા તરત જ દૂર કરો. રનર્સ બનતી વખતે ફૂગનાશક લગાવો.",
+      "prevention": "ઉપરથી પિયત આપવાનું ટાળો, ટપક સિંચાઈ વાપરો. લણણી પછી જૂના પાંદડા નાશ કરો.",
+      "organic_treatment": "દર 7-10 દિવસે લીમડાના તેલનો છંટકાવ કરો.",
+      "recommended_insecticide_pesticide": "કેપ્ટાન (Captan)."
+    }
+  },
+  "Strawberry___healthy": {
+    "en": {
+      "name": "Healthy Crop",
+      "severity": "none",
+      "treatment": "No treatment required. Monitor plants regularly for any emerging issues.",
+      "prevention": "Apply organic mulch to suppress weeds and maintain soil moisture. Use drip irrigation to avoid wetting foliage. Remove old leaves and runners as needed. Maintain adequate plant spacing. Monitor for pests and diseases weekly.",
+      "organic_treatment": "Not applicable for healthy plants.",
+      "recommended_insecticide_pesticide": "Not required. Maintain cultural practices for disease prevention."
+    },
+    "hi": {
+      "name": "स्वस्थ फसल",
+      "severity": "कोई नहीं",
+      "treatment": "किसी उपचार की आवश्यकता नहीं है। नियमित निगरानी रखें।",
+      "prevention": "खरपतवार रोकने के लिए जैविक मल्च लगाएं। पत्तियों को गीला होने से बचाने के लिए ड्रिप सिंचाई का उपयोग करें। समय-समय पर पुरानी पत्तियों को हटाते रहें।",
+      "organic_treatment": "लागू नहीं।",
+      "recommended_insecticide_pesticide": "आवश्यक नहीं।"
+    },
+    "te": {
+      "name": "ఆరోగ్యకరమైన పంట",
+      "severity": "ఏదీ లేదు",
+      "treatment": "చికిత్స అవసరం లేదు. మొక్కలను నిరంతరం గమనించండి.",
+      "prevention": "కలుపు నివారణకు మల్చింగ్ చేయండి. ఆకులు తడవకుండా డ్రిప్ ఇరిగేషన్ వాడండి. పాత ఆకులను మరియు రన్నర్లను తొలగించండి.",
+      "organic_treatment": "అవసరం లేదు.",
+      "recommended_insecticide_pesticide": "అవసరం లేదు."
+    },
+    "ta": {
+      "name": "ஆரோக்கியமான பயிர்",
+      "severity": "இல்லை",
+      "treatment": "சிகிச்சை தேவையில்லை. செடிகளைத் தொடர்ந்து கண்காணிக்கவும்.",
+      "prevention": "களைகளைக் கட்டுப்படுத்த தழைக்கூளம் (Mulch) இடவும். இலைகள் நனையாமல் இருக்க சொட்டுநீர் பாசனம் செய்யவும். பழைய இலைகளை அகற்றவும்.",
+      "organic_treatment": "தேவையில்லை.",
+      "recommended_insecticide_pesticide": "தேவையில்லை."
+    },
+    "kn": {
+      "name": "ಆರೋಗ್ಯಕರ ಬೆಳೆ",
+      "severity": "ಯಾವುದೂ ಇಲ್ಲ",
+      "treatment": "ಯಾವುದೇ ಚಿಕಿತ್ಸೆ ಅಗತ್ಯವಿಲ್ಲ. ನಿಯಮಿತವಾಗಿ ಗಮನಿಸಿ.",
+      "prevention": "ಕಳೆ ನಿಯಂತ್ರಿಸಲು ಸಾವಯವ ಮಲ್ಚಿಂಗ್ ಬಳಸಿ. ಎಲೆಗಳು ನೆನೆಯದಂತೆ ಹನಿ ನೀರಾವರಿ ಮಾಡಿ. ಹಳೆಯ ಎಲೆಗಳನ್ನು ತೆಗೆದುಹಾಕಿ.",
+      "organic_treatment": "ಅನ್ವಯಿಸುವುದಿಲ್ಲ.",
+      "recommended_insecticide_pesticide": "ಅಗತ್ಯವಿಲ್ಲ."
+    },
+    "ml": {
+      "name": "ആരോഗ്യകരമായ വിള",
+      "severity": "ഒന്നുമില്ല",
+      "treatment": "ചികിത്സ ആവശ്യമില്ല. പതിവായി നിരീക്ഷിക്കുക.",
+      "prevention": "മണ്ണിലെ ഈർപ്പം നിലനിർത്താൻ മൾച്ചിംഗ് ചെയ്യുക. തുള്ളിനന രീതി ഉപയോഗിക്കുക. പഴയ ഇലകളും റണ്ണറുകളും നീക്കം ചെയ്യുക.",
+      "organic_treatment": "ബാധകമല്ല.",
+      "recommended_insecticide_pesticide": "ആവശ്യമില്ല."
+    },
+    "mr": {
+      "name": "निरोगी पीक",
+      "severity": "काहीही नाही",
+      "treatment": "उपचारांची गरज नाही. झाडांची नियमित पाहणी करा.",
+      "prevention": "तण रोखण्यासाठी सेंद्रिय मल्चिंगचा वापर करा. ठिबक सिंचन वापरा. गरजेनुसार जुनी पाने आणि रनर्स काढून टाका.",
+      "organic_treatment": "गरज नाही.",
+      "recommended_insecticide_pesticide": "गरज नाही."
+    },
+    "bn": {
+      "name": "সুস্থ ফসল",
+      "severity": "কিছু না",
+      "treatment": "কোন চিকিৎসার প্রয়োজন নেই। নিয়মিত পর্যবেক্ষণ করুন।",
+      "prevention": "আগাছা দমনে জৈব মালচিং ব্যবহার করুন। পাতা ভেজানো এড়াতে ড্রিপ সেচ দিন। সময়মতো পুরানো পাতা সরিয়ে ফেলুন।",
+      "organic_treatment": "প্রয়োজন নেই।",
+      "recommended_insecticide_pesticide": "প্রয়োজন নেই।"
+    },
+    "gu": {
+      "name": "સ્વસ્થ પાક",
+      "severity": "કંઈ નહીં",
+      "treatment": "કોઈ સારવારની જરૂર નથી. નિયમિત તપાસ કરો.",
+      "prevention": "નિંદામણ રોકવા માટે સેન્દ્રિય મલ્ચિંગ કરો. ટપક સિંચાઈ પદ્ધતિ અપનાવો. જરૂર મુજબ જૂના પાંદડા દૂર કરો.",
+      "organic_treatment": "લાગુ પડતું નથી.",
+      "recommended_insecticide_pesticide": "જરૂર નથી."
+    }
+  },
+  "Tomato___Bacterial_spot": {
+    "en": {
+      "name": "Bacterial Spot",
+      "severity": "high",
+      "treatment": "Remove infected leaves and destroy them. Apply copper-based bactericides weekly during warm, humid weather. Avoid working in wet plants to prevent bacterial spread. Treatment is protective, not curative.",
+      "prevention": "Use only certified disease-free seeds and transplants. Rotate with non-solanaceous crops for 3 years. Avoid overhead irrigation and water early so foliage dries quickly. Space plants for air circulation. Stake plants off the ground.",
+      "organic_treatment": "Neem oil and copper soap tank mixes provide bacterial suppression. Copper-based products are primary organic option. Apply preventatively every 5-7 days during warm, wet periods.",
+      "recommended_insecticide_pesticide": "Copper hydroxide: most effective bactericide for tomatoes. Apply as protective treatment starting at transplant. Tank mix with mancozeb for improved disease control."
+    },
+    "hi": {
+      "name": "बैक्टीरियल स्पॉट (जीवाणु धब्बा)",
+      "severity": "उच्च",
+      "treatment": "संक्रमित पत्तियों को नष्ट करें। तांबा-आधारित जीवाणुनाशक साप्ताहिक लगाएं। गीले पौधों के बीच काम न करें।",
+      "prevention": "3 साल का फसल चक्र अपनाएं। पौधों को जमीन से ऊपर सहारा (Stake) दें। ऊपर से पानी देने से बचें।",
+      "organic_treatment": "नीम के तेल और कॉपर सोप का मिश्रण प्रभावी है। इसे हर 5-7 दिनों में लगाएं।",
+      "recommended_insecticide_pesticide": "कॉपर हाइड्रोक्साइड (Copper hydroxide), मैनकोजेब (Mancozeb)।"
+    },
+    "te": {
+      "name": "బ్యాక్టీరియల్ స్పాట్",
+      "severity": "అధిక",
+      "treatment": "సోకిన ఆకులను నాశనం చేయండి. ప్రతి వారం కాపర్ ఆధారిత మందులను వాడండి. తడి మొక్కలను తాకవద్దు.",
+      "prevention": "3 ఏళ్ల పంట మార్పిడి చేయండి. మొక్కలకు ఊతం (Stake) ఇచ్చి నేల నుండి పైకి ఉంచండి.",
+      "organic_treatment": "వేప నూనె మరియు కాపర్ సోప్ మిశ్రమాన్ని 5-7 రోజులకు ఒకసారి వాడండి.",
+      "recommended_insecticide_pesticide": "కాపర్ హైడ్రాక్సైడ్, మాంకోజెబ్."
+    },
+    "ta": {
+      "name": "பாக்டீரியா இலைப்புள்ளி நோய்",
+      "severity": "அதிகம்",
+      "treatment": "பாதிக்கப்பட்ட இலைகளை அழித்துவிடவும். வாரந்தோறும் தாமிர மருந்து தெளிக்கவும். செடிகள் ஈரமாக இருக்கும்போது வேலை செய்ய வேண்டாம்.",
+      "prevention": "3 ஆண்டு பயிர் சுழற்சியைப் பின்பற்றவும். செடிகளைத் தரையில் படரவிடாமல் ஊன்றுக்கோல் (Stake) கட்டி வளர்க்கவும்.",
+      "organic_treatment": "வேம்பு எண்ணெய் மற்றும் காப்பர் சோப் கலவை பாக்டீரியாவைக் கட்டுப்படுத்தும்.",
+      "recommended_insecticide_pesticide": "காப்பர் ஹைட்ராக்சைடு, மேன்கோசெப்."
+    },
+    "kn": {
+      "name": "ಬ್ಯಾಕ್ಟೀರಿಯಲ್ ಸ್ಪಾಟ್",
+      "severity": "ಹೆಚ್ಚು",
+      "treatment": "ಸೋಂಕಿತ ಎಲೆಗಳನ್ನು ನಾಶಮಾಡಿ. ವಾರಕ್ಕೊಮ್ಮೆ ತಾಮ್ರದ ಬ್ಯಾಕ್ಟೀರಿಯಾ ನಾಶಕ ಬಳಸಿ. ಗಿಡಗಳು ಹಸಿ ಇರುವಾಗ ಕೆಲಸ ಮಾಡಬೇಡಿ.",
+      "prevention": "3 ವರ್ಷಗಳ ಬೆಳೆ ಸರದಿ ಮಾಡಿ. ಗಿಡಗಳಿಗೆ ಆಸರೆ (Stake) ನೀಡಿ ನೆಲದಿಂದ ಮೇಲೆ ಬೆಳೆಸಿ.",
+      "organic_treatment": "ಬೇವಿನ ಎಣ್ಣೆ ಮತ್ತು ಕಾಪರ್ ಸೋಪ್ ಮಿಶ್ರಣವನ್ನು 5-7 ದಿನಕ್ಕೊಮ್ಮೆ ಬಳಸಿ.",
+      "recommended_insecticide_pesticide": "ಕಾಪರ್ ಹೈಡ್ರಾಕ್ಸೈಡ್, ಮ್ಯಾಂಕೋಜೆಬ್."
+    },
+    "ml": {
+      "name": "ബാക്ടീരിയൽ സ്പോട്ട്",
+      "severity": "ഉയർന്നത്",
+      "treatment": "ബാധിച്ച ഇലകൾ നശിപ്പിക്കുക. കോപ്പർ അടങ്ങിയ മരുന്നുകൾ ആഴ്ചയിലൊരിക്കൽ ഉപയോഗിക്കുക. ഈർപ്പമുള്ളപ്പോൾ ചെടികളെ സ്പർശിക്കരുത്.",
+      "prevention": "3 വർഷത്തെ വിള പരിക്രമണം നടത്തുക. ചെടികൾക്ക് താങ്ങ് (Stake) നൽകി നിലത്തുനിന്ന് ഉയർത്തി വളർത്തുക.",
+      "organic_treatment": "വേപ്പെണ്ണയും കോപ്പർ സോപ്പും കലർത്തി 5-7 ദിവസത്തിലൊരിക്കൽ പ്രയോഗിക്കുക.",
+      "recommended_insecticide_pesticide": "കോപ്പർ ഹൈഡ്രോക്സൈഡ്, മാങ്കോസെബ്."
+    },
+    "mr": {
+      "name": "बॅक्टेरियल स्पॉट",
+      "severity": "उच्च",
+      "treatment": "बाधित पाने नष्ट करा. तांबे-आधारित औषधांची साप्ताहिक फवारणी करा. ओल्या झाडांमध्ये काम करणे टाळा.",
+      "prevention": "३ वर्षांचा पीक फेरपालट करा. झाडांना आधार (Stake) देऊन जमिनीपासून वर ठेवा.",
+      "organic_treatment": "कडुनिंबाचे तेल आणि कॉपर सोप यांचे मिश्रण दर ५-७ दिवसांनी वापरा.",
+      "recommended_insecticide_pesticide": "कॉपर हायड्रॉक्साईड, मॅन्કોझेब."
+    },
+    "bn": {
+      "name": "ব্যাকটেরিয়াল স্পট",
+      "severity": "উচ্চ",
+      "treatment": "আক্রান্ত পাতা পুড়িয়ে ফেলুন। সপ্তাহে একবার কপার ভিত্তিক ওষুধ স্প্রে করুন। ভেজা গাছে হাত দেবেন না।",
+      "prevention": "৩ বছরের শস্য আবর্তন করুন। গাছগুলিকে খুঁটির সাহায্যে (Stake) মাটি থেকে ওপরে রাখুন। ওপর থেকে জল দেবেন না।",
+      "organic_treatment": "নিম তেল ও কপার সোপের মিশ্রণ ৫-৭ দিন অন্তর ব্যবহার করুন।",
+      "recommended_insecticide_pesticide": "কপার হাইড্রোক্সাইড, ম্যানকোজেব।"
+    },
+    "gu": {
+      "name": "બેક્ટેરિયલ સ્પોટ",
+      "severity": "ઉચ્ચ",
+      "treatment": "ચેપગ્રસ્ત પાંદડા નાશ કરો. કોપર આધારિત દવાઓ સાપ્તાહિક લગાવો. ભીના છોડમાં કામ કરવાનું ટાળો.",
+      "prevention": "3 વર્ષ પાકની ફેરબદલી કરો. છોડને ટેકો (Stake) આપી જમીનથી ઉપર રાખો.",
+      "organic_treatment": "લીમડાના તેલ અને કોપર સોપનું મિશ્રણ દર 5-7 દિવસે વાપરો.",
+      "recommended_insecticide_pesticide": "કોપર હાઇડ્રોક્સાઇડ, મેન્કોઝેબ."
+    }
+  },
+  "Tomato___Early_blight": {
+    "en": {
+      "name": "Early Blight",
+      "severity": "medium",
+      "treatment": "Apply fungicides when first symptoms appear on lower leaves. Remove and destroy affected lower leaves. Continue fungicide applications every 7-10 days through season, especially during warm, humid weather.",
+      "prevention": "Practice 3-year crop rotation away from tomatoes and other solanaceous crops. Mulch plants to prevent soil splash onto lower leaves. Stake or cage plants for air circulation. Remove volunteer tomatoes. Water at base using drip irrigation.",
+      "organic_treatment": "Baking soda spray (1 tablespoon per gallon water) can suppress disease development. Copper fungicides also effective. Apply weekly during disease-favorable conditions. Best when combined with cultural practices.",
+      "recommended_insecticide_pesticide": "Mancozeb: protectant fungicide applied preventatively. Chlorothalonil: broad-spectrum alternative. Begin applications when plants are staked and continue through harvest."
+    },
+    "hi": {
+      "name": "अगेती झुलसा (Early Blight)",
+      "severity": "मध्यम",
+      "treatment": "निचली पत्तियों पर लक्षण दिखने पर कवकनाशी लगाएं। प्रभावित पत्तियों को नष्ट करें। हर 7-10 दिनों में छिड़काव जारी रखें।",
+      "prevention": "निचली पत्तियों पर मिट्टी के छींटों को रोकने के लिए मल्चिंग करें। स्वेच्छा से उगे (Volunteer) टमाटरों को हटा दें।",
+      "organic_treatment": "बेकिंग सोडा स्प्रे (1 चम्मच प्रति गैलन पानी) बीमारी को कम कर सकता है। कॉपर कवकनाशी भी प्रभावी है।",
+      "recommended_insecticide_pesticide": "मैनकोजेब (Mancozeb), क्लोरोथैलोनिल (Chlorothalonil)।"
+    },
+    "te": {
+      "name": "తొలి ఆకు ఎండు తెగులు",
+      "severity": "మధ్యస్థం",
+      "treatment": "కింది ఆకులపై లక్షణాలు కనిపించినప్పుడు శిలీంధ్ర సంహారిణులను వాడండి. సోకిన ఆకులను తొలగించండి.",
+      "prevention": "కింది ఆకులపై మట్టి పడకుండా మల్చింగ్ చేయండి. పిచ్చిగా మొలిచిన టమోటా మొక్కలను తొలగించండి.",
+      "organic_treatment": "బేకింగ్ సోడా స్ప్రే (ఒక గాలన్ నీటికి 1 స్పూన్) వాడితే తెగులు తగ్గుతుంది.",
+      "recommended_insecticide_pesticide": "మాంకోజెబ్, క్లోరోథలోనిల్."
+    },
+    "ta": {
+      "name": "முன் கருகல் நோய்",
+      "severity": "மிதமானது",
+      "treatment": "கீழ் இலைகளில் அறிகுறிகள் தோன்றும்போது பூஞ்சைக் கொல்லிகளைத் தெளிக்கவும். பாதிக்கப்பட்ட இலைகளை அழிக்கவும்.",
+      "prevention": "கீழ் இலைகளில் மண் தெறிப்பதைத் தவிர்க்க தழைக்கூளம் இடவும். தானாக முளைத்த செடிகளை அகற்றவும்.",
+      "organic_treatment": "பேக்கிங் சோடா தெளிப்பு (ஒரு கேலன் நீருக்கு 1 மேசைக்கரண்டி) நோயைக் கட்டுப்படுத்தும்.",
+      "recommended_insecticide_pesticide": "மேன்கோசெப், குளோರೋதலோனில்."
+    },
+    "kn": {
+      "name": "ಮುಂಗಾರು ಪೀಡೆ",
+      "severity": "ಮಧ್ಯಮ",
+      "treatment": "ಕೆಳಗಿನ ಎಲೆಗಳಲ್ಲಿ ಮಚ್ಚೆ ಕಂಡಾಗ ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಿ. ಬಾಧಿತ ಎಲೆಗಳನ್ನು ನಾಶಪಡಿಸಿ. ಪ್ರತಿ 7-10 ದಿನಕ್ಕೊಮ್ಮೆ ಸಿಂಪಡಿಸಿ.",
+      "prevention": "ಎಲೆಗಳ ಮೇಲೆ ಮಣ್ಣು ಸಿಡಿಯದಂತೆ ಮಲ್ಚಿಂಗ್ ಮಾಡಿ. ಹೊಲದಲ್ಲಿನ ಬೇಡದ ಟೊಮೆಟೊ ಗಿಡಗಳನ್ನು ತೆಗೆಯಿರಿ.",
+      "organic_treatment": "ಬೇಕಿಂಗ್ ಸೋಡಾ ಸಿಂಪರಣೆ (ಒಂದು ಗ್ಯಾಲನ್ ನೀರಿಗೆ 1 ಚಮಚ) ರೋಗವನ್ನು ತಡೆಯಬಲ್ಲದು.",
+      "recommended_insecticide_pesticide": "ಮ್ಯಾಂಕೋಜೆಬ್, ಕ್ಲೋರೋಥಲೋನಿಲ್."
+    },
+    "ml": {
+      "name": "അഗതി വട്ടം (Early Blight)",
+      "severity": "മിതമായ",
+      "treatment": "താഴത്തെ ഇലകളിൽ ലക്ഷണങ്ങൾ കാണുമ്പോൾ കുമിൾനാശിനി ഉപയോഗിക്കുക. ഓരോ 7-10 ദിവസത്തിലും പ്രയോഗം തുടരുക.",
+      "prevention": "താഴത്തെ ഇലകളിൽ മണ്ണ് തെറിക്കുന്നത് തടയാൻ മൾച്ചിംഗ് ചെയ്യുക. അനാവശ്യമായി മുളച്ച തക്കാളി ചെടികൾ നീക്കം ചെയ്യുക.",
+      "organic_treatment": "ബേക്കിംഗ് സോഡ സ്പ്രേ (ഒരു ഗാലൻ വെള്ളത്തിന് 1 ടേബിൾസ്പൂൺ) രോഗത്തെ തടയാൻ സഹായിക്കും.",
+      "recommended_insecticide_pesticide": "മാങ്കോസെബ്, ക്ലോറോതലിലോനിൽ."
+    },
+    "mr": {
+      "name": "अगेती करपा (Early Blight)",
+      "severity": "मध्यम",
+      "treatment": "खालच्या पानांवर लक्षणे दिसताच बुरशीनाशके लावा. प्रभावित पाने नष्ट करा. दर ७-१० दिवसांनी फवारणी करा.",
+      "prevention": "पानांवर माती उडू नये म्हणून मल्चिंग करा. बागेतील आपोआप उगवलेली टोमॅटोची झाडे काढून टाका.",
+      "organic_treatment": "बेकिंग सोडा स्प्रे (१ गॅलन पाण्यात १ चमचा) आजार रोखण्यास मदत करू शकतो.",
+      "recommended_insecticide_pesticide": "मॅन्કોझेब, क्लोरोथॅलोनिल."
+    },
+    "bn": {
+      "name": "আগেতি ধসা (Early Blight)",
+      "severity": "মাঝারি",
+      "treatment": "নিচের পাতায় লক্ষণ দেখা দিলে ছত্রাকনাশক দিন। আক্রান্ত পাতা সরিয়ে ফেলুন। ৭-১০ দিন অন্তর স্প্রে করুন।",
+      "prevention": "নিচের পাতায় মাটির ছিটে পড়া আটকাতে মালচিং করুন। আগাছা বা স্বেচ্ছায় গজানো টমেটো গাছ সরিয়ে ফেলুন।",
+      "organic_treatment": "বেকিং সোডা স্প্রে (১ গ্যালন জলে ১ চামচ) রোগ দমনে সাহায্য করে। কপার ছত্রাকনাশকও কার্যকর।",
+      "recommended_insecticide_pesticide": "ম্যানকোজেব, ক্লোরোথ্যালোনিল।"
+    },
+    "gu": {
+      "name": "આગોતરો ઝુલ્સારો",
+      "severity": "મધ્યમ",
+      "treatment": "નીચેના પાંદડા પર ચિહ્નો દેખાય ત્યારે ફૂગનાશક લગાવો. દર 7-10 દિવસે છંટકாவ ચાલુ રાખો.",
+      "prevention": "માટી ઉડતી રોકવા મલ્ચિંગ કરો. ખેતરમાં વધારાના ઉગી નીકળેલા ટામેટાના છોડ દૂર કરો.",
+      "organic_treatment": "બેકિંગ સોડા સ્પ્રે (1 ગેલન પાણીમાં 1 ચમચી) રોગને દબાવવામાં મદદ કરી શકે છે.",
+      "recommended_insecticide_pesticide": "મેન્કોઝેબ, ક્લોરોથૈલોનিল."
+    }
+  },
+  "Tomato___Late_blight": {
+    "en": {
+      "name": "Late Blight",
+      "severity": "very high",
+      "treatment": "Apply fungicides immediately when disease is detected or when forecast models predict high risk. Spray every 5-7 days during cool, wet weather. Remove and destroy infected plants rapidly to prevent spread.",
+      "prevention": "Avoid overhead watering; use drip irrigation. Space plants for maximum air circulation. Monitor regional late blight alerts and forecasting systems. Remove volunteer tomatoes and nightshade weeds. Plant resistant varieties when available.",
+      "organic_treatment": "Copper fungicides provide limited protection. Must be applied frequently (every 5-7 days) during high-risk weather. Less effective than synthetic options but acceptable for organic production. Begin applications preventatively.",
+      "recommended_insecticide_pesticide": "Metalaxyl: systemic with curative properties, use in tank mix. Cymoxanil: provides knockdown of active infections. Always combine with protectant like Chlorothalonil or Mancozeb for resistance management."
+    },
+    "hi": {
+      "name": "पछेती झुलसा (Late Blight)",
+      "severity": "अत्यंत उच्च",
+      "treatment": "रोग का पता चलते ही तुरंत कवकनाशी लगाएं। ठंडे, गीले मौसम में हर 5-7 दिनों में स्प्रे करें।",
+      "prevention": "ऊपर से पानी देने के बजाय ड्रिप सिंचाई का उपयोग करें। खरपतवार और स्वेच्छा से उगे पौधों को हटा दें।",
+      "organic_treatment": "कॉपर कवकनाशी सीमित सुरक्षा देते हैं; इन्हें उच्च जोखिम वाले मौसम में हर 5-7 दिनों में लगाना चाहिए।",
+      "recommended_insecticide_pesticide": "मेटालेक्सिल (Metalaxyl), साइमोक्सानिल (Cymoxanil)।"
+    },
+    "te": {
+      "name": "మలి ఆకు ఎండు తెగులు",
+      "severity": "అత్యంత అధికం",
+      "treatment": "వ్యాధి గుర్తించిన వెంటనే శిలీంధ్ర సంహారిణులను వాడండి. చల్లని, తడి వాతావరణంలో ప్రతి 5-7 రోజులకు పిచికారీ చేయండి.",
+      "prevention": "డ్రిప్ ఇరిగేషన్ వాడండి. గాలి ప్రసరణ కోసం మొక్కల మధ్య దూరం ఉంచండి. వ్యాధి నిరోధక రకాలను ఎంచుకోండి.",
+      "organic_treatment": "కాపర్ శిలీంధ్ర సంహారిణులు పరిమిత రక్షణ ఇస్తాయి; తరచుగా వాడాలి.",
+      "recommended_insecticide_pesticide": "మెటాలక్సిల్, సైమోక్సానిల్."
+    },
+    "ta": {
+      "name": "பின் கருகல் நோய்",
+      "severity": "மிகவும் அதிகம்",
+      "treatment": "நோய் கண்டவுடன் உடனடியாகப் பூஞ்சைக் கொல்லிகளைத் தெளிக்கவும். 5-7 நாட்களுக்கு ஒருமுறை பயன்படுத்தவும்.",
+      "prevention": "சொட்டுநீர் பாசனத்தைப் பயன்படுத்தவும். செடிகளுக்கு இடையே அதிக இடைவெளி விடவும். நோய் எதிர்ப்புத் திறன் கொண்ட ரகங்களை நடவும்.",
+      "organic_treatment": "தாமிரப் பூஞ்சைக் கொல்லிகள் ஓரளவு பாதுகாப்பு அளிக்கும்; அடிக்கடி பயன்படுத்த வேண்டும்.",
+      "recommended_insecticide_pesticide": "மெட்டாலக்ஸில், சைமோக்ஸானில்."
+    },
+    "kn": {
+      "name": "ಹಿಂಗಾರು ಪೀಡೆ",
+      "severity": "ಅತ್ಯಂತ ಹೆಚ್ಚು",
+      "treatment": "ರೋಗ ಪತ್ತೆಯಾದ ತಕ್ಷಣ ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಿ. ತಂಪಾದ, ಹಸಿ ವಾತಾವರಣದಲ್ಲಿ ಪ್ರತಿ 5-7 ದಿನಕ್ಕೊಮ್ಮೆ ಸಿಂಪಡಿಸಿ.",
+      "prevention": "ಹನಿ ನೀರಾವರಿ ಬಳಸಿ. ಗರಿಷ್ಠ ಗಾಳಿಯಾಡುವಂತೆ ಗಿಡಗಳನ್ನು ನೆಡಿ. ರೋಗ ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಆರಿಸಿ.",
+      "organic_treatment": "ತಾಮ್ರದ ಶಿಲೀಂಧ್ರನಾಶಕಗಳು ಸೀಮಿತ ರಕ್ಷಣೆ ನೀಡುತ್ತವೆ; ಪದೇ ಪದೇ ಬಳಸಬೇಕು.",
+      "recommended_insecticide_pesticide": "ಮೆಟಾಲಾಕ್ಸಿಲ್, ಸೈಮೋಕ್ಸಾನಿಲ್."
+    },
+    "ml": {
+      "name": "പിന്നീടുള്ള വട്ടം (Late Blight)",
+      "severity": "അതിശക്തം",
+      "treatment": "രോഗം കണ്ടാലുടൻ കുമിൾനാശിനി ഉപയോഗിക്കുക. തണുത്ത കാലാവസ്ഥയിൽ ഓരോ 5-7 ദിവസത്തിലും പ്രയോഗിക്കുക.",
+      "prevention": "തുള്ളിനന രീതി ഉപയോഗിക്കുക. വായുസഞ്ചാരത്തിനായി ചെടികൾക്കിടയിൽ അകലം പാലിക്കുക. പ്രതിരോധ ശേഷിയുള്ള ഇനങ്ങൾ നടുക.",
+      "organic_treatment": "കോപ്പർ കുമിൾനാശിനികൾ പരിമിതമായ സംരക്ഷണം നൽകുന്നു; ഇടയ്ക്കിടെ ഉപയോഗിക്കണം.",
+      "recommended_insecticide_pesticide": "മെറ്റാലാക്സിൽ, സൈമോക്സാനിൽ."
+    },
+    "mr": {
+      "name": "पछेती करपा (Late Blight)",
+      "severity": "अत्यंत उच्च",
+      "treatment": "रोग दिसताच त्वरित बुरशीनाशके लावा. थंड आणि ओल्या हवामानात दर ५-७ दिवसांनी फवारणी करा.",
+      "prevention": "ठिबक सिंचनाचा वापर करा. झाडांमध्ये हवा खेळती राहील असे अंतर ठेवा. रोगप्रतिकारक वाणांची निवड करा.",
+      "organic_treatment": "कॉपर बुरशीनाशके मर्यादित संरक्षण देतात; उच्च जोखीम असलेल्या हवामानात वारंवार लावावी लागतात.",
+      "recommended_insecticide_pesticide": "मेटालेक्सिल, सायमोक्सानिल."
+    },
+    "bn": {
+      "name": "পাবিতি ধসা (Late Blight)",
+      "severity": "অত্যন্ত উচ্চ",
+      "treatment": "রোগ দেখা মাত্র দ্রুত ছত্রাকনাশক দিন। ঠান্ডা ও ভিজে আবহাওয়ায় ৫-৭ দিন অন্তর স্প্রে করুন।",
+      "prevention": "ড্রিপ সেচ ব্যবহার করুন। পর্যাপ্ত বায়ু চলাচলের জন্য সঠিক দূরত্বে গাছ লাগান। প্রতিরোধী জাত ব্যবহার করুন।",
+      "organic_treatment": "কপার ছত্রাকনাশক সীমিত সুরক্ষা দেয়; ৫-৭ দিন অন্তর ঘন ঘন প্রয়োগ করতে হবে।",
+      "recommended_insecticide_pesticide": "মেটালেক্সিল, সাইমোক্সানিল।"
+    },
+    "gu": {
+      "name": "પાછોતરો ઝુલ્સારો",
+      "severity": "ખૂબ જ ઉચ્ચ",
+      "treatment": "રોગ દેખાતા તરત જ ફૂગનાશક લગાવો. ઠંડા અને ભીના હવામાનમાં દર 5-7 દિવસે છંટકાવ કરો.",
+      "prevention": "ટપક સિંચાઈ વાપરો. હવાની અવરજવર માટે છોડ વચ્ચે પૂરતી જગ્યા રાખો. પ્રતિકારક જાતો વાવો.",
+      "organic_treatment": "કોપર ફૂગનાશકો મર્યાદિત રક્ષણ આપે છે; વારંવાર ઉપયોગ કરવો પડે છે.",
+      "recommended_insecticide_pesticide": "મેટાલક્સિલ, સાયમોક્સાનિલ."
+    }
+  },
+  "Tomato___Leaf_mold": {
+    "en": {
+      "name": "Leaf Mold",
+      "severity": "medium",
+      "treatment": "Apply fungicides at first sign of yellow spots on upper leaf surfaces. Improve greenhouse or high tunnel ventilation immediately. Remove lower infected leaves. Treat every 7-10 days if conditions remain humid.",
+      "prevention": "Reduce humidity through proper ventilation and air circulation, especially in greenhouses. Avoid overhead irrigation. Space plants adequately. Use resistant varieties when growing in enclosed structures. Maintain temperatures above 70°F when possible.",
+      "organic_treatment": "Neem oil provides moderate control when applied at early symptoms. Improve air circulation and reduce humidity first. Apply weekly during humid conditions. Most effective in combination with environmental management.",
+      "recommended_insecticide_pesticide": "Chlorothalonil: broad-spectrum protectant fungicide. Most effective when combined with cultural controls to reduce humidity. Apply when disease first appears."
+    },
+    "hi": {
+      "name": "लीफ मोल्ड (पत्ता मोल्ड)",
+      "severity": "मध्यम",
+      "treatment": "ऊपरी पत्तों पर पीले धब्बे दिखने पर कवकनाशी लगाएं। ग्रीनहाउस में वेंटिलेशन (हवा का संचार) बढ़ाएं।",
+      "prevention": "नमी कम करें। ऊपर से सिंचाई न करें। बंद जगहों में खेती करते समय रोग-प्रतिरोधी किस्मों का उपयोग करें।",
+      "organic_treatment": "शुरुआती लक्षणों पर नीम का तेल लगाएं। हवा का संचार बढ़ाना सबसे महत्वपूर्ण है।",
+      "recommended_insecticide_pesticide": "क्लोरोथैलोनिल (Chlorothalonil)।"
+    },
+    "te": {
+      "name": "ఆకు బూజు తెగులు",
+      "severity": "మధ్యస్థం",
+      "treatment": "ఆకులపై పసుపు మచ్చలు కనిపించినప్పుడు శిలీంధ్ర సంహారిణులను వాడండి. గ్రీన్ హౌస్ లో గాలి వెలుతురు పెంచండి.",
+      "prevention": "తేమను తగ్గించండి. పై నుండి నీరు పోయడం ఆపండి. వ్యాధి నిరోధక రకాలను వాడండి.",
+      "organic_treatment": "వేప నూనె వాడండి. గాలి ప్రసరణ పెంచడం మరియు తేమ తగ్గించడం చాలా ముఖ్యం.",
+      "recommended_insecticide_pesticide": "క్లోరోథలోనిల్."
+    },
+    "ta": {
+      "name": "இலை பூஞ்சை காளான்",
+      "severity": "மிதமானது",
+      "treatment": "மேல் இலைகளில் மஞ்சள் புள்ளிகள் தோன்றும் போது பூஞ்சைக் கொல்லிகளைப் பயன்படுத்தவும். காற்றோட்டத்தை அதிகரிக்கவும்.",
+      "prevention": "ஈரப்பதத்தைக் குறைக்கவும். மேலிருந்து நீர் பாய்ச்சுவதைத் தவிர்க்கவும். எதிர்ப்புத் திறன் கொண்ட ரகங்களைப் பயன்படுத்தவும்.",
+      "organic_treatment": "அறிகுறிகள் தொடங்கும் போது வேம்பு எண்ணெயைப் பயன்படுத்தவும். காற்றோட்டத்தை மேம்படுத்துவது அவசியம்.",
+      "recommended_insecticide_pesticide": "குளோரோதலோனில்."
+    },
+    "kn": {
+      "name": "ಎಲೆ ಬೂಸು ರೋಗ",
+      "severity": "ಮಧ್ಯಮ",
+      "treatment": "ಎಲೆಗಳ ಮೇಲೆ ಹಳದಿ ಚುಕ್ಕೆ ಕಂಡಾಗ ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಿ. ಗ್ರೀನ್ ಹೌಸ್ ವಾತಾಯನವನ್ನು (Ventilation) ಸುಧಾರಿಸಿ.",
+      "prevention": "ತೇವಾಂಶ ಕಡಿಮೆ ಮಾಡಿ. ಹನಿ ನೀರಾವರಿ ಬಳಸಿ. ಎಲೆಗಳ ನಡುವೆ ಗಾಳಿಯಾಡುವಂತೆ ಗಿಡಗಳನ್ನು ನೆಡಿ.",
+      "organic_treatment": "ಬೇವಿನ ಎಣ್ಣೆಯನ್ನು ಬಳಸಿ. ಗಾಳಿಯಾಡುವಿಕೆ ಸುಧಾರಿಸುವುದು ಮತ್ತು ತೇವಾಂಶ ಕಡಿಮೆ ಮಾಡುವುದು ಮುಖ್ಯ.",
+      "recommended_insecticide_pesticide": "ಕ್ಲೋರೋಥಲೋನಿಲ್."
+    },
+    "ml": {
+      "name": "ഇല പൂപ്പൽ",
+      "severity": "മിതമായ",
+      "treatment": "മഞ്ഞപ്പൊട്ടുകൾ കാണുമ്പോൾ കുമിൾനാശിനി ഉപയോഗിക്കുക. ഗ്രീൻഹൗസിൽ വായുസഞ്ചാരം വർദ്ധിപ്പിക്കുക.",
+      "prevention": "ഈർപ്പം കുറയ്ക്കുക. തുള്ളിനന രീതി ഉപയോഗിക്കുക. പ്രതിരോധ ശേഷിയുള്ള ഇനങ്ങൾ തിരഞ്ഞെടുക്കുക.",
+      "organic_treatment": "തുടക്കത്തിൽ വേപ്പെണ്ണ ഉപയോഗിക്കുക. വായുസഞ്ചാരവും പരിസര ശുചിത്വവും ഉറപ്പാക്കുക.",
+      "recommended_insecticide_pesticide": "ക്ലോറോതലിലോനിൽ."
+    },
+    "mr": {
+      "name": "लीफ मोल्ड",
+      "severity": "मध्यम",
+      "treatment": "पानांच्या वरच्या बाजूला पिवळे डाग दिसताच बुरशीनाशके लावा. ग्रीनहाऊसमध्ये हवा खेळती राहील याची काळजी घ्या.",
+      "prevention": "हवेतील आर्द्रता कमी करा. झाडांमध्ये योग्य अंतर ठेवा आणि रोगप्रतिकारक वाण वापरा.",
+      "organic_treatment": "कडुनिंबाच्या तेलाचा वापर करा. हवा खेळती ठेवणे आणि आर्द्रता कमी करणे हे सर्वात प्रभावी आहे.",
+      "recommended_insecticide_pesticide": "क्लोरोथॅलोनिल."
+    },
+    "bn": {
+      "name": "লিফ মোল্ড",
+      "severity": "মাঝারি",
+      "treatment": "পাতার ওপর হলুদ ছোপ দেখলে ছত্রাকনাশক দিন। গ্রিনহাউসে বাতাস চলাচলের ব্যবস্থা উন্নত করুন।",
+      "prevention": "আর্দ্রতা কমান। ওপর থেকে জল দেওয়া বন্ধ করুন। প্রতিরোধী জাতের বীজ ব্যবহার করুন।",
+      "organic_treatment": "নিম তেল ব্যবহার করুন। বাতাস চলাচল বাড়ানো ও আর্দ্রতা কমানো প্রাথমিক কাজ।",
+      "recommended_insecticide_pesticide": "ক্লোরোথ্যালোনিল।"
+    },
+    "gu": {
+      "name": "લીફ મોલ્ડ",
+      "severity": "મધ્યમ",
+      "treatment": "પાંદડાની ઉપરની સપાટી પર પીળા ડાઘ દેખાય ત્યારે ફૂગનાશક લગાવો. ગ્રીનહાઉસમાં હવાની અવરજવર વધારો.",
+      "prevention": "ભેજનું પ્રમાણ ઘટાડો. ટપક સિંચાઈ વાપરો. રોગ પ્રતિકારક જાતોની પસંદગી કરો.",
+      "organic_treatment": "નીમ તેલનો ઉપયોગ કરો. હવાની અવરજવર વધારવી અને ભેજ ઘટાડવો અનિવાર્ય છે.",
+      "recommended_insecticide_pesticide": "ક્લોરોથૈલોનિલ."
+    }
+  },
+  "Tomato___Spider_mites_Two-spotted_spider_mite": {
+    "en": {
+      "name": "Spider Mites (Two-spotted)",
+      "severity": "medium",
+      "treatment": "Apply miticides or insecticidal soap when mites first detected, targeting leaf undersides. Repeat applications every 5-7 days for 2-3 weeks. Avoid broad-spectrum insecticides that kill beneficial predatory mites.",
+      "prevention": "Maintain adequate plant moisture to reduce stress. Encourage beneficial predatory mites by avoiding harsh pesticides. Monitor weekly for early detection, checking undersides of leaves. Avoid dusty conditions. Remove heavily infested plants.",
+      "organic_treatment": "Neem oil applied every 5-7 days controls mite populations. Insecticidal soap also effective with thorough spray coverage. Horticultural oil suffocates mites. Repeat treatments necessary as products only kill on contact.",
+      "recommended_insecticide_pesticide": "Abamectin: miticide effective against all mite life stages. Apply when populations detected and repeat in 7 days. Rotate with different modes of action to prevent resistance."
+    },
+    "hi": {
+      "name": "मकड़ी के कण (Spider Mites)",
+      "severity": "मध्यम",
+      "treatment": "पत्तों के निचले हिस्से पर जोर देते हुए कीटनाशक साबुन या माइटिसाइड लगाएं। हर 5-7 दिनों में दोहराएं।",
+      "prevention": "पौधों में नमी बनाए रखें। धूल भरी स्थितियों से बचें। साप्ताहिक रूप से पत्तों के निचले हिस्से की जाँच करें।",
+      "organic_treatment": "नीम का तेल या हॉर्टिकल्चर ऑयल का उपयोग करें। यह सीधे संपर्क में आने पर ही काम करता है, इसलिए छिड़काव अच्छी तरह करें।",
+      "recommended_insecticide_pesticide": "एबामेक्टिन (Abamectin)।"
+    },
+    "te": {
+      "name": "ఎర్ర నల్లి (Spider Mites)",
+      "severity": "మధ్యస్థం",
+      "treatment": "ఆకుల అడుగు భాగాన మైటిసైడ్స్ లేదా ఇన్సెక్టిసైడల్ సోప్ పిచికారీ చేయండి. ప్రతి 5-7 రోజులకు ఒకసారి చొప్పున 2-3 వారాలు చేయాలి.",
+      "prevention": "మొక్కల ఒత్తిడిని తగ్గించడానికి తగినంత తేమను ఉంచండి. ధూళి వాతావరణం లేకుండా చూడండి.",
+      "organic_treatment": "వేప నూనె లేదా హార్టికల్చరల్ ఆయిల్ వాడండి. ఇవి పురుగులపై నేరుగా పడితేనే చనిపోతాయి.",
+      "recommended_insecticide_pesticide": "అబామెక్టిన్."
+    },
+    "ta": {
+      "name": "சிலந்திப் பேன்",
+      "severity": "மிதமானது",
+      "treatment": "இலைகளின் அடிப்பகுதியில் மருந்து படுமாறு பூச்சிக்கொல்லி சோப் தெளிக்கவும். 5-7 நாட்களுக்கு ஒருமுறை மீண்டும் செய்யவும்.",
+      "prevention": "செடிகளுக்குத் தேவையான ஈரப்பதம் அளிக்கப்பட வேண்டும். வாரந்தோறும் இலைகளின் அடிப்பகுதியைச் சோதிக்கவும்.",
+      "organic_treatment": "வேம்பு எண்ணெய் அல்லது தோட்டக்கலை எண்ணெய் (Horticultural oil) தெளிக்கவும். இது பூச்சிகளின் மீது நேரடியாகப் பட வேண்டும்.",
+      "recommended_insecticide_pesticide": "அபாமெக்டின் (Abamectin)."
+    },
+    "kn": {
+      "name": "ಜೇಡರ ನುಸಿ",
+      "severity": "ಮಧ್ಯಮ",
+      "treatment": "ಎಲೆಗಳ ಕೆಳಭಾಗಕ್ಕೆ ತಗುಲುವಂತೆ ಕೀಟನಾಶಕ ಸೋಪ್ ಅಥವಾ ಮೈಟಿಸೈಡ್ ಬಳಸಿ. ಪ್ರತಿ 5-7 ದಿನಕ್ಕೊಮ್ಮೆ 2-3 ವಾರಗಳ ಕಾಲ ಸಿಂಪಡಿಸಿ.",
+      "prevention": "ಗಿಡಗಳಲ್ಲಿ ಸರಿಯಾದ ತೇವಾಂಶವಿರಲಿ. ಧೂಳಿನ ವಾತಾವరణ ತಪ್ಪಿಸಿ. ವಾರಕ್ಕೊಮ್ಮೆ ಎಲೆಗಳ ಕೆಳಭಾಗ ತಪಾಸಣೆ ಮಾಡಿ.",
+      "organic_treatment": "ಬೇವಿನ ಎಣ್ಣೆ ಅಥವಾ ತೋಟಗಾರಿಕಾ ಎಣ್ಣೆ (Horticultural oil) ಬಳಸಿ. ಇವು ಸಂಪರ್ಕಕ್ಕೆ ಬಂದಾಗ ಮಾತ್ರ ಕೆಲಸ ಮಾಡುತ್ತವೆ.",
+      "recommended_insecticide_pesticide": "ಅಬಾಮೆಕ್ಟಿನ್."
+    },
+    "ml": {
+      "name": "ചെമ്പൻ ചെള്ള് (Spider Mites)",
+      "severity": "മിതമായ",
+      "treatment": "ഇലകളുടെ അടിവശത്ത് ശ്രദ്ധ കേന്ദ്രീകരിച്ച് കീടനാശിനി സോപ്പ് ഉപയോഗിക്കുക. 5-7 ദിവസത്തിലൊരിക്കൽ ആവർത്തിക്കുക.",
+      "prevention": "ചെടികൾക്ക് ആവശ്യത്തിന് നനവ് ഉറപ്പാക്കുക. ആഴ്ചയിലൊരിക്കൽ ഇലകളുടെ അടിവശം പരിശോധിക്കുക.",
+      "organic_treatment": "വേപ്പെണ്ണയോ ഹോർട്ടികൾച്ചറൽ ഓയിലോ ഉപയോഗിക്കുക. ഇത് കീടങ്ങളുടെ മേൽ നേരിട്ട് പതിച്ചാൽ മാത്രമേ ഫലം ലഭിക്കൂ.",
+      "recommended_insecticide_pesticide": "അബാമെക്റ്റിൻ."
+    },
+    "mr": {
+      "name": "कोळी कीड (Spider Mites)",
+      "severity": "मध्यम",
+      "treatment": "पानांच्या खालच्या बाजूला मायटिसिड्स किंवा कीटकनाशक साबण लावा. ५-७ दिवसांनी पुन्हा फवारणी करा.",
+      "prevention": "रोपांमधील ओलावा टिकवून ठेवा. धुळीच्या वातावरणापासून पिकाचे संरक्षण करा. पानांच्या खालच्या बाजूचे निरीक्षण करा.",
+      "organic_treatment": "कडुनिंबाचे तेल किंवा फलोत्पादन तेल (Horticultural oil) वापरा. फवारणी कीटकांच्या थेट संपर्कात येणे आवश्यक आहे.",
+      "recommended_insecticide_pesticide": "अॅबॅमेक्टिन."
+    },
+    "bn": {
+      "name": "মাকড় (Spider Mites)",
+      "severity": "মাঝারি",
+      "treatment": "পাতার উল্টো পিঠে ভালো করে কীটনাশক সাবান বা মাইটিসাইড স্প্রে করুন। ৫-৭ দিন অন্তর ২-৩ সপ্তাহ প্রয়োগ করুন।",
+      "prevention": "গাছে পর্যাপ্ত আর্দ্রতা বজায় রাখুন। ধুলোবালি থেকে গাছকে দূরে রাখুন। নিয়মিত পাতার নিচের দিক পরীক্ষা করুন।",
+      "organic_treatment": "নিম তেল বা হর্টিকালচারাল অয়েল ব্যবহার করুন। এগুলো সরাসরি পোকার গায়ে লাগলে তবেই কাজ করে।",
+      "recommended_insecticide_pesticide": "অ্যাবামেমেকটিন (Abamectin)।"
+    },
+    "gu": {
+      "name": "કરોળિયાની ઈતરડી (Spider Mites)",
+      "severity": "મધ્યમ",
+      "treatment": "પાંદડાના નીચેના ભાગમાં માઈટીસાઈડ અથવા કીટનાશક સાબુનો ઉપયોગ કરો. દર 5-7 દિવસે પુનરાવર્તન કરો.",
+      "prevention": "છોડમાં પૂરતી ભેજ જાળવો. ધૂળવાળા વાતાવરણથી બચો. સાપ્તાહિક ધોરણે પાંદડાની નીચેની તપાસ કરો.",
+      "organic_treatment": "નીમ તેલ અથવા હોર્ટિકલ્ચર ઓઈલ વાપરો. આ દવા સીધી જીવાતના સંપર્કમાં આવવી જોઈએ.",
+      "recommended_insecticide_pesticide": "અબામેક્ટીન (Abamectin)."
+    }
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "en": {
+      "name": "Septoria Leaf Spot",
+      "severity": "medium",
+      "treatment": "Remove infected lower leaves when first spots appear. Apply fungicides starting at first symptoms and continue every 7-10 days. Avoid working with wet plants to prevent spreading spores.",
+      "prevention": "Rotate crops away from tomatoes for 3 years. Mulch to prevent soil splash. Stake plants off ground and space for air circulation. Avoid overhead irrigation or water early in day. Remove crop debris after harvest.",
+      "organic_treatment": "Copper fungicides offer protective action when applied at first symptoms or preventatively. Spray every 7 days during warm, wet weather. Reapply after heavy rains. Most effective with good cultural practices.",
+      "recommended_insecticide_pesticide": "Mancozeb: protectant applied when disease appears on lower leaves. Chlorothalonil: alternative broad-spectrum fungicide. Continue applications through season during favorable disease weather."
+    },
+    "hi": {
+      "name": "सेप्टोरिया लीफ स्पॉट",
+      "severity": "मध्यम",
+      "treatment": "पहला धब्बा दिखने पर संक्रमित निचली पत्तियों को हटा दें। हर 7-10 दिनों में कवकनाशी का छिड़काव करें।",
+      "prevention": "3 साल का फसल चक्र अपनाएं। मिट्टी के छींटों को रोकने के लिए मल्चिंग करें। पौधों को जमीन से ऊपर सहारा दें।",
+      "organic_treatment": "कॉपर कवकनाशी सुरक्षा प्रदान करते हैं। बारिश के बाद दोबारा छिड़काव करना आवश्यक है।",
+      "recommended_insecticide_pesticide": "मैनकोजेब (Mancozeb), क्लोरोथैलोनिल (Chlorothalonil)।"
+    },
+    "te": {
+      "name": "సెప్టోరియా ఆకు మచ్చ తెగులు",
+      "severity": "మధ్యస్థం",
+      "treatment": "మచ్చలు కనిపించిన వెంటనే కింది ఆకులను తొలగించండి. ప్రతి 7-10 రోజులకు శిలీంధ్ర సంహారిణులను వాడండి.",
+      "prevention": "3 ఏళ్ల పంట మార్పిడి చేయండి. మట్టి పడకుండా మల్చింగ్ చేయండి. మొక్కలను నేల నుండి పైకి కట్టండి.",
+      "organic_treatment": "కాపర్ శిలీంధ్ర సంహారిణులు నివారణకు మంచివి. ప్రతి 7 రోజులకు పిచికారీ చేయండి.",
+      "recommended_insecticide_pesticide": "మాంకోజెబ్, క్లోరోథలోనిల్."
+    },
+    "ta": {
+      "name": "செப்டோரியா இலைப்புள்ளி நோய்",
+      "severity": "மிதமானது",
+      "treatment": "அறிகுறிகள் கண்டவுடன் பாதிக்கப்பட்ட கீழ் இலைகளை அகற்றவும். 7-10 நாட்களுக்கு ஒருமுறை பூஞ்சைக் கொல்லிகளைத் தெளிக்கவும்.",
+      "prevention": "3 ஆண்டு பயிர் சுழற்சியைப் பின்பற்றவும். மண் தெறிப்பதைத் தவிர்க்க தழைக்கூளம் இடவும்.",
+      "organic_treatment": "தாமிரப் பூஞ்சைக் கொல்லிகள் பாதுகாப்பு அளிக்கும். 7 நாட்களுக்கு ஒருமுறை தெளிக்கவும்.",
+      "recommended_insecticide_pesticide": "மேன்கோசெப், குளோரோதலோனில்."
+    },
+    "kn": {
+      "name": "ಸೆಪ್ಟೋರಿಯಾ ಎಲೆ ಚುಕ್ಕೆ ರೋಗ",
+      "severity": "ಮಧ್ಯಮ",
+      "treatment": "ಮಚ್ಚೆ ಕಂಡ ತಕ್ಷಣ ಕೆಳಗಿನ ಎಲೆಗಳನ್ನು ತೆಗೆಯಿರಿ. ಪ್ರತಿ 7-10 ದಿನಕ್ಕೊಮ್ಮೆ ಶಿಲೀಂಧ್ರನಾಶಕ ಸಿಂಪಡಿಸಿ.",
+      "prevention": "3 ವರ್ಷಗಳ ಬೆಳೆ ಸರದಿ ಮಾಡಿ. ಮಣ್ಣು ಸಿಡಿಯದಂತೆ ಮಲ್ಚಿಂಗ್ ಮಾಡಿ. ಗಿಡಗಳನ್ನು ನೆಲದಿಂದ ಮೇಲೆ ಬೆಳೆಸಿ.",
+      "organic_treatment": "ತಾಮ್ರದ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಬಳಸಿ. ಭಾರೀ ಮಳೆಯ ನಂತರ ಮತ್ತೆ ಸಿಂಪಡಿಸುವುದು ಅಗತ್ಯ.",
+      "recommended_insecticide_pesticide": "ಮ್ಯಾಂಕೋಜೆಬ್, ಕ್ಲೋರೋಥಲೋನಿಲ್."
+    },
+    "ml": {
+      "name": "സെപ്റ്റോറിയ ഇലപ്പൊട്ട് രോഗം",
+      "severity": "മിതമായ",
+      "treatment": "ലക്ഷണങ്ങൾ കാണുമ്പോൾ രോഗം ബാധിച്ച താഴത്തെ ഇലകൾ നീക്കം ചെയ്യുക. 7-10 ദിവസത്തിലൊരിക്കൽ കുമിൾനാശിനി പ്രയോഗിക്കുക.",
+      "prevention": "3 വർഷത്തെ വിള പരിക്രമണം നടത്തുക. മണ്ണ് തെറിക്കുന്നത് തടയാൻ മൾച്ചിംഗ് ചെയ്യുക. ചെടികൾക്ക് താങ്ങ് നൽകുക.",
+      "organic_treatment": "കോപ്പർ കുമിൾനാശിനികൾ ഉപയോഗിക്കുക. മഴ പെയ്താൽ വീണ്ടും ഉപയോഗിക്കേണ്ടതുണ്ട്.",
+      "recommended_insecticide_pesticide": "മാങ്കോസെബ്, ക്ലോറോതലിലോനിൽ."
+    },
+    "mr": {
+      "name": "सेप्टोरिया लीफ स्पॉट",
+      "severity": "मध्यम",
+      "treatment": "पहिली लक्षणे दिसताच खालची बाधित पाने काढून टाका. दर ७-१० दिवसांनी बुरशीनाशके लावा.",
+      "prevention": "३ वर्षांचा पीक फेरपालट करा. माती उडू नये म्हणून मल्चिंग करा आणि झाडांना आधार द्या.",
+      "organic_treatment": "कॉपर बुरशीनाशके प्रतिबंधात्मक म्हणून वापरा. पावसानंतर पुन्हा फवारणी करणे आवश्यक आहे.",
+      "recommended_insecticide_pesticide": "मॅन्કોझेब, क्लोरोथॅलोनिल."
+    },
+    "bn": {
+      "name": "সেপ্টোরিয়া লিফ স্পট",
+      "severity": "মাঝারি",
+      "treatment": "দাগ দেখা দিলে আক্রান্ত নিচের পাতাগুলি সরিয়ে ফেলুন। ৭-১০ দিন অন্তর ছত্রাকনাশক স্প্রে করুন।",
+      "prevention": "৩ বছরের শস্য আবর্তন করুন। মাটির ছিটে আটকাতে মালচিং করুন। গাছকে খুঁটি দিয়ে মাটি থেকে ওপরে রাখুন।",
+      "organic_treatment": "কপার ছত্রাকনাশক ব্যবহার করুন। ভারী বৃষ্টির পর পুনরায় প্রয়োগ করা আবশ্যক।",
+      "recommended_insecticide_pesticide": "ম্যানকোজেব, ক্লোরোথ্যালোনিল।"
+    },
+    "gu": {
+      "name": "સેપ્ટોરિયા લીફ સ્પોટ",
+      "severity": "મધ્યમ",
+      "treatment": "ચિહ્નો દેખાય ત્યારે નીચેના પાંદડા દૂર કરો. દર 7-10 દિવસે ફૂગનાશકનો છંટકાવ કરો.",
+      "prevention": "3 વર્ષ પાકની ફેરબદલી કરો. માટી ઉડતી રોકવા મલ્ચિંગ કરો. છોડને ટેકો આપી જમીનથી ઉપર રાખો.",
+      "organic_treatment": "કોપર ફૂગનાશકનો ઉપયોગ કરો. ભારે વરસાદ પછી ફરીથી છંટકાવ કરવો જરૂરી છે.",
+      "recommended_insecticide_pesticide": "મેન્કોઝેબ, ક્લોરોથૈલોનિલ."
+    }
+  },
+  "Tomato___Target_spot": {
+    "en": {
+      "name": "Target Spot",
+      "severity": "medium",
+      "treatment": "Apply fungicides early when first symptoms appear. Continue every 10-14 days through harvest during warm, wet weather. Remove lower infected leaves to reduce spore production.",
+      "prevention": "Remove and destroy old crop residue after harvest. Space plants for good air circulation. Use drip irrigation instead of overhead watering. Mulch to prevent soil splash. Practice crop rotation with non-host plants.",
+      "organic_treatment": "Copper fungicides provide protective control when applied preventatively or at first symptoms. Apply every 7-10 days during disease-favorable conditions. Most effective when combined with sanitation practices.",
+      "recommended_insecticide_pesticide": "Chlorothalonil: broad-spectrum protectant fungicide effective against target spot. Mancozeb: alternative protectant option. Begin applications early and continue through wet periods."
+    },
+    "hi": {
+      "name": "टारगेट स्पॉट",
+      "severity": "मध्यम",
+      "treatment": "शुरुआती लक्षण दिखने पर कवकनाशी लगाएं। कटाई तक हर 10-14 दिनों में छिड़काव जारी रखें।",
+      "prevention": "कटाई के बाद फसल के अवशेषों को नष्ट करें। ऊपर से पानी देने के बजाय ड्रिप सिंचाई का उपयोग करें।",
+      "organic_treatment": "कॉपर कवकनाशी सुरक्षा प्रदान करते हैं। इसे हर 7-10 दिनों में लगाएं। स्वच्छता का विशेष ध्यान रखें।",
+      "recommended_insecticide_pesticide": "क्लोरोथैलोनिल (Chlorothalonil), मैनकोजेब (Mancozeb)।"
+    },
+    "te": {
+      "name": "టార్గెట్ స్పాట్",
+      "severity": "మధ్యస్థం",
+      "treatment": "లక్షణాలు కనిపించిన వెంటనే శిలీంధ్ర సంహారిణులను వాడండి. కోత వరకు ప్రతి 10-14 రోజులకు ఒకసారి పిచికారీ చేయండి.",
+      "prevention": "పాత పంట అవశేషాలను నాశనం చేయండి. డ్రిప్ ఇరిగేషన్ పద్ధతిని వాడండి. పంట మార్పిడి చేయండి.",
+      "organic_treatment": "కాపర్ శిలీంధ్ర సంహారిణులను నివారణగా వాడండి. తోట పరిశుభ్రత చాలా ముఖ్యం.",
+      "recommended_insecticide_pesticide": "క్లోరోథలోనిల్, మాంకోజెబ్."
+    },
+    "ta": {
+      "name": "டார்கெட் ஸ்பாட்",
+      "severity": "மிதமானது",
+      "treatment": "அறிகுறிகள் தென்படும் போது பூஞ்சைக் கொல்லிகளைப் பயன்படுத்தவும். 10-14 நாட்களுக்கு ஒருமுறை தொடரவும்.",
+      "prevention": "பழைய பயிர் கழிவுகளை அகற்றவும். சொட்டுநீர் பாசனத்தைப் பயன்படுத்தவும். பயிர் சுழற்சி முறையைப் பின்பற்றவும்.",
+      "organic_treatment": "தாமிரப் பூஞ்சைக் கொல்லிகள் பாதுகாப்பு அளிக்கும். 7-10 நாட்களுக்கு ஒருமுறை பயன்படுத்தவும்.",
+      "recommended_insecticide_pesticide": "குளோரோதலோனில், மேன்கோசெப்."
+    },
+    "kn": {
+      "name": "ಟಾರ್ಗೆಟ್ ಚುಕ್ಕೆ ರೋಗ",
+      "severity": "ಮಧ್ಯಮ",
+      "treatment": "ಶುರುವಿನಲ್ಲಿ ಲಕ್ಷಣ ಕಂಡಾಗ ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಿ. ಕೊಯ್ಲುವರೆಗೆ ಪ್ರತಿ 10-14 ದಿನಕ್ಕೊಮ್ಮೆ ಮುಂದುವರಿಸಿ.",
+      "prevention": "ಹಳೆಯ ಬೆಳೆ ತ್ಯಾಜ್ಯವನ್ನು ನಾಶಪಡಿಸಿ. ಹನಿ ನೀರಾವರಿ ಬಳಸಿ. ಮಣ್ಣು ಸಿಡಿಯದಂತೆ ಮಲ್ಚಿಂಗ್ ಮಾಡಿ.",
+      "organic_treatment": "ತಾಮ್ರದ ಶಿಲೀಂಧ್ರನಾಶಕಗಳು ನಿವಾರಣೆಗೆ ಉತ್ತಮ. ಪ್ರತಿ 7-10 ದಿನಕ್ಕೊಮ್ಮೆ ಬಳಸಿ.",
+      "recommended_insecticide_pesticide": "ಕ್ಲೋರೋಥಲೋನಿಲ್, ಮ್ಯಾಂಕೋಜೆಬ್."
+    },
+    "ml": {
+      "name": "ടാർഗെറ്റ് സ്പോട്ട്",
+      "severity": "മിതമായ",
+      "treatment": "തുടക്കത്തിൽ തന്നെ കുമിൾനാശിനി ഉപയോഗിക്കുക. വിളവെടുപ്പ് വരെ ഓരോ 10-14 ദിവസത്തിലും പ്രയോഗിക്കുക.",
+      "prevention": "പഴയ വിളാവശിഷ്ടങ്ങൾ നശിപ്പിക്കുക. തുള്ളിനന രീതി ഉപയോഗിക്കുക. കൃഷി പരിക്രമണം നടത്തുക.",
+      "organic_treatment": "കോപ്പർ കുമിൾനാശിനികൾ ഉപയോഗിക്കുക. 7-10 ദിവസത്തിലൊരിക്കൽ പ്രയോഗിക്കുന്നത് ഉചിതം.",
+      "recommended_insecticide_pesticide": "ക്ലോറോതലിലോനിൽ, മാങ്കോസെബ്."
+    },
+    "mr": {
+      "name": "टारगेट स्पॉट",
+      "severity": "मध्यम",
+      "treatment": "लक्षणे दिसताच बुरशीनाशके लावा. काढणीपर्यंत दर १०-१४ दिवसांनी फवारणी सुरू ठेवा.",
+      "prevention": "काढणीनंतर जुने पिकांचे अवशेष नष्ट करा. ठिबक सिंचनाचा वापर करा. पिकांची फेरपालट करा.",
+      "organic_treatment": "कॉपर बुरशीनाशके दर ७-१० दिवसांनी लावा. स्वच्छतेच्या सवयी पाळणे महत्त्वाचे आहे.",
+      "recommended_insecticide_pesticide": "क्लोरोथॅलोनिल, मॅन्કોझेब."
+    },
+    "bn": {
+      "name": "টার্গেট স্পট",
+      "severity": "মাঝারি",
+      "treatment": "লক্ষণ দেখা মাত্র ছত্রাকনাশক প্রয়োগ করুন। ফসল তোলা পর্যন্ত ১০-১৪ দিন অন্তর স্প্রে করুন।",
+      "prevention": "পুরানো শস্যের অবশিষ্টাংশ পুড়িয়ে ফেলুন। ড্রিপ সেচ ব্যবহার করুন। শস্য আবর্তন করুন।",
+      "organic_treatment": "কপার ছত্রাকনাশক ৭-১০ দিন অন্তর ব্যবহার করুন। পরিচ্ছন্ন চাষ পদ্ধতি মেনে চলুন।",
+      "recommended_insecticide_pesticide": "ক্লোরোথ্যালোনিল, ম্যানকোজেব।"
+    },
+    "gu": {
+      "name": "ટાર્ગેટ સ્પોટ",
+      "severity": "મધ્યમ",
+      "treatment": "ચિહ્નો દેખાય ત્યારે ફૂગનાશક લગાવો. લણણી સુધી દર 10-14 દિવસે છંટકાવ કરો.",
+      "prevention": "જૂના પાકના અવશેષોનો નાશ કરો. ટપક સિંચાઈ પદ્ધતિ અપનાવો. પાકની ફેરબદલી કરો.",
+      "organic_treatment": "કોપર ફૂગનાશકનો ઉપયોગ કરો. દર 7-10 દિવસે છંટકાવ કરવો અસરકારક છે.",
+      "recommended_insecticide_pesticide": "ક્લોરોથૈલોનિલ, મેન્કોઝેબ."
+    }
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "en": {
+      "name": "Tomato Yellow Leaf Curl Virus",
+      "severity": "very high",
+      "treatment": "Remove and destroy infected plants immediately to prevent virus spread. Control whitefly populations aggressively using insecticides. No cure exists once plants are infected. Focus on protecting healthy plants through vector control.",
+      "prevention": "Implement intensive whitefly management program starting before transplanting. Use reflective mulches to repel whiteflies. Plant resistant or tolerant varieties when available. Remove weeds that harbor whiteflies. Use insect screens in greenhouses.",
+      "organic_treatment": "Neem oil helps suppress whitefly populations when applied regularly. Yellow sticky traps monitor and reduce adult whiteflies. Organic management requires intensive monitoring and multiple tactics. Less effective than synthetic insecticides.",
+      "recommended_insecticide_pesticide": "Imidacloprid: systemic neonicotinoid for whitefly control, apply as soil drench at transplanting. Thiamethoxam: alternative systemic option. Rotate with other modes of action to prevent whitefly resistance."
+    },
+    "hi": {
+      "name": "टमाटर पीला पत्ता मरोड़ वायरस",
+      "severity": "अत्यंत उच्च",
+      "treatment": "संक्रमित पौधों को तुरंत नष्ट करें। सफेद मक्खी (Whitefly) को नियंत्रित करना ही एकमात्र उपाय है। इसका कोई इलाज नहीं है।",
+      "prevention": "चमकदार मल्चिंग का उपयोग करें। सफेद मक्खियों को पालने वाले खरपतवारों को हटा दें। जालीदार पर्दों का उपयोग करें।",
+      "organic_treatment": "नीम के तेल का नियमित छिड़काव और पीले चिपचिपे जाल (Yellow sticky traps) का उपयोग करें।",
+      "recommended_insecticide_pesticide": "इमिडाक्लोप्रिड (Imidacloprid), थियामेथोक्सम (Thiamethoxam)।"
+    },
+    "te": {
+      "name": "టమోటా ఆకు ముడత వైరస్",
+      "severity": "అత్యంత అధికం",
+      "treatment": "వ్యాధి సోకిన మొక్కలను వెంటనే తొలగించి కాల్చివేయండి. తెల్ల దోమను (Whitefly) నివారించడం ద్వారా మాత్రమే వ్యాప్తిని ఆపవచ్చు.",
+      "prevention": "తెల్ల దోమను పారద్రోలడానికి మెరిసే మల్చింగ్ పేపర్లు వాడండి. తోట చుట్టూ కలుపును తొలగించండి.",
+      "organic_treatment": "వేప నూనె మరియు ఎల్లో స్టిక్కీ ట్రాప్స్ (Yellow sticky traps) వాడటం ద్వారా తెల్ల దోమను అదుపు చేయవచ్చు.",
+      "recommended_insecticide_pesticide": "ఇమిడాక్లోప్రిడ్, థియామెథోక్సామ్."
+    },
+    "ta": {
+      "name": "தக்காளி இலை சுருள் வைரஸ்",
+      "severity": "மிகவும் அதிகம்",
+      "treatment": "பாதிக்கப்பட்ட செடிகளை உடனே அழித்துவிடவும். வெள்ளை ஈக்களைக் கட்டுப்படுத்துவதே இதற்கான ஒரே தீர்வு.",
+      "prevention": "வெள்ளை ஈக்களை விரட்ட ஒளிரும் தழைக்கூளம் (Reflective mulch) பயன்படுத்தவும். எதிர்ப்புத் திறன் கொண்ட ரகங்களை நடவும்.",
+      "organic_treatment": "வேம்பு எண்ணெய் மற்றும் மஞ்சள் ஒட்டும் பொறிகள் (Yellow sticky traps) மூலம் வெள்ளை ஈக்களைக் கட்டுப்படுத்தலாம்.",
+      "recommended_insecticide_pesticide": "இமிடாகுளோபிரிட், தியாமெத்தாக்சம்."
+    },
+    "kn": {
+      "name": "ಟೊಮೆಟೊ ಹಳದಿ ಎಲೆ ಮುರುಟು ರೋಗ",
+      "severity": "ಅತ್ಯಂತ ಹೆಚ್ಚು",
+      "treatment": "ಸೋಂಕಿತ ಗಿಡಗಳನ್ನು ತಕ್ಷಣ ನಾಶಮಾಡಿ. ಬಿಳಿ ನೊಣಗಳನ್ನು (Whitefly) ಕಟ್ಟುನಿಟ್ಟಾಗಿ ನಿಯಂತ್ರಿಸುವುದೇ ಏಕೈಕ ದಾರಿ.",
+      "prevention": "ಬಿಳಿ ನೊಣಗಳನ್ನು ಓಡಿಸಲು ಪ್ರತಿಫಲಿತ ಮಲ್ಚಿಂಗ್ ಬಳಸಿ. ಹೊಲದ ಸುತ್ತಲಿನ ಕಳೆಗಳನ್ನು ತೆಗೆದುಹಾಕಿ.",
+      "organic_treatment": "ಬೇವಿನ ಎಣ್ಣೆ ಮತ್ತು ಹಳದಿ ಜಿಗುಟು ಬಲೆಗಳನ್ನು (Yellow sticky traps) ಬಳಸಿ ಬಿಳಿ ನೊಣ ನಿಯಂತ್ರಿಸಿ.",
+      "recommended_insecticide_pesticide": "ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್, ಥಿಯಾಮೆಥೋಕ್ಸಾಮ್."
+    },
+    "ml": {
+      "name": "തക്കാളി ഇല മഞ്ഞളിപ്പും ചുരുളലും",
+      "severity": "അതിശക്തം",
+      "treatment": "രോഗം ബാധിച്ച ചെടികൾ നശിപ്പിക്കുക. വെള്ളീച്ചയെ (Whitefly) നിയന്ത്രിക്കുകയാണ് പ്രധാന മാർഗ്ഗം. ഇതിന് ചികിത്സയില്ല.",
+      "prevention": "വെള്ളീച്ചയെ തടയാൻ മൾച്ചിംഗ് ഉപയോഗിക്കുക. കളകൾ നീക്കം ചെയ്യുക. ഗ്രീൻഹൗസിൽ വലകൾ ഉപയോഗിക്കുക.",
+      "organic_treatment": "വേപ്പെണ്ണയും യെല്ലോ സ്റ്റിക്കി ട്രാപ്പുകളും (Yellow sticky traps) ഉപയോഗിക്കുക.",
+      "recommended_insecticide_pesticide": "ഇമിഡാക്ലോപ്രിഡ്, തയാമെത്തോക്സാം."
+    },
+    "mr": {
+      "name": "टोमॅटो पिवळा लीफ कर्ल व्हायरस",
+      "severity": "अत्यंत उच्च",
+      "treatment": "बाधित झाडे त्वरित नष्ट करा. पांढरी माशी (Whitefly) प्रभावीपणे नियंत्रित करा. झाडांना एकदा संसर्ग झाला की उपचार नसतो.",
+      "prevention": "पांढरी माशी घालवण्यासाठी रिफ्लेक्टिव्ह मल्चिंग वापरा. बागेतील तण काढून टाका. कीटक प्रतिबंधक जाळी वापरा.",
+      "organic_treatment": "कडुनिंबाचे तेल आणि पिवळ्या चिकट सापळ्यांचा (Yellow sticky traps) वापर करा.",
+      "recommended_insecticide_pesticide": "इमिडाक्लोप्रिड, थायामेथोक्साम."
+    },
+    "bn": {
+      "name": "টমেটো ইয়েলো লিফ কার্ল ভাইরাস",
+      "severity": "অত্যন্ত উচ্চ",
+      "treatment": "আক্রান্ত গাছ দ্রুত ধ্বংস করুন। সাদা মাছি (Whitefly) দমন করাই একমাত্র উপায়। এই ভাইরাসের কোনো নিরাময় নেই।",
+      "prevention": "প্রতিফলিত মালচিং ব্যবহার করুন। সাদা মাছিদের আশ্রয়স্থল আগাছা পরিষ্কার করুন। প্রতিরোধী জাত চাষ করুন।",
+      "organic_treatment": "নিম তেল এবং হলুদ আঠালো ফাঁদ (Yellow sticky traps) ব্যবহার করে সাদা মাছি নিয়ন্ত্রণ করুন।",
+      "recommended_insecticide_pesticide": "ইমিডাক্লোপ্রিড, থায়ামেথোক্সাম।"
+    },
+    "gu": {
+      "name": "ટામેટા પીળા પાનનો કોકડવાટ",
+      "severity": "ખૂબ જ ઉચ્ચ",
+      "treatment": "ચેપગ્રસ્ત છોડને તરત જ નાશ કરો. સફેદ માખી (Whitefly) પર નિયંત્રણ મેળવવું અનિવાર્ય છે.",
+      "prevention": "સફેદ માખીને દૂર રાખવા રિફ્લેક્ટિવ મલ્ચિંગ વાપરો. નીંદણ દૂર કરો. પ્રતિકારક જાતો વાવો.",
+      "organic_treatment": "લીમડાનું તેલ અને પીળા ચીકણા ટ્રેપ્સ (Yellow sticky traps) વાપરો.",
+      "recommended_insecticide_pesticide": "ઇમિડાક્લોપ્રિડ, થામેથોક્સમ."
+    }
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "en": {
+      "name": "Tomato Mosaic Virus",
+      "severity": "high",
+      "treatment": "Remove infected plants immediately and destroy them. No chemical cure exists. Disinfect all tools, stakes, and equipment with 10% bleach solution. Avoid touching healthy plants after handling infected ones.",
+      "prevention": "Disinfect tools regularly with alcohol or bleach between plants. Avoid handling plants when leaves are wet. Wash hands thoroughly before working with tomatoes, especially after smoking. Use resistant varieties when available. Remove weeds in nightshade family.",
+      "organic_treatment": "No effective organic cure exists for viral diseases. Focus on strict sanitation and prevention. Milk spray (1:9 ratio) may inactivate some virus on tools but won't cure infected plants.",
+      "recommended_insecticide_pesticide": "No chemical control available for viral diseases. Disease management relies entirely on sanitation, resistance, and preventing mechanical transmission."
+    },
+    "hi": {
+      "name": "टोमॅटो मोज़ेक वायरस",
+      "severity": "उच्च",
+      "treatment": "संक्रमित पौधों को हटा दें। औजारों और खंभों को 10% ब्लीच के घोल से कीटाणुरहित करें। संक्रमित पौधे को छूने के बाद स्वस्थ पौधे को न छुएं।",
+      "prevention": "धूम्रपान करने के बाद या तंबाकू छूने के बाद हाथ अच्छी तरह धोएं। गीले पत्तों को न छुएं। औजारों को साफ रखें।",
+      "organic_treatment": "दूध का स्प्रे (1:9 अनुपात) औजारों पर वायरस को निष्क्रिय कर सकता है, लेकिन यह पौधों का इलाज नहीं है।",
+      "recommended_insecticide_pesticide": "कोई रासायनिक उपचार उपलब्ध नहीं है। स्वच्छता ही बचाव है।"
+    },
+    "te": {
+      "name": "టమోటా మొజాయిక్ వైరస్",
+      "severity": "అధిక",
+      "treatment": "సోకిన మొక్కలను తొలగించండి. పనిముట్లు మరియు పరికరాలను 10% బ్లీచ్ ద్రావణంతో శుభ్రం చేయండి.",
+      "prevention": "పొగాకు ఉత్పత్తులు లేదా ధూమపానం చేసిన తర్వాత చేతులను శుభ్రంగా కడుక్కోండి. పనిముట్లను ఎప్పటికప్పుడు ఆల్కహాల్‌తో శుభ్రం చేయండి.",
+      "organic_treatment": "వైరల్ వ్యాధులకు సేంద్రీయ చికిత్స లేదు. పరిశుభ్రతే ఏకైక మార్గం.",
+      "recommended_insecticide_pesticide": "ఏ విధమైన రసాయన చికిత్స అందుబాటులో లేదు."
+    },
+    "ta": {
+      "name": "தக்காளி மொசைக் வைரஸ்",
+      "severity": "அதிகம்",
+      "treatment": "பாதிக்கப்பட்ட செடிகளை அகற்றவும். கருவிகளை 10% பிளீச் கரைசலில் சுத்தம் செய்யவும். கைகளைச் சுத்தமாகக் கழுவவும்.",
+      "prevention": "தக்காளி செடிகளுக்கு இடையே வேலை செய்யும்போது கருவிகளைச் சுத்தப்படுத்தவும். புகைபிடித்த பிறகு செடிகளைத் தொடக்கூடாது.",
+      "organic_treatment": "பால் தெளிப்பு (1:9 விகிதம்) கருவிகளில் உள்ள வைரஸை அழிக்கக்கூடும். செடிகளுக்கு மருந்தில்லை.",
+      "recommended_insecticide_pesticide": "வைரஸ் நோய்களுக்கு வேதியியல் மருந்து இல்லை."
+    },
+    "kn": {
+      "name": "ಟೊಮೆಟೊ ಮೊಸಾಯಿಕ್ ವೈರಸ್",
+      "severity": "ಹೆಚ್ಚು",
+      "treatment": "ಸೋಂಕಿತ ಗಿಡಗಳನ್ನು ನಾಶಮಾಡಿ. ಸಲಕರಣೆಗಳನ್ನು 10% ಬ್ಲೀಚ್ ದ್ರಾವಣದಿಂದ ಸ್ವಚ್ಛಗೊಳಿಸಿ.",
+      "prevention": "ಸಿಗರೇಟ್ ಅಥವಾ ತಂಬಾಕು ಬಳಸಿದ ನಂತರ ಕೈಗಳನ್ನು ಚೆನ್ನಾಗಿ ತೊಳೆಯಿರಿ. ಒದ್ದೆ ಎಲೆಗಳನ್ನು ಮುಟ್ಟಬೇಡಿ.",
+      "organic_treatment": "ಸಾವಯವ ಚಿಕಿತ್ಸೆ ಲಭ್ಯವಿಲ್ಲ. ಕಟ್ಟುನಿಟ್ಟಾದ ನೈರ್ಮಲ್ಯ ಮತ್ತು ತಡೆಗಟ್ಟುವಿಕೆಯೇ ಮುಖ್ಯ.",
+      "recommended_insecticide_pesticide": "ಯಾವುದೇ ರಾಸಾಯನಿಕ ಚಿಕಿತ್ಸೆ ಲಭ್ಯವಿಲ್ಲ."
+    },
+    "ml": {
+      "name": "തക്കാളി മൊസൈക് വൈറസ്",
+      "severity": "ഉയർന്നത്",
+      "treatment": "രോഗം ബാധിച്ച ചെടികൾ നശിപ്പിക്കുക. ഉപകരണങ്ങൾ 10% ബ്ലീച്ച് ലായനി ഉപയോഗിച്ച് അണുവിമുക്തമാക്കുക.",
+      "prevention": "പുകയില ഉൽപ്പന്നങ്ങൾ ഉപയോഗിച്ച ശേഷം കൈകൾ നന്നായി കഴുകുക. നനഞ്ഞ ഇലകളിൽ സ്പർശിക്കരുത്. പ്രതിരോധ ശേഷിയുള്ള ഇനങ്ങൾ നടുക.",
+      "organic_treatment": "വൈറസ് രോഗങ്ങൾക്ക് ഫലപ്രദമായ ജൈവ ചികിത്സയില്ല. പ്രതിരോധത്തിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കുക.",
+      "recommended_insecticide_pesticide": "രാസചികിത്സ ലഭ്യമല്ല."
+    },
+    "mr": {
+      "name": "टोमॅटो मोझॅक व्हायरस",
+      "severity": "उच्च",
+      "treatment": "बाधित झाडे काढून टाका. अवजारे आणि साधने १०% ब्लीच द्रावणाने निर्जंतुक करा. झाडांना हाताळल्यानंतर हात धुवा.",
+      "prevention": "तंबाखू किंवा धूम्रपान केल्यानंतर झाडांना स्पर्श करण्यापूर्वी हात स्वच्छ धुवा. अवजारे अल्कोहोलने स्वच्छ करा.",
+      "organic_treatment": "दूध फवारणी (१:९ प्रमाण) साधनावरील व्हायरस नष्ट करू शकते, पण झाडाचा आजार बरा करत नाही.",
+      "recommended_insecticide_pesticide": "रासायनिक औषधे उपलब्ध नाहीत. स्वच्छता हाच उपाय आहे."
+    },
+    "bn": {
+      "name": "টমেটো মোজাইক ভাইরাস",
+      "severity": "উচ্চ",
+      "treatment": "আক্রান্ত গাছ দ্রুত সরিয়ে ফেলুন। সমস্ত সরঞ্জাম ১০% ব্লিচ দ্রবণ দিয়ে জীবাণুমুক্ত করুন। হাত পরিষ্কার করে গাছে হাত দিন।",
+      "prevention": "ধূমপান বা তামাক ব্যবহারের পর হাত ভালো করে সাবান দিয়ে ধুয়ে নিন। ভেজা অবস্থায় গাছে হাত দেবেন না।",
+      "organic_treatment": "ভাইরাস জনিত রোগের কোনো কার্যকর জৈব নিরাময় নেই। সরঞ্জাম পরিষ্কারে দুধের স্প্রে ব্যবহার করা যেতে পারে।",
+      "recommended_insecticide_pesticide": "কোনো রাসায়নিক প্রতিকার নেই। পরিচ্ছন্ন চাষই প্রধান উপায়।"
+    },
+    "gu": {
+      "name": "ટામેટા મોઝેક વાયરસ",
+      "severity": "ઉચ્ચ",
+      "treatment": "ચેપગ્રસ્ત છોડને નાશ કરો. ઓજારોને 10% બ્લીચથી જંતુમુક્ત કરો. છોડને અડ્યા પછી હાથ બરાબર સાફ કરો.",
+      "prevention": "ધૂમ્રપાન કર્યા પછી ટામેટાના છોડને અડશો નહીં. ઓજારોને નિયમિત સાફ રાખો. પ્રતિકારક જાતો વાવો.",
+      "organic_treatment": "વાયરસ રોગો માટે કોઈ અસરકારક ઓર્ગેનિક સારવાર નથી. સ્વચ્છતા પર ધ્યાન આપો.",
+      "recommended_insecticide_pesticide": "કોઈ રાસાયણિક સારવાર ઉપલબ્ધ નથી."
+    }
+  },
+  "Tomato___healthy": {
+    "en": {
+      "name": "Healthy Crop",
+      "severity": "none",
+      "treatment": "No treatment required. Scout plants regularly throughout growing season.",
+      "prevention": "Follow good agricultural practices including proper spacing, staking, and mulching. Water consistently using drip irrigation. Monitor weekly for disease and pest issues. Maintain balanced fertility. Remove suckers and lower leaves for air circulation.",
+      "organic_treatment": "Not applicable for healthy plants.",
+      "recommended_insecticide_pesticide": "Not required. Focus on preventative cultural practices."
+    },
+    "hi": {
+      "name": "स्वस्थ फसल",
+      "severity": "कोई नहीं",
+      "treatment": "किसी उपचार की आवश्यकता नहीं है। नियमित निगरानी रखें।",
+      "prevention": "हवा के संचार के लिए निचली पत्तियों और 'सकर्स' (Suckers) को हटा दें। संतुलित खाद और ड्रिप सिंचाई का उपयोग करें।",
+      "organic_treatment": "लागू नहीं।",
+      "recommended_insecticide_pesticide": "आवश्यक नहीं।"
+    },
+    "te": {
+      "name": "ఆరోగ్యకరమైన పంట",
+      "severity": "ఏదీ లేదు",
+      "treatment": "చికిత్స అవసరం లేదు. పంటను క్రమం తప్పకుండా పర్యవేక్షించండి.",
+      "prevention": "మొక్కల మధ్య దూరం పాటించండి. డ్రిప్ ఇరిగేషన్ వాడండి. గాలి ప్రసరణ కోసం కింది ఆకులను తొలగించండి.",
+      "organic_treatment": "అవసరం లేదు.",
+      "recommended_insecticide_pesticide": "అవసరం లేదు."
+    },
+    "ta": {
+      "name": "ஆரோக்கியமான பயிர்",
+      "severity": "இல்லை",
+      "treatment": "சிகிச்சை தேவையில்லை. பயிரைத் தொடர்ந்து கண்காணிக்கவும்.",
+      "prevention": "சரியான இடைவெளியில் நடவும். காற்றோட்டத்திற்காகக் கீழ் இலைகளை அகற்றவும். சொட்டுநீர் பாசனம் செய்யவும்.",
+      "organic_treatment": "தேவையில்லை.",
+      "recommended_insecticide_pesticide": "தேவையில்லை."
+    },
+    "kn": {
+      "name": "ಆರೋಗ್ಯಕರ ಬೆಳೆ",
+      "severity": "ಯಾವುದೂ ಇಲ್ಲ",
+      "treatment": "ಯಾವುದೇ ಚಿಕಿತ್ಸೆ ಅಗತ್ಯವಿಲ್ಲ. ನಿಯಮಿತವಾಗಿ ಗಮನಿಸುತ್ತಿರಿ.",
+      "prevention": "ಸರಿಯಾದ ಅಂತರ ಮತ್ತು ಮಲ್ಚಿಂಗ್ ಬಳಸಿ. ಗಾಳಿಯಾಡಲು ಕೆಳಗಿನ ಎಲೆಗಳನ್ನು ತೆಗೆಯಿರಿ.",
+      "organic_treatment": "ಅನ್ವಯಿಸುವುದಿಲ್ಲ.",
+      "recommended_insecticide_pesticide": "ಅಗತ್ಯವಿಲ್ಲ."
+    },
+    "ml": {
+      "name": "ആരോഗ്യകരമായ വിള",
+      "severity": "ഒന്നുമില്ല",
+      "treatment": "ചികിത്സ ആവശ്യമില്ല. പതിവായി നിരീക്ഷിക്കുക.",
+      "prevention": "ചെടികൾക്കിടയിൽ അകലം പാലിക്കുക. വായുസഞ്ചാരത്തിനായി താഴത്തെ ഇലകൾ നീക്കം ചെയ്യുക.",
+      "organic_treatment": "ബാധകമല്ല.",
+      "recommended_insecticide_pesticide": "ആവശ്യമില്ല."
+    },
+    "mr": {
+      "name": "निरोगी पीक",
+      "severity": "काहीही नाही",
+      "treatment": "उपचारांची गरज नाही. पिकाची नियमित पाहणी करा.",
+      "prevention": "झाडांना योग्य आधार द्या आणि मल्चिंग करा. हवा खेळती राहण्यासाठी फांद्यांची छटणी करा.",
+      "organic_treatment": "गरज नाही.",
+      "recommended_insecticide_pesticide": "गरज नाही."
+    },
+    "bn": {
+      "name": "সুস্থ ফসল",
+      "severity": "কিছু না",
+      "treatment": "কোন চিকিৎসার প্রয়োজন নেই। নিয়মিত পর্যবেক্ষণ করুন।",
+      "prevention": "সঠিক দূরত্বে গাছ লাগান ও খুঁটি দিন। বাতাস চলাচলের জন্য নিচের পাতা ছেঁটে দিন। ড্রিপ সেচ দিন।",
+      "organic_treatment": "প্রয়োজন নেই।",
+      "recommended_insecticide_pesticide": "প্রয়োজন নেই।"
+    },
+    "gu": {
+      "name": "સ્વસ્થ પાક",
+      "severity": "કંઈ નહીં",
+      "treatment": "કોઈ સારવારની જરૂર નથી. નિયમિત તપાસ ચાલુ રાખો.",
+      "prevention": "યોગ્ય અંતર અને મલ્ચિંગ જાળવો. હવાની અવરજવર માટે નીચેના પાંદડા દૂર કરો.",
+      "organic_treatment": "લાગુ પડતું નથી.",
+      "recommended_insecticide_pesticide": "જરૂર નથી."
+    }
+  }
+
+
+
+
+}

@@ -1,0 +1,15 @@
+flask
+python-dotenv
+openai
+deep-translator
+textblob
+flask-cors
+gTTS
+sqlalchemy
+flask-sqlalchemy
+deepgram-sdk
+requests
+openai-whisper
+transformers
+torch
+sentencepiece

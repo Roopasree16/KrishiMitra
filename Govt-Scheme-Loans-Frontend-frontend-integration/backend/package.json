@@ -1,0 +1,21 @@
+{
+  "name": "govt-scheme-loan-advisory",
+  "version": "1.0.0",
+  "description": "Rule-based advisory system for government schemes and loan options for farmers",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "node src/server.js"
+  },
+  "keywords": ["government-schemes", "farmer-advisory", "loan-eligibility", "agriculture"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
